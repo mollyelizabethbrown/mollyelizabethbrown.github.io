@@ -11,7 +11,7 @@
   "institution": "University of Maryland",
   "department": "Department of Geographical Sciences",
   "tagline": "Earth Observation · Climate · Food Security",
-  "statement": "Understanding environmental change. Advancing science for human well-being.",
+  "statement": "",
   "summary": "Molly E. Brown's research integrates satellite observations, environmental information, socioeconomic data, and interdisciplinary analysis to understand climate-related risks to agriculture, food security, and human well-being. Her work connects Earth science with real-world applications and decision-making.",
   "biography": [
     "Molly E. Brown is a Research Professor in the Department of Geographical Sciences at the University of Maryland, College Park. Her research connects satellite observations of the land surface with the economic and social processes that determine whether people have enough to eat — from vegetation dynamics and rainfall across semi-arid Africa to local grain prices, child nutrition and the decisions of humanitarian and agricultural organizations.",
@@ -24,19 +24,83 @@
     "Equally central is the question of use: who needs Earth observations, when, and in what form. Through NASA's mission applications programs, the Carbon Monitoring System and long collaboration with famine early warning analysts, she has studied how scientific data products move into operational decisions, and what makes that transfer succeed."
   ],
   "chain": [
-    { "step": "Satellite observations", "text": "Long-term records of vegetation, rainfall, soil moisture, temperature, elevation and land cover." },
-    { "step": "Environmental conditions", "text": "Growing-season onset and length, drought, phenology, water availability, cropland extent." },
-    { "step": "Agricultural & socioeconomic consequences", "text": "Crop production, local food prices, market integration, livelihoods and trade." },
-    { "step": "Human vulnerability", "text": "Food access, diet diversity, child stunting and acute malnutrition, health and fertility." },
-    { "step": "Decision support", "text": "Famine early warning, anticipatory action, index insurance, mission applications and policy." }
+    {
+      "step": "Satellite observations",
+      "text": "Long-term records of vegetation, rainfall, soil moisture, temperature, elevation and land cover."
+    },
+    {
+      "step": "Environmental conditions",
+      "text": "Growing-season onset and length, drought, phenology, water availability, cropland extent."
+    },
+    {
+      "step": "Agricultural & socioeconomic consequences",
+      "text": "Crop production, local food prices, market integration, livelihoods and trade."
+    },
+    {
+      "step": "Human vulnerability",
+      "text": "Food access, diet diversity, child stunting and acute malnutrition, health and fertility."
+    },
+    {
+      "step": "Decision support",
+      "text": "Famine early warning, anticipatory action, index insurance, mission applications and policy."
+    }
   ],
   "contributions": [
-    { "title": "Long-term vegetation records", "text": "Helped produce and distribute the GIMMS 8-km AVHRR NDVI record and evaluated its consistency with MODIS, SPOT-Vegetation, SeaWiFS and Landsat — a foundation for decades of vegetation-change research.", "cvPages": [2, 13] },
-    { "title": "Satellite data in famine early warning", "text": "For more than a decade linked NASA vegetation and rainfall observations to USAID's Famine Early Warning Systems Network, and synthesised the field in Famine Early Warning Systems and Remote Sensing Data (2008).", "cvPages": [1, 2, 14] },
-    { "title": "Environment and food prices", "text": "Developed spatially explicit price models and food price indices that tie satellite-observed growing conditions and international shocks to local food prices, summarised in Food Security, Food Prices and Climate Variability (2014).", "cvPages": [8, 10, 13, 14] },
-    { "title": "Mission applications programs", "text": "Led the pre-launch applications programs for NASA's SMAP and ICESat-2 missions, including Early Adopter programs later recognised with a 2024 NASA Honor Award.", "cvPages": [2, 48, 52] },
-    { "title": "Climate, conflict and child health", "text": "Joined satellite climate records with household surveys to study drought, heat and conflict as drivers of child stunting, diet diversity and acute malnutrition.", "cvPages": [3, 5, 6, 9] },
-    { "title": "Climate change and the food system", "text": "Led the USDA technical report Climate Change, Global Food Security, and the U.S. Food System for the US National Climate Assessment.", "cvPages": [2, 8, 57] }
+    {
+      "title": "Long-term vegetation records",
+      "text": "Helped produce and distribute the GIMMS 8-km AVHRR NDVI record and evaluated its consistency with MODIS, SPOT-Vegetation, SeaWiFS and Landsat — a foundation for decades of vegetation-change research.",
+      "cvPages": [
+        2,
+        13
+      ]
+    },
+    {
+      "title": "Satellite data in famine early warning",
+      "text": "For more than a decade linked NASA vegetation and rainfall observations to USAID's Famine Early Warning Systems Network, and synthesised the field in Famine Early Warning Systems and Remote Sensing Data (2008).",
+      "cvPages": [
+        1,
+        2,
+        14
+      ]
+    },
+    {
+      "title": "Environment and food prices",
+      "text": "Developed spatially explicit price models and food price indices that tie satellite-observed growing conditions and international shocks to local food prices, summarised in Food Security, Food Prices and Climate Variability (2014).",
+      "cvPages": [
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "title": "Mission applications programs",
+      "text": "Led the pre-launch applications programs for NASA's SMAP and ICESat-2 missions, including Early Adopter programs later recognised with a 2024 NASA Honor Award.",
+      "cvPages": [
+        2,
+        48,
+        52
+      ]
+    },
+    {
+      "title": "Climate, conflict and child health",
+      "text": "Joined satellite climate records with household surveys to study drought, heat and conflict as drivers of child stunting, diet diversity and acute malnutrition.",
+      "cvPages": [
+        3,
+        5,
+        6,
+        9
+      ]
+    },
+    {
+      "title": "Climate change and the food system",
+      "text": "Led the USDA technical report Climate Change, Global Food Security, and the U.S. Food System for the US National Climate Assessment.",
+      "cvPages": [
+        2,
+        8,
+        57
+      ]
+    }
   ],
   "verification": {
     "status": "needs-review",
@@ -46,16 +110,38 @@
     ]
   },
   "education": [
-    { "degree": "Ph.D. in Geography", "institution": "University of Maryland, College Park", "year": 2002, "detail": "Area of specialization: Remote Sensing, Economics and Development. Dissertation: The Impact of Biophysical Conditions on Food Security in Three Sahelian Countries. Advisor: Stephen D. Prince.", "cvPage": 1 },
-    { "degree": "M.A. in Geography", "institution": "University of Maryland, College Park", "year": 1998, "detail": null, "cvPage": 1 },
-    { "degree": "B.S. in Biology and Environmental Sciences", "institution": "Tufts University, Medford, Massachusetts", "year": 1991, "detail": null, "cvPage": 1 }
+    {
+      "degree": "Ph.D. in Geography",
+      "institution": "University of Maryland, College Park",
+      "year": 2002,
+      "detail": "Area of specialization: Remote Sensing, Economics and Development. Dissertation: The Impact of Biophysical Conditions on Food Security in Three Sahelian Countries. Advisor: Stephen D. Prince.",
+      "cvPage": 1
+    },
+    {
+      "degree": "M.A. in Geography",
+      "institution": "University of Maryland, College Park",
+      "year": 1998,
+      "detail": null,
+      "cvPage": 1
+    },
+    {
+      "degree": "B.S. in Biology and Environmental Sciences",
+      "institution": "Tufts University, Medford, Massachusetts",
+      "year": 1991,
+      "detail": null,
+      "cvPage": 1
+    }
   ],
   "appointments": [
     {
       "id": "umd-research-professor",
       "title": "Research Professor",
       "organization": "Department of Geographical Sciences, University of Maryland, College Park",
-      "start": "2015-02", "end": null, "current": true, "featured": true, "category": "academic",
+      "start": "2015-02",
+      "end": null,
+      "current": true,
+      "featured": true,
+      "category": "academic",
       "summary": "Global change and sustainable development research using socioeconomic and biophysical datasets; international research on agriculture, food security and the impacts of climate change.",
       "cvPage": 1
     },
@@ -63,16 +149,29 @@
       "id": "6th-grain-cso",
       "title": "Chief Science Officer",
       "organization": "6th Grain Corporation, Bethesda, Maryland",
-      "start": "2015-02", "end": null, "current": true, "featured": true, "category": "industry",
+      "start": "2015-02",
+      "end": null,
+      "current": true,
+      "featured": true,
+      "category": "industry",
       "summary": "Guides investments in geospatial information within a mobile digital platform for farmers across the US, Eastern Europe, Brazil, Africa, the Middle East and South Asia; develops remote sensing data products; assists with survey development for farmer registries.",
       "cvPage": 1,
-      "verification": { "status": "needs-review", "issues": ["CV lists as current (2/15 – present). Confirm the appointment is still current and that the company name/website should be linked."] }
+      "verification": {
+        "status": "needs-review",
+        "issues": [
+          "CV lists as current (2/15 – present). Confirm the appointment is still current and that the company name/website should be linked."
+        ]
+      }
     },
     {
       "id": "greenwich-professor",
       "title": "Professor of Food-based Strategies for Nutrition (part-time)",
       "organization": "Natural Resources Institute, Faculty of Engineering and Sciences, University of Greenwich",
-      "start": "2020-06", "end": "2022-08", "current": false, "featured": false, "category": "academic",
+      "start": "2020-06",
+      "end": "2022-08",
+      "current": false,
+      "featured": false,
+      "category": "academic",
       "summary": "Engaged with the Food and Nutrition Security Initiative (FaNSI) to bring satellite remote sensing and environmental variables into research on food and nutrition security.",
       "cvPage": 1
     },
@@ -80,7 +179,11 @@
       "id": "nasa-gsfc-civil-servant",
       "title": "Research Scientist (Civil Servant)",
       "organization": "NASA Goddard Space Flight Center",
-      "start": "2008-10", "end": "2015-01", "current": false, "featured": true, "category": "nasa",
+      "start": "2008-10",
+      "end": "2015-01",
+      "current": false,
+      "featured": true,
+      "category": "nasa",
       "summary": "Vegetation index specialist for long-term vegetation data records; research on how organizations use remote sensing in decisions; liaison to USAID FEWS NET; lead author of the USDA National Climate Assessment technical report on food security; lead of pre-launch applications programs for SMAP and ICESat-2.",
       "cvPage": 1
     },
@@ -88,7 +191,11 @@
       "id": "ssai-senior-scientist",
       "title": "Senior Research Scientist",
       "organization": "Science Systems and Applications, Inc. at NASA Goddard Space Flight Center",
-      "start": "2002-03", "end": "2008-09", "current": false, "featured": true, "category": "nasa",
+      "start": "2002-03",
+      "end": "2008-09",
+      "current": false,
+      "featured": true,
+      "category": "nasa",
       "summary": "Evaluation of integrated remotely sensed variables for climate and environmental change studies in semi-arid regions; principal investigator of a project ensuring FEWS NET's access to and use of real-time and projected vegetation and rainfall data for Africa, Central America, Afghanistan and Haiti; advisor to NASA's International Sustainable Development initiative.",
       "cvPage": 2
     },
@@ -96,16 +203,29 @@
       "id": "umd-faculty-research-assistant",
       "title": "Faculty Research Assistant",
       "organization": "University of Maryland, with the NASA GSFC Global Inventory Modeling and Mapping Studies (GIMMS) group",
-      "start": "1999-01", "end": "2002-03", "current": false, "featured": false, "category": "academic",
+      "start": "1999-01",
+      "end": "2002-03",
+      "current": false,
+      "featured": false,
+      "category": "academic",
       "summary": "Member of the GIMMS group producing a consistent 24-year AVHRR vegetation record; research on grain prices and vegetation dynamics in the West African Sahel.",
       "cvPage": 2,
-      "verification": { "status": "needs-review", "issues": ["CV expands GIMMS as 'Global Mapping and Modeling Systems'; the group's usual name is 'Global Inventory Modeling and Mapping Studies'. Site uses the usual name — PI to confirm."] }
+      "verification": {
+        "status": "needs-review",
+        "issues": [
+          "CV expands GIMMS as 'Global Mapping and Modeling Systems'; the group's usual name is 'Global Inventory Modeling and Mapping Studies'. Site uses the usual name — PI to confirm."
+        ]
+      }
     },
     {
       "id": "seneci",
       "title": "Professional Education Program Manager",
       "organization": "SENECI, Dakar, Senegal",
-      "start": "1994-07", "end": "1995-09", "current": false, "featured": false, "category": "early",
+      "start": "1994-07",
+      "end": "1995-09",
+      "current": false,
+      "featured": false,
+      "category": "early",
       "summary": "Conceived and implemented Wolof-language professional development programs for a small American consulting firm.",
       "cvPage": 2
     },
@@ -113,62 +233,352 @@
       "id": "peace-corps",
       "title": "Volunteer",
       "organization": "US Peace Corps, Senegal",
-      "start": "1992-06", "end": "1994-07", "current": false, "featured": false, "category": "early",
+      "start": "1992-06",
+      "end": "1994-07",
+      "current": false,
+      "featured": false,
+      "category": "early",
       "summary": "Developed an outdoor environmental education program for elementary schools that was adopted by volunteers across Peace Corps programs in Africa and Latin America.",
       "cvPage": 2
     }
   ],
   "teaching": [
-    { "title": "Assistant Professorial Lecturer in Geography", "organization": "George Washington University", "period": "2004", "detail": "Geog 107, Introduction to Remote Sensing, with weekly ENVI image-processing laboratory.", "cvPage": 2 },
-    { "title": "Faculty Teaching Assistant", "organization": "University of Maryland", "period": "1997–1998", "detail": "Human Geography, approximately 150 students, two semesters.", "cvPage": 2 }
+    {
+      "title": "Assistant Professorial Lecturer in Geography",
+      "organization": "George Washington University",
+      "period": "2004",
+      "detail": "Geog 107, Introduction to Remote Sensing, with weekly ENVI image-processing laboratory.",
+      "cvPage": 2
+    },
+    {
+      "title": "Faculty Teaching Assistant",
+      "organization": "University of Maryland",
+      "period": "1997–1998",
+      "detail": "Human Geography, approximately 150 students, two semesters.",
+      "cvPage": 2
+    }
   ],
   "awards": [
-    { "id": "nasa-honor-2024", "year": 2024, "title": "NASA Honor Award — Excellence in Collaboration", "detail": "Group award for work on NASA Early Adopter Pathfinders, recognizing the implementation of the first Early Adopter programs.", "featured": true, "cvPage": 48 },
-    { "id": "usda-lincoln-2016", "year": 2016, "title": "USDA Abraham Lincoln Honor Award for Increasing Global Food Security", "detail": "Awarded to the writing team of Climate Change, Global Food Security, and the U.S. Food System.", "featured": true, "cvPage": 48 },
-    { "id": "wia-2013", "year": 2013, "title": "Women in Aerospace Outstanding Achievement Award", "detail": "“For her continued work in bringing critical information to the U.S. Government in the area of remote sensing and as an expert on impact of environmental dynamics of food security.”", "featured": true, "cvPage": 48 },
-    { "id": "johnson-2010", "year": 2010, "title": "NOAA David Johnson Award, National Space Club", "detail": "For young scientists finding new and innovative ways to enhance or redefine the use of Earth observation data for NOAA operations.", "featured": true, "cvPage": 49 },
-    { "id": "goddard-2008", "year": 2008, "title": "NASA Robert H. Goddard Honor Award for Science", "detail": null, "featured": true, "cvPage": 49 },
-    { "id": "nasa-group-2008", "year": 2008, "title": "NASA Group Achievement Award", "detail": "As part of the Goddard Applied Sciences Team.", "featured": false, "cvPage": 49 },
-    { "id": "ssai-performance-2007", "year": 2007, "title": "SSAI Performance Award", "detail": "Science Systems and Applications, Inc.", "featured": false, "cvPage": 49 },
-    { "id": "aarse-2006", "year": 2006, "title": "AARSE–ESA Best Paper Presentation Award", "detail": "African Association of Remote Sensing of the Environment meeting, Cairo, Egypt.", "featured": false, "cvPage": 49 },
-    { "id": "ssai-publication-2006", "year": 2006, "title": "SSAI Publication Award", "detail": "Science Systems and Applications, Inc.", "featured": false, "cvPage": 49 }
+    {
+      "id": "nasa-honor-2024",
+      "year": 2024,
+      "title": "NASA Honor Award — Excellence in Collaboration",
+      "detail": "Group award for work on NASA Early Adopter Pathfinders, recognizing the implementation of the first Early Adopter programs.",
+      "featured": true,
+      "cvPage": 48
+    },
+    {
+      "id": "usda-lincoln-2016",
+      "year": 2016,
+      "title": "USDA Abraham Lincoln Honor Award for Increasing Global Food Security",
+      "detail": "Awarded to the writing team of Climate Change, Global Food Security, and the U.S. Food System.",
+      "featured": true,
+      "cvPage": 48
+    },
+    {
+      "id": "wia-2013",
+      "year": 2013,
+      "title": "Women in Aerospace Outstanding Achievement Award",
+      "detail": "“For her continued work in bringing critical information to the U.S. Government in the area of remote sensing and as an expert on impact of environmental dynamics of food security.”",
+      "featured": true,
+      "cvPage": 48
+    },
+    {
+      "id": "johnson-2010",
+      "year": 2010,
+      "title": "NOAA David Johnson Award, National Space Club",
+      "detail": "For young scientists finding new and innovative ways to enhance or redefine the use of Earth observation data for NOAA operations.",
+      "featured": true,
+      "cvPage": 49
+    },
+    {
+      "id": "goddard-2008",
+      "year": 2008,
+      "title": "NASA Robert H. Goddard Honor Award for Science",
+      "detail": null,
+      "featured": true,
+      "cvPage": 49
+    },
+    {
+      "id": "nasa-group-2008",
+      "year": 2008,
+      "title": "NASA Group Achievement Award",
+      "detail": "As part of the Goddard Applied Sciences Team.",
+      "featured": false,
+      "cvPage": 49
+    },
+    {
+      "id": "ssai-performance-2007",
+      "year": 2007,
+      "title": "SSAI Performance Award",
+      "detail": "Science Systems and Applications, Inc.",
+      "featured": false,
+      "cvPage": 49
+    },
+    {
+      "id": "aarse-2006",
+      "year": 2006,
+      "title": "AARSE–ESA Best Paper Presentation Award",
+      "detail": "African Association of Remote Sensing of the Environment meeting, Cairo, Egypt.",
+      "featured": false,
+      "cvPage": 49
+    },
+    {
+      "id": "ssai-publication-2006",
+      "year": 2006,
+      "title": "SSAI Publication Award",
+      "detail": "Science Systems and Applications, Inc.",
+      "featured": false,
+      "cvPage": 49
+    }
   ],
   "leadership": [
-    { "id": "nas-cesas", "role": "Member", "body": "National Academy of Sciences Committee on Earth Science and Applications from Space (CESAS)", "period": "2017–2022", "featured": true, "cvPage": 57 },
-    { "id": "rsase-eic", "role": "Editor-in-Chief", "body": "Remote Sensing Applications: Society and Environment (Elsevier)", "period": "2015–2017", "featured": true, "cvPage": 57 },
-    { "id": "usda-nca-lead", "role": "Lead author", "body": "USDA technical report Climate Change, Global Food Security, and the U.S. Food System (US National Climate Assessment)", "period": "2015", "featured": true, "cvPage": 57 },
-    { "id": "nacp-sip", "role": "Co-chair; lead author of the Decision Support chapter", "body": "North American Carbon Program Science Implementation Plan", "period": "2021–2023", "featured": true, "cvPage": 57, "verification": { "status": "needs-review", "issues": ["CV p.57 says the plan was 'to be issued 2022'; the published plan is listed on p.17 as Williams et al. (2023). Period shown here spans both."] } },
-    { "id": "icesat2-apps", "role": "Applications Team Lead", "body": "NASA ICESat-2 mission", "period": "2012–present", "featured": true, "cvPage": 49 },
-    { "id": "smap-apps", "role": "Applications Program Coordinator", "body": "NASA Soil Moisture Active Passive (SMAP) mission", "period": "2010–2015", "featured": true, "cvPage": 52 },
-    { "id": "occ-ae", "role": "Associate Editor", "body": "Oxford Open Climate Change", "period": "2020–2023", "featured": false, "cvPage": 57 },
-    { "id": "cms-phase2", "role": "Member, report writing team (stakeholders and MRV)", "body": "NASA Carbon Monitoring System Phase 2 synthesis", "period": "2019–2021", "featured": false, "cvPage": 57 },
-    { "id": "menus-of-change", "role": "Member, Scientific and Technical Advisory Council", "body": "Menus of Change — Culinary Institute of America and Harvard T.H. Chan School of Public Health", "period": "2016–2021", "featured": false, "cvPage": 57 },
-    { "id": "jlus-board", "role": "Editorial Board", "body": "Journal of Land Use Science", "period": "2014–2021", "featured": false, "cvPage": 57 },
-    { "id": "cgms-tiger", "role": "Member", "body": "Coordination Group for Meteorological Satellites, Working Group III Tiger Team on Socio-Economic Benefits", "period": "2013–2015", "featured": false, "cvPage": 57 },
-    { "id": "nsf-ere-ac", "role": "Member", "body": "National Science Foundation Environmental Research and Education Advisory Committee", "period": "2010–2012", "featured": false, "cvPage": 58 },
-    { "id": "fewsnet-tlc", "role": "Member", "body": "USAID Famine Early Warning Systems Network Team Leaders' Committee", "period": "2004–2010", "featured": false, "cvPage": 58 },
-    { "id": "nas-urban-forestry", "role": "Organizing Committee", "body": "National Academies workshop 'Urban Forestry: Toward an Ecosystem Services Research Agenda'", "period": "2013", "featured": false, "cvPage": 58 },
-    { "id": "nasa-colloquium", "role": "Member", "body": "NASA Colloquium Committee", "period": "2010–2013", "featured": false, "cvPage": 58 },
-    { "id": "gsfc-council", "role": "Member", "body": "NASA Goddard Code 600 Deputy Director's Council on Science", "period": "2007–2009", "featured": false, "cvPage": 58 },
-    { "id": "aaas-human-rights", "role": "AAG representative", "body": "AAAS Science and Human Rights Coalition", "period": "2007–2008", "featured": false, "cvPage": 58 },
-    { "id": "agu-gec", "role": "Secretary", "body": "American Geophysical Union, Global Environmental Change Focus Group", "period": null, "featured": false, "cvPage": 58, "verification": { "status": "needs-review", "issues": ["CV gives no dates for this role."] } },
-    { "id": "aag-roles", "role": "Regional Councilor (2007–2010); Secretary, Development Geography Specialty Group (2009–2011); Chair, Middle Atlantic Division (2006–2007); member, Governmental Data and Employment Committee (2010–2013)", "body": "American Association of Geographers", "period": "2003–2013", "featured": false, "cvPage": 58 },
-    { "id": "umd-awards-task-force", "role": "Member", "body": "Geography Awards Task Force, University of Maryland", "period": "2024–2025", "featured": false, "cvPage": 57 },
-    { "id": "nserc-panel", "role": "Review panel member", "body": "Natural Sciences and Engineering Research Council of Canada", "period": "2024", "featured": false, "cvPage": 57 }
+    {
+      "id": "nas-cesas",
+      "role": "Member",
+      "body": "National Academy of Sciences Committee on Earth Science and Applications from Space (CESAS)",
+      "period": "2017–2022",
+      "featured": true,
+      "cvPage": 57
+    },
+    {
+      "id": "rsase-eic",
+      "role": "Editor-in-Chief",
+      "body": "Remote Sensing Applications: Society and Environment (Elsevier)",
+      "period": "2015–2017",
+      "featured": true,
+      "cvPage": 57
+    },
+    {
+      "id": "usda-nca-lead",
+      "role": "Lead author",
+      "body": "USDA technical report Climate Change, Global Food Security, and the U.S. Food System (US National Climate Assessment)",
+      "period": "2015",
+      "featured": true,
+      "cvPage": 57
+    },
+    {
+      "id": "nacp-sip",
+      "role": "Co-chair; lead author of the Decision Support chapter",
+      "body": "North American Carbon Program Science Implementation Plan",
+      "period": "2021–2023",
+      "featured": true,
+      "cvPage": 57,
+      "verification": {
+        "status": "needs-review",
+        "issues": [
+          "CV p.57 says the plan was 'to be issued 2022'; the published plan is listed on p.17 as Williams et al. (2023). Period shown here spans both."
+        ]
+      }
+    },
+    {
+      "id": "icesat2-apps",
+      "role": "Applications Team Lead",
+      "body": "NASA ICESat-2 mission",
+      "period": "2012–present",
+      "featured": true,
+      "cvPage": 49
+    },
+    {
+      "id": "smap-apps",
+      "role": "Applications Program Coordinator",
+      "body": "NASA Soil Moisture Active Passive (SMAP) mission",
+      "period": "2010–2015",
+      "featured": true,
+      "cvPage": 52
+    },
+    {
+      "id": "occ-ae",
+      "role": "Associate Editor",
+      "body": "Oxford Open Climate Change",
+      "period": "2020–2023",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "cms-phase2",
+      "role": "Member, report writing team (stakeholders and MRV)",
+      "body": "NASA Carbon Monitoring System Phase 2 synthesis",
+      "period": "2019–2021",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "menus-of-change",
+      "role": "Member, Scientific and Technical Advisory Council",
+      "body": "Menus of Change — Culinary Institute of America and Harvard T.H. Chan School of Public Health",
+      "period": "2016–2021",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "jlus-board",
+      "role": "Editorial Board",
+      "body": "Journal of Land Use Science",
+      "period": "2014–2021",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "cgms-tiger",
+      "role": "Member",
+      "body": "Coordination Group for Meteorological Satellites, Working Group III Tiger Team on Socio-Economic Benefits",
+      "period": "2013–2015",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "nsf-ere-ac",
+      "role": "Member",
+      "body": "National Science Foundation Environmental Research and Education Advisory Committee",
+      "period": "2010–2012",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "fewsnet-tlc",
+      "role": "Member",
+      "body": "USAID Famine Early Warning Systems Network Team Leaders' Committee",
+      "period": "2004–2010",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "nas-urban-forestry",
+      "role": "Organizing Committee",
+      "body": "National Academies workshop 'Urban Forestry: Toward an Ecosystem Services Research Agenda'",
+      "period": "2013",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "nasa-colloquium",
+      "role": "Member",
+      "body": "NASA Colloquium Committee",
+      "period": "2010–2013",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "gsfc-council",
+      "role": "Member",
+      "body": "NASA Goddard Code 600 Deputy Director's Council on Science",
+      "period": "2007–2009",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "aaas-human-rights",
+      "role": "AAG representative",
+      "body": "AAAS Science and Human Rights Coalition",
+      "period": "2007–2008",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "agu-gec",
+      "role": "Secretary",
+      "body": "American Geophysical Union, Global Environmental Change Focus Group",
+      "period": null,
+      "featured": false,
+      "cvPage": 58,
+      "verification": {
+        "status": "needs-review",
+        "issues": [
+          "CV gives no dates for this role."
+        ]
+      }
+    },
+    {
+      "id": "aag-roles",
+      "role": "Regional Councilor (2007–2010); Secretary, Development Geography Specialty Group (2009–2011); Chair, Middle Atlantic Division (2006–2007); member, Governmental Data and Employment Committee (2010–2013)",
+      "body": "American Association of Geographers",
+      "period": "2003–2013",
+      "featured": false,
+      "cvPage": 58
+    },
+    {
+      "id": "umd-awards-task-force",
+      "role": "Member",
+      "body": "Geography Awards Task Force, University of Maryland",
+      "period": "2024–2025",
+      "featured": false,
+      "cvPage": 57
+    },
+    {
+      "id": "nserc-panel",
+      "role": "Review panel member",
+      "body": "Natural Sciences and Engineering Research Council of Canada",
+      "period": "2024",
+      "featured": false,
+      "cvPage": 57
+    }
   ],
   "reviewing": [
-    "ACS Environmental Science and Technology", "Agriculture, Ecosystems and Environment", "Climatic Change", "Earth's Future", "Environmental Research Letters", "Food Security", "Geophysical Research Letters", "Global Change Biology", "Global Food Security", "IEEE Transactions on Geoscience and Remote Sensing", "International Journal of Remote Sensing", "The Lancet", "Nature", "Nature Climate Change", "Nature Communications", "PLoS ONE", "Population and Environment", "Remote Sensing of Environment", "World Development"
+    "ACS Environmental Science and Technology",
+    "Agriculture, Ecosystems and Environment",
+    "Climatic Change",
+    "Earth's Future",
+    "Environmental Research Letters",
+    "Food Security",
+    "Geophysical Research Letters",
+    "Global Change Biology",
+    "Global Food Security",
+    "IEEE Transactions on Geoscience and Remote Sensing",
+    "International Journal of Remote Sensing",
+    "The Lancet",
+    "Nature",
+    "Nature Climate Change",
+    "Nature Communications",
+    "PLoS ONE",
+    "Population and Environment",
+    "Remote Sensing of Environment",
+    "World Development"
   ],
   "memberships": [
-    { "body": "American Geophysical Union (AGU)", "period": "2004–present", "cvPage": 54 },
-    { "body": "American Meteorological Society (AMS)", "period": "2023–present", "cvPage": 54, "verification": { "status": "needs-review", "issues": ["CV reads 'American Meteorological Association (AMU)'; corrected to the American Meteorological Society (AMS) — PI to confirm."] } },
-    { "body": "American Association for the Advancement of Science (AAAS)", "period": "2007–2015", "cvPage": 54 },
-    { "body": "American Association of Geographers (AAG)", "period": "1998–2009", "cvPage": 54 },
-    { "body": "IEEE Geoscience and Remote Sensing Society", "period": "2011–2012", "cvPage": 54 },
-    { "body": "African Association of Remote Sensing of the Environment", "period": "2005–2007", "cvPage": 54 }
+    {
+      "body": "American Geophysical Union (AGU)",
+      "period": "2004–present",
+      "cvPage": 54
+    },
+    {
+      "body": "American Meteorological Society (AMS)",
+      "period": "2023–present",
+      "cvPage": 54,
+      "verification": {
+        "status": "needs-review",
+        "issues": [
+          "CV reads 'American Meteorological Association (AMU)'; corrected to the American Meteorological Society (AMS) — PI to confirm."
+        ]
+      }
+    },
+    {
+      "body": "American Association for the Advancement of Science (AAAS)",
+      "period": "2007–2015",
+      "cvPage": 54
+    },
+    {
+      "body": "American Association of Geographers (AAG)",
+      "period": "1998–2009",
+      "cvPage": 54
+    },
+    {
+      "body": "IEEE Geoscience and Remote Sensing Society",
+      "period": "2011–2012",
+      "cvPage": 54
+    },
+    {
+      "body": "African Association of Remote Sensing of the Environment",
+      "period": "2005–2007",
+      "cvPage": 54
+    }
   ],
   "contact": {
-    "address": ["Department of Geographical Sciences", "University of Maryland", "College Park, MD 20742"],
+    "address": [
+      "Department of Geographical Sciences",
+      "University of Maryland",
+      "College Park, MD 20742"
+    ],
     "email": null,
     "verification": {
       "status": "needs-review",
@@ -180,8 +590,12 @@
     }
   },
   "photo": {
-    "file": null,
-    "status": "missing — an approved professional portrait must be supplied by Dr. Brown (upload via CMS → Profile → Portrait)."
+    "file": "/images/portrait/molly-brown.jpg",
+    "alt": "Portrait of Molly E. Brown outdoors in a grassland under a blue sky",
+    "width": 853,
+    "height": 891,
+    "source": "University of Maryland Department of Geographical Sciences faculty profile (geog.umd.edu/facultyprofile/brown/molly), downloaded 2026-11-19; EXIF metadata removed",
+    "status": "interim — to be replaced by the LinkedIn profile photo (LinkedIn blocks automated download); PI to approve"
   },
   "cvDownload": {
     "file": null,

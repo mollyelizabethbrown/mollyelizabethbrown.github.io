@@ -32,26 +32,51 @@ export default async function HomePage() {
       {/* 1 · Hero ------------------------------------------------------------ */}
       <section className="on-pine relative isolate flex min-h-[min(92svh,60rem)] items-end overflow-hidden bg-pine text-paper">
         {hero ? (
-          <Image src={hero.file} alt={hero.title} fill priority sizes="100vw" className="-z-20 object-cover opacity-70" />
+          <Image src={hero.file} alt="" fill priority sizes="100vw" className="-z-20 object-cover opacity-40" />
         ) : (
           <HeroPattern />
         )}
-        <div aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-t from-pine via-pine/75 to-pine/20" />
-        <div className="container-site pb-16 pt-36 lg:pb-24">
-          <p className="kicker">{profile.tagline}</p>
-          <h1 className="mt-6 max-w-5xl text-display">{profile.statement}</h1>
-          <div className="mt-10 grid gap-8 border-t border-mist/20 pt-8 md:grid-cols-12">
-            <p className="font-serif text-lede text-mist md:col-span-7">{profile.summary}</p>
-            <div className="flex flex-col gap-3 md:col-span-4 md:col-start-9">
-              <p className="font-serif text-2xl">{profile.name}, {profile.postNominal}</p>
-              <p className="text-sm text-mist">{profile.designation} · {profile.institution}</p>
-              <div className="mt-3 flex flex-wrap gap-x-6 gap-y-2">
+        <div aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-r from-pine via-pine/90 to-pine/55" />
+        <div aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-t from-pine via-transparent to-pine/40" />
+        <div className="container-site w-full pb-14 pt-28 lg:pb-20 lg:pt-36">
+          <div className="grid items-center gap-10 lg:grid-cols-12 lg:gap-16">
+            {/* Portrait */}
+            {profile.portrait && (
+              <figure className="order-first lg:order-last lg:col-span-5">
+                <div className="relative mx-auto w-full max-w-[17rem] sm:max-w-xs lg:max-w-none">
+                  <span aria-hidden className="absolute -bottom-3 -right-3 h-full w-full border border-gold/60 lg:-bottom-5 lg:-right-5" />
+                  <div className="relative aspect-[4/5] overflow-hidden bg-pine-2 shadow-[0_40px_80px_-40px_rgba(0,0,0,0.7)]">
+                    <Image
+                      src={profile.portrait.src}
+                      alt={profile.portrait.alt}
+                      fill
+                      priority
+                      sizes="(min-width:1024px) 34vw, 320px"
+                      className="object-cover object-[50%_35%]"
+                    />
+                  </div>
+                </div>
+              </figure>
+            )}
+
+            {/* Identity */}
+            <div className="lg:col-span-7">
+              <p className="kicker">{profile.tagline}</p>
+              <h1 className="mt-5 text-display">{profile.name}</h1>
+              <p className="mt-4 font-serif text-title text-mist">
+                {profile.designation}
+                <span className="block text-[0.8em] text-mist/85">{profile.department}, {profile.institution}</span>
+              </p>
+              {profile.statement && <p className="mt-6 font-serif text-title">{profile.statement}</p>}
+              <p className="mt-8 max-w-2xl border-t border-mist/20 pt-8 font-serif text-lede text-mist">{profile.summary}</p>
+              <div className="mt-8 flex flex-wrap gap-x-8 gap-y-3">
                 <ArrowLink href="/research">Explore the research</ArrowLink>
                 <ArrowLink href="/publications">Publications</ArrowLink>
+                <ArrowLink href="/about">Biography</ArrowLink>
               </div>
             </div>
           </div>
-          {hero && <p className="mt-10 text-[0.68rem] text-mist/80">Image: {hero.credit}</p>}
+          {hero && <p className="mt-12 text-[0.68rem] text-mist/70">Background image: {hero.credit}</p>}
         </div>
       </section>
 

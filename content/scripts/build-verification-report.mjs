@@ -57,7 +57,7 @@ L.push(`- **Unpublished manuscripts** (submitted / in review) are hidden by defa
 L.push(`## 3. Decisions needed before launch`, ``);
 L.push(`| # | Item | Default chosen | Who decides |`, `|---|---|---|---|`);
 const decisions = [
-  ["Professional portrait", "None shown (monogram placeholder on People page). A portrait exists on the UMD profile but its use has not been approved.", "Dr. Brown"],
+  ["Professional portrait", "Interim: her UMD faculty-profile photo (EXIF stripped) on the homepage, About and People pages. Intended: her LinkedIn profile photo — LinkedIn blocks automated download, so it must be saved manually over public/images/portrait/molly-brown.jpg. Confirm the photo with her.", "Dr. Brown"],
   ["Downloadable CV", "Withheld; \"available on request\". Needs a redacted PDF.", "Dr. Brown"],
   ["Public email", `${settings.contactEmail ?? "none"} (the address shown on her UMD profile)`, "Dr. Brown"],
   ["Book cover images", "Publisher artwork displayed (Springer, Routledge). Confirm use.", "Dr. Brown"],

@@ -112,7 +112,9 @@ if (settings.heroImageId && !mediaIds.has(settings.heroImageId)) errors.push(`se
 for (const id of settings.home.featuredProjectIds) if (!projectIds.has(id)) errors.push(`settings: featured project ${id} missing`);
 for (const d of settings.home.featuredPublicationDois) if (!liveDois.has(norm(d))) errors.push(`settings: featured DOI ${d} not in visible bibliography`);
 const profile = read("profile.json");
-if (!profile.photo?.file) warnings.push("profile: no approved portrait yet");
+if (!profile.photo?.file) warnings.push("profile: no portrait yet");
+else if (!publicFile(profile.photo.file)) errors.push(`profile: portrait file missing ${profile.photo.file}`);
+else if (/interim/i.test(profile.photo.status ?? "")) warnings.push("profile: portrait is interim (UMD photo) — replace with the LinkedIn photo and confirm with Dr. Brown");
 if (!settings.cvFile) warnings.push("settings: no redacted CV uploaded yet (About page shows 'available on request')");
 
 for (const w of warnings) console.warn(`warn  ${w}`);
