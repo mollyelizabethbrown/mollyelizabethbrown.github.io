@@ -1,0 +1,2486 @@
+[
+  {
+    "id": "brown-2014-food-security-food",
+    "type": "book",
+    "status": "published",
+    "year": 2014,
+    "title": "Food Security, Food Prices and Climate Variability",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Brown, M.E.",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": "197",
+    "publisher": "Earthscan Routledge Press",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Books",
+    "cvPage": 14,
+    "citationAsInCV": "Brown, M.E. (2014) Food Security, Food Prices and Climate Variability, Earthscan Routledge Press. pp 197 (May 2014)",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-famine-early-warning",
+    "type": "book",
+    "status": "published",
+    "year": 2008,
+    "title": "Famine Early Warning Systems and Remote Sensing Data",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Brown, M.E.",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": "313",
+    "publisher": "Springer-Verlag: Heidelberg and New York",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Books",
+    "cvPage": 14,
+    "citationAsInCV": "Brown, M.E. (2008) Famine Early Warning Systems and Remote Sensing Data, Springer-Verlag: Heidelberg and New York. pp 313 (May 2008).",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "huang-2018-advancing-next-generation",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2018,
+    "title": "Advancing to the Next Generation of Precision Agriculture",
+    "authors": [
+      "Huang, Y.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Y. Huang, and M.E. Brown",
+    "container": "ISPC Foresight Edited Book",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "World Scientific Publishers",
+    "editors": "Rachid Serraj and Prabhu Pingali editors",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 14,
+    "citationAsInCV": "Y. Huang, and M.E. Brown (2018) Advancing to the Next Generation of Precision Agriculture. ISPC Foresight Edited Book. World Scientific Publishers. Rachid Serraj and Prabhu Pingali editors.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "suggested-doi: 10.1142/9789813278356_0009 — Crossref title \"Advancing to the Next Generation of Precision Agriculture\" (2018); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "niles-2018-food-security-food",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2018,
+    "title": "Food Security, Food Sustainability",
+    "authors": [
+      "Niles, M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M. Niles and M.E. Brown",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Oxford University Press",
+    "editors": "edited by Paul Behrens",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 14,
+    "citationAsInCV": "M. Niles and M.E. Brown (2018) Food Security, Food Sustainability. Oxford University Press, edited by Paul Behrens.",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "book title not given in CV (only publisher and editor); container left null",
+        "suggested-doi: 10.1093/hesc/9780198814375.003.0011 — Crossref title \"Food Security\" (2020); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-remote-sensing-data",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2017,
+    "title": "Remote Sensing Data and Methods for Identifying Urban and Peri-Urban Smallholder Agriculture in Developing Countries and in the United States",
+    "authors": [
+      "Brown, M.E.",
+      "McCarty, J.L."
+    ],
+    "authorsAsInCV": "M.E. Brown, and J.L. McCarty",
+    "container": "Comprehensive Remote Sensing Book",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": "editor S. Liang",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 14,
+    "citationAsInCV": "M.E. Brown, and J.L. McCarty (2017) Remote Sensing Data and Methods for Identifying Urban and Peri- Urban Smallholder Agriculture in Developing Countries and in the United States. Comprehensive Remote Sensing Book, editor S. Liang.",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "corrected: Peri- Urban → Peri-Urban",
+        "suggested-doi: 10.1016/b978-0-12-409548-9.10437-3 — Crossref title \"Remote Sensing Data and Methods for Identifying Urban and Peri-Urban Smallholder Agriculture in Developing Countries and in the United States\" (2018); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-climate-change-affecting",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2016,
+    "title": "How is Climate Change Affecting the Global Food System?",
+    "authors": [
+      "Brown, M.E.",
+      "Mata, T.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, and Tawny M. Mata",
+    "container": "Routledge Handbook on Food and Nutrition Security",
+    "volume": null,
+    "issue": null,
+    "pages": "185-200",
+    "publisher": "Routledge Press",
+    "editors": "Editors Bill Pritchard, Rodomiro Ortiz and Meera Shekar",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 14,
+    "citationAsInCV": "M.E. Brown, and Tawny M. Mata (2016) How is Climate Change Affecting the Global Food System? Editors Bill Pritchard, Rodomiro Ortiz and Meera Shekar. Routledge Handbook on Food and Nutrition Security. Routledge Press. pp 185-200.",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-climate-extremes-climate",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2016,
+    "title": "Climate Extremes, Climate Variability and Climate Smart Agriculture",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Climate Smart Agriculture",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "EarthScan/Routledge, London",
+    "editors": "Edited by Nagothu Udaya Sekhar",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown (2016) Climate Extremes, Climate Variability and Climate Smart Agriculture. Climate Smart Agriculture, Edited by Nagothu Udaya Sekhar. EarthScan/Routledge, London.",
+    "themes": [
+      "sustainable-food-systems",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-global-land-surface",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2015,
+    "title": "Global Land Surface Phenology and Implications for Food Security",
+    "authors": [
+      "Brown, M.E.",
+      "Grace, K.",
+      "de Beurs, K."
+    ],
+    "authorsAsInCV": "M.E. Brown, K. Grace, K. de Beurs",
+    "container": "Remote Sensing Handbook",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": "edited by Prasad Thenkabail",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown, K. Grace, K. de Beurs (2015) Global Land Surface Phenology and Implications for Food Security. In the Remote Sensing Handbook, edited by Prasad Thenkabail.",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "suggested-doi: 10.1201/b19322-23 — Crossref title \"Global Land Surface Phenology and Implications for Food Security\" (2015); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "de-beurs-2013-effect-agricultural-growing",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2013,
+    "title": "The Effect of Agricultural Growing Season Change on Market Prices in Africa",
+    "authors": [
+      "de Beurs, K.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "K. de Beurs and M.E. Brown",
+    "container": "Climate Variability - Regional and Thematic Patterns",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": "edited by Aondover Tarhule",
+    "isbn": "980-953-307-816-3",
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "K. de Beurs and M.E. Brown (2013) The Effect of Agricultural Growing Season Change on Market Prices in Africa. In Climate Variability - Regional and Thematic Patterns edited by Aondover Tarhule. ISBN 980-953-307-816-3",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "ISBN '980-953-307-816-3' has invalid prefix 980- (ISBN-13 prefixes are 978/979); kept as written",
+        "suggested-doi: 10.5772/56459 — Crossref title \"The Effect of Agricultural Growing Season Change on Market Prices in Africa\" (2013); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-communicating-needs-climate",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2012,
+    "title": "Communicating the Needs of Climate Change Policy Makers to Scientists",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M.",
+      "Lovell, H."
+    ],
+    "authorsAsInCV": "M.E. Brown, V.M. Escobar, H. Lovell",
+    "container": "Climate Change",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": "Edited by Dr. Netra Chhetri",
+    "isbn": "980-953-307-389-2",
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown, V.M. Escobar, H. Lovell (2012) Communicating the Needs of Climate Change Policy Makers to Scientists. Climate Change. Edited by Dr. Netra Chhetri. ISBN 980-953-307-389-2.",
+    "themes": [
+      "applications",
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "ISBN '980-953-307-389-2' has invalid prefix 980- (ISBN-13 prefixes are 978/979); kept as written",
+        "suggested-doi: 10.5772/50607 — Crossref title \"Communicating the Needs of Climate Change Policy Makers to Scientists\" (2012); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "williams-2012-informing-policy-choices",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2012,
+    "title": "Informing Policy Choices Geographically: Emerging and Expanding Government and Non-Governmental Career Opportunities",
+    "authors": [
+      "Williams, A.M.",
+      "Brown, M.E.",
+      "Moriarty, E.",
+      "Wertman, J.A."
+    ],
+    "authorsAsInCV": "A.M Williams, M.E. Brown, E. Moriarty, and J.A. Wertman",
+    "container": "Practicing Geography",
+    "volume": null,
+    "issue": null,
+    "pages": "84-96",
+    "publisher": "Washington, DC: American Association of Geographers. Blackwell Press",
+    "editors": "edited by M. Solem, K. Foote, J. Monk",
+    "isbn": "978-0-321-81115-8",
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "A.M Williams, M.E. Brown, E. Moriarty, and J.A. Wertman (2012) Informing Policy Choices Geographically: Emerging and Expanding Government and Non-Governmental Career Opportunities. Practicing Geography, edited by M. Solem, K. Foote, J. Monk. Washington, DC: American Association of Geographers. Blackwell Press. P. 84-96. ISBN 978-0-321-81115-8.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "career-guidance chapter; no theme fits closely, 'applications' assigned provisionally"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "ceccato-2010-remote-sensing-vegetation",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2010,
+    "title": "Remote Sensing – Vegetation",
+    "authors": [
+      "Ceccato, P.",
+      "Brown, M.E.",
+      "Funk, C.",
+      "Small, C.",
+      "Holthaus, E.",
+      "Siebert, A.",
+      "Ward, N."
+    ],
+    "authorsAsInCV": "P. Ceccato, Brown M. E., Funk C., Small C., Holthaus E., Siebert A. and Ward N.",
+    "container": "Index insurance and climate risk: Prospects for development and disaster management, IRI Technical Report 10-10",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": "Edited by D. Osgood and M. Hellmuth",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "P. Ceccato, Brown M. E., Funk C., Small C., Holthaus E., Siebert A. and Ward N. (2010) Remote Sensing – Vegetation, Index insurance and climate risk: Prospects for development and disaster management, IRI Technical Report 10-10. Edited by D. Osgood and M. Hellmuth.",
+    "themes": [
+      "applications",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "likely duplicate of ceccato-2010-remote-sensing-vegetation-b (Reports section: same title/authors/year, listed as an Annex, 'Climate and Society No. 2', editor spelled 'Helmuth' there vs 'Hellmuth' here)",
+        "curation: Crossref suggestion 10.1016/s0034-4257(02)00036-6 rejected — different paper"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "ingram-2010-engaging-stakeholders-regional",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2010,
+    "title": "Engaging stakeholders at the regional level",
+    "authors": [
+      "Ingram, J.",
+      "Andersson, J.",
+      "Bammer, G.",
+      "Brown, M.E.",
+      "Giller, K.",
+      "Henrichs, T.",
+      "Holmes, J.",
+      "Jones, J.",
+      "Schilpzand, R.",
+      "Young, J."
+    ],
+    "authorsAsInCV": "J. Ingram, J. Andersson, G. Bammer, M.E. Brown, K. Giller, T. Henrichs, J. Holmes, J. Jones, R. Schilpzand and J. Young",
+    "container": "Global Food Security and Global Environmental Change",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Earthscan press",
+    "editors": "edited by John Ingram, Polly Ericksen and Diana Liverman",
+    "isbn": "9781849711289",
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "J. Ingram, J. Andersson, G. Bammer, M.E. Brown, K. Giller, T. Henrichs, J. Holmes, J. Jones, R. Schilpzand and J. Young (2010) Engaging stakeholders at the regional level, Global Food Security and Global Environmental Change, edited by John Ingram, Polly Ericksen and Diana Liverman. Earthscan press, 384 pp. ISBN 9781849711289.",
+    "themes": [
+      "sustainable-food-systems",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "'384 pp.' is the length of the whole book, not chapter pages; pages left null",
+        "suggested-doi: 10.4324/9781849776615-22 — Crossref title \"Engaging Stakeholders at the Regional Level\" (2012); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2010-early-warning-food",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2010,
+    "title": "Early Warning of Food Security Crises in Urban areas: the Case of Harare, Zimbabwe, 2007",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C."
+    ],
+    "authorsAsInCV": "M.E. Brown, and C.C. Funk",
+    "container": "Geotechnical Contributions to Urban Hazard and Disaster Analysis",
+    "volume": null,
+    "issue": null,
+    "pages": "229-241",
+    "publisher": "Springer-Verlag",
+    "editors": "edited by Pamela Showalter and Yongmai Lu",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown, and C.C. Funk (2010) Early Warning of Food Security Crises in Urban areas: the Case of Harare, Zimbabwe, 2007, Geotechnical Contributions to Urban Hazard and Disaster Analysis, edited by Pamela Showalter and Yongmai Lu, Springer-Verlag: 229-241.",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "suggested-doi: 10.1007/978-90-481-2238-7_11 — Crossref title \"Early Warning of Food Security Crises in Urban Areas: The Case of Harare, Zimbabwe, 2007\" (2009); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-impact-climate-change",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2008,
+    "title": "The Impact of Climate Change on Income Diversification and Food Security in Senegal",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Land Change Science in the Tropics",
+    "volume": null,
+    "issue": null,
+    "pages": "33-52",
+    "publisher": "Springer-Verlag",
+    "editors": "edited by Andrew Millington and Wendy Jepson",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown (2008) The Impact of Climate Change on Income Diversification and Food Security in Senegal, Land Change Science in the Tropics edited by Andrew Millington and Wendy Jepson, Springer-Verlag, p 33-52.",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "suggested-doi: 10.1007/978-0-387-78864-7_3 — Crossref title \"The Impact of Climate Change on Income Diversification and Food Security in Senegal\" (2008); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2007-satellite-remote-sensing",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2007,
+    "title": "Satellite Remote Sensing for Early Warning of Food Security Crises",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Elements for Life",
+    "volume": null,
+    "issue": null,
+    "pages": "129-131",
+    "publisher": "Tudor-Rose Publishing",
+    "editors": "edited by Sean Nicklin",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "M.E. Brown (2007) Satellite Remote Sensing for Early Warning of Food Security Crises, Elements for Life edited by Sean Nicklin, Tudor-Rose Publishing: pp 129-131.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "pinzon-2006-satellite-time-series",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2006,
+    "title": "Satellite Time Series Correction of Orbital Drift Artifacts Using Empirical Mode Decomposition",
+    "authors": [
+      "Pinzon, J.",
+      "Brown, M.E.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "J. Pinzon, M. E. Brown and C.J.Tucker",
+    "container": "Applications of Empirical Mode Decomposition",
+    "volume": null,
+    "issue": null,
+    "pages": "167-186",
+    "publisher": null,
+    "editors": "Editor Nordon Huang",
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 15,
+    "citationAsInCV": "J. Pinzon, M. E. Brown and C.J.Tucker (2006). Satellite Time Series Correction of Orbital Drift Artifacts Using Empirical Mode Decomposition. In Applications of Empirical Mode Decomposition Chapter 10, Part II. Editor Nordon Huang. pp.167-186.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "'Chapter 10, Part II' per CV",
+        "possible duplicate/related: pinzon-2003-emd-correction-orbital (Conference Proceedings) has same topic and identical pages 167-186",
+        "editor name 'Nordon Huang' kept as written (possibly 'Norden'); verify"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brooks-2020-seasonal-food-insecurity",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2020,
+    "title": "How does seasonal food insecurity impact fertility? A multi-country spatial analysis of contraceptive use and pregnancies",
+    "authors": [
+      "Brooks, N.",
+      "Grace, K.L.",
+      "Kristiansen, D.",
+      "Shukla, S.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "N. Brooks, K.L. Grace, D. Kristiansen, S. Shukla, M.E. Brown",
+    "container": "Population Association of America 2020 virtual conference",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "N. Brooks, K.L. Grace, D. Kristiansen, S. Shukla, M.E. Brown (2020) How does seasonal food insecurity impact fertility? A multi-country spatial analysis of contraceptive use and pregnancies. Population Association of America 2020 virtual conference.",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-use-environmental-socioeconomic",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2011,
+    "title": "The Use of Environmental and Socioeconomic Indicators of Food Security in Early Warning Assessments",
+    "authors": [
+      "Brown, M.E.",
+      "Brickley, E.B."
+    ],
+    "authorsAsInCV": "M.E. Brown and E.B. Brickley",
+    "container": "2011 Colorado Conference on Earth System Governance",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "M.E. Brown and E.B. Brickley (2011) The Use of Environmental and Socioeconomic Indicators of Food Security in Early Warning Assessments. 2011 Colorado Conference on Earth System Governance. Fort Collins, CO, May 17-20, 2011.",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-soil-moisture-active",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2011,
+    "title": "The Soil Moisture Active Passive (SMAP) Applications Program",
+    "authors": [
+      "Brown, M.E.",
+      "Moran, S.",
+      "Escobar, V.",
+      "Entekhabi, D.",
+      "O’Neill, P.",
+      "Njoku, E."
+    ],
+    "authorsAsInCV": "M.E. Brown, S. Moran, V. Escobar, D. Entekhabi, P. O’Neill, E. Njoku",
+    "container": "IEEE International Geoscience and Remote Sensing Symposium",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "M.E. Brown, S. Moran, V. Escobar, D. Entekhabi, P. O’Neill, E. Njoku (2011) The Soil Moisture Active Passive (SMAP) Applications Program. IEEE International Geoscience and Remote Sensing Symposium, Vancouver, Canada, July 24-29, 2011.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "williams-2011-low-cost-small-sat-mission",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2011,
+    "title": "A Low-cost, Small-sat Mission Concept to Augment Landsat Temporal Repeat Frequency",
+    "authors": [
+      "Williams, D.L.",
+      "Brown, M.E.",
+      "Masek, J.G.",
+      "Tucker, C.J.",
+      "Jarvis, C."
+    ],
+    "authorsAsInCV": "D.L. Williams, M.E. Brown, J. G. Masek, C. J. Tucker, and C. Jarvis",
+    "container": "International Symposium for Remote Sensing of the Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "D.L. Williams, M.E. Brown, J. G. Masek, C. J. Tucker, and C. Jarvis (2011) A Low-cost, Small-sat Mission Concept to Augment Landsat Temporal Repeat Frequency. International Symposium for Remote Sensing of the Environment, Sydney Australia, April 10-15, 2011.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "peters-lidard-2009-satellite-based-assessment-water",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2009,
+    "title": "Satellite-Based Assessment of Water Resources and Agricultural Productivity",
+    "authors": [
+      "Peters-Lidard, C.D.",
+      "Bolten, J.D.",
+      "Brown, M.E.",
+      "Funk, C.",
+      "Rodell, M.",
+      "Toll, D.L.",
+      "Verdin, J."
+    ],
+    "authorsAsInCV": "C.D. Peters-Lidard, J. D. Bolten, M.E. Brown, C. Funk, M. Rodell, D. L. Toll, and J. Verdin",
+    "container": "SAIS-CSIS Water and Agriculture Conference",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "C.D. Peters-Lidard, J. D. Bolten, M.E. Brown, C. Funk, M. Rodell, D. L. Toll, and J. Verdin (2009). Satellite-Based Assessment of Water Resources and Agricultural Productivity. Paper presented at the SAIS-CSIS Water and Agriculture Conference, Johns Hopkins University, Baltimore, MD, April 2009.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "vrieling-2008-recent-trends-agricultural",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2008,
+    "title": "Recent trends in agricultural production of Africa based on AVHRR NDVI time series",
+    "authors": [
+      "Vrieling, A.",
+      "de Beurs, K.M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "A. Vrieling, K. M. de Beurs and M.E. Brown",
+    "container": "Proceedings of SPIE - The International Society for Optical Engineering",
+    "volume": "7104",
+    "issue": null,
+    "pages": "71040R",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "A. Vrieling, K. M. de Beurs and M.E. Brown (2008) Recent trends in agricultural production of Africa based on AVHRR NDVI time series. Proceedings of SPIE - The International Society for Optical Engineering, Cardiff, UK, September 15-18, 2008 7104, art. no. 71040R",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "pages field holds article number 'art. no. 71040R'",
+        "suggested-doi: 10.1117/12.799824 — Crossref title \"Recent trends in agricultural production of Africa based on AVHRR NDVI time series\" (2008); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-challenges-avhrr-vegetation",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2008,
+    "title": "Challenges of AVHRR Vegetation Data for Real Time Applications",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Environmental Information Management Conference 2008",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "M.E. Brown (2008) Challenges of AVHRR Vegetation Data for Real Time Applications. Environmental Information Management Conference 2008, Albuquerque, New Mexico, September 10-11, 2008.",
+    "themes": [
+      "earth-observation",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2007-biophysical-remote-sensing",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2007,
+    "title": "Biophysical Remote Sensing for Food Security Early Warning System in Central America: New Approaches, New Methodologies",
+    "authors": [
+      "Brown, M.E.",
+      "Choularton, R.",
+      "Aguilar, G.L.",
+      "Pedreros, E."
+    ],
+    "authorsAsInCV": "M.E. Brown, R. Choularton, G.L. Aguilar, and E. Pedreros",
+    "container": "33rd International Symposium on Remote Sensing of Environment Technical Program Proceedings",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "M.E. Brown, R. Choularton, G.L. Aguilar, and E. Pedreros (2007) Biophysical Remote Sensing for Food Security Early Warning System in Central America: New Approaches, New Methodologies. 33rd International Symposium on Remote Sensing of Environment Technical Program Proceedings, in San Jose, Costa Rica, June 25-29, 2007.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "pedelty-2007-generating-long-term-land",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2007,
+    "title": "Generating a Long-term Land Data Record from the AVHRR and MODIS Instruments",
+    "authors": [
+      "Pedelty, J.",
+      "Devadiga, S.",
+      "Masuoka, E.",
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Roy, D.",
+      "Vermote, E.",
+      "Prince, S.D.",
+      "Nagol, J.",
+      "Justice, C.O.",
+      "Schaaf, C.",
+      "Privette, J.L.",
+      "Pinheiro, A."
+    ],
+    "authorsAsInCV": "J. Pedelty, S. Devadiga, E. Masuoka, M.E. Brown, J.E. Pinzon, D. Roy, E. Vermote, S.D. Prince, J. Nagol, C.O. Justice, C. Schaaf, J.L. Privette and A. Pinheiro",
+    "container": "International Geoscience and Remote Sensing Symposium",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "J. Pedelty, S. Devadiga, E. Masuoka, M.E. Brown, J.E. Pinzon, D. Roy, E. Vermote, S.D. Prince, J. Nagol, C.O. Justice, C. Schaaf, J.L. Privette and A. Pinheiro (2007), Generating a Long-term Land Data Record from the AVHRR and MODIS Instruments, in the International Geoscience and Remote Sensing Symposium, Barcelona, Spain, July 23-27, 2007.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "suggested-doi: 10.1109/igarss.2007.4422974 — Crossref title \"Generating a long-term land data record from the AVHRR and MODIS Instruments\" (2007); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "funk-2007-evaluating-ipcc-rainfall",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2007,
+    "title": "Evaluating IPCC rainfall and food aid tendencies for food insecure Africa",
+    "authors": [
+      "Funk, C.C.",
+      "Verdin, J.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "C.C. Funk, J. Verdin and M.E. Brown",
+    "container": "American Meteorological Society",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "C.C. Funk, J. Verdin and M.E. Brown (2007) Evaluating IPCC rainfall and food aid tendencies for food insecure Africa. American Meteorological Society, San Antonio, Texas, January 17th, 2007.",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "conference name given only as 'American Meteorological Society' (San Antonio, January 2007)"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2006-vegetation-monitoring-semi-arid",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2006,
+    "title": "Vegetation Monitoring in Semi-Arid Africa for Food Security Early Warning: Integrating NDVI with Food Prices and NDVI Projections for Earlier Early Warning",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C."
+    ],
+    "authorsAsInCV": "M.E. Brown and C.C. Funk",
+    "container": "6th International AARSE Conference of Earth Observation and Geoinformation in Support of Africa’s Development",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 16,
+    "citationAsInCV": "M.E. Brown and C.C. Funk (2006) Vegetation Monitoring in Semi-Arid Africa for Food Security Early Warning: Integrating NDVI with Food Prices and NDVI Projections for Earlier Early Warning. 6th International AARSE Conference of Earth Observation and Geoinformation in Support of Africa’s Development, Cairo, Egypt, 30 October to 2 November 2006.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2005-famine-early-warning",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2005,
+    "title": "The Famine Early Warning System and NASA Earth Science Data",
+    "authors": [
+      "Brown, M.E.",
+      "Habib, S."
+    ],
+    "authorsAsInCV": "M.E. Brown and S. Habib",
+    "container": "31st International Symposium on Remote Sensing of Environment Technical Program Proceedings",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 17,
+    "citationAsInCV": "M.E. Brown and S. Habib (2005) The Famine Early Warning System and NASA Earth Science Data, 31st International Symposium on Remote Sensing of Environment Technical Program Proceedings, in St. Petersburg, Russia, June 20-24, 2005",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "morisette-2004-initial-validation-ndvi",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2004,
+    "title": "Initial validation of NDVI time series from AVHRR, Vegetation and Modis",
+    "authors": [
+      "Morisette, J.T.",
+      "Pinzon, J.E.",
+      "Brown, M.E.",
+      "Tucker, C.J.",
+      "Justice, C.O."
+    ],
+    "authorsAsInCV": "J.T. Morisette, J.E Pinzon., M.E. Brown, C.J. Tucker, and C.O. Justice",
+    "container": "International SPOT 4/5 - VEGETATION users Conference",
+    "volume": null,
+    "issue": null,
+    "pages": "149-154",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 17,
+    "citationAsInCV": "J.T. Morisette, J.E Pinzon., M.E. Brown, C.J. Tucker, and C.O. Justice (2004). Initial validation of NDVI time series from AVHRR, Vegetation and Modis, International SPOT 4/5 - VEGETATION users Conference, Antwerp, Belgium, pp.149-154.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV punctuation 'J.E Pinzon.' normalized to Pinzon, J.E."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "pinzon-2003-emd-correction-orbital",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2003,
+    "title": "EMD correction of orbital drift artifacts in satellite data stream",
+    "authors": [
+      "Pinzon, J.E.",
+      "Brown, M.E.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "J.E. Pinzon, M.E. Brown, and C.J. Tucker",
+    "container": "Hilbert-Huang Transform and Its Applications: Interdisciplinary Math Conference",
+    "volume": null,
+    "issue": "5",
+    "pages": "167-186",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 17,
+    "citationAsInCV": "J.E. Pinzon, M.E. Brown, and C.J. Tucker, (2003) EMD correction of orbital drift artifacts in satellite data stream Hilbert-Huang Transform and Its Applications: Interdisciplinary Math Conference (5) 167-186.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "possible duplicate/related: pinzon-2006-satellite-time-series (Book Chapters) has same topic and identical pages 167-186",
+        "'(5)' interpreted as issue number",
+        "suggested-doi: 10.1142/9789814508247_0011 — Crossref title \"EMD CORRECTION OF ORBITAL DRIFT ARTIFACTS IN SATELLITE DATA STREAM\" (2014); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2002-contribution-satellite-derived",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2002,
+    "title": "The contribution of satellite derived vegetation to the variation of food prices in three Sahelian countries",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Prince, S.D.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "M.E. Brown, Pinzon J.E., Prince, S.D., and Tucker, C.J.",
+    "container": "SCI 2002 Conference proceedings",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 17,
+    "citationAsInCV": "M.E. Brown, Pinzon J.E., Prince, S.D., and Tucker, C.J. (2002) The contribution of satellite derived vegetation to the variation of food prices in three Sahelian countries, SCI 2002 Conference proceedings, Orlando, Florida, July 2002.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "mahoney-2001-global-remote-sensing",
+    "type": "conference-paper",
+    "status": "published",
+    "year": 2001,
+    "title": "Global Remote Sensing of Vegetation from Space by the NASA/GSFC GIMMS Group",
+    "authors": [
+      "Mahoney, R.",
+      "Tucker, C.J.",
+      "Anyamba, A.",
+      "Brown, M.E.",
+      "Slayback, D.",
+      "Los, S.O.",
+      "Pinzon, J.",
+      "Kendall, J.",
+      "Pak, E.",
+      "Bronder, Z.",
+      "Grant, D.",
+      "Parris, M.",
+      "Morahan, A."
+    ],
+    "authorsAsInCV": "R. Mahoney, C. J. Tucker, A. Anyamba, M.E. Brown, D. Slayback, S. O. Los, J. Pinzon, J. Kendall, E. Pak, Z. Bronder, D. Grant, M. Parris and A. Morahan",
+    "container": "International Workshop on Global Change, Tohoku University",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Sendai Kyodo Printing Co. Ltd.",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Conference Proceedings",
+    "cvPage": 17,
+    "citationAsInCV": "R. Mahoney, C. J. Tucker, A. Anyamba, M.E. Brown, D. Slayback, S. O. Los, J. Pinzon, J. Kendall, E. Pak, Z. Bronder, D. Grant, M. Parris and A. Morahan (2001) Global Remote Sensing of Vegetation from Space by the NASA/GSFC GIMMS Group, International Workshop on Global Change, Tohoku University, Sendai Kyodo Printing Co. Ltd.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "container/publisher split of 'Tohoku University, Sendai Kyodo Printing Co. Ltd.' is interpretive"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "williams-2023-2023-north-american",
+    "type": "report",
+    "status": "published",
+    "year": 2023,
+    "title": "2023 North American Carbon Program Science Implementation Plan",
+    "authors": [
+      "Williams, C.",
+      "Andrews, A.",
+      "Brown, M.E.",
+      "Davis, K.J.",
+      "Hoffman, F.",
+      "Larson, L.",
+      "Poulter, B.",
+      "Shrestha, G.",
+      "Sundquist, E.T.",
+      "Wei, Y."
+    ],
+    "authorsAsInCV": "Williams, C., A. Andrews, M.E. Brown, K.J. Davis, F. Hoffman, L. Larson, B. Poulter, G. Shrestha, E.T. Sundquist, Y. Wei",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "https://www.nacarbon.org/nacp/documents/NSIP%20Final.pdf",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "Williams, C., A. Andrews, M.E. Brown, K.J. Davis, F. Hoffman, L. Larson, B. Poulter, G. Shrestha, E.T. Sundquist, Y. Wei (2023) 2023 North American Carbon Program Science Implementation Plan. https://www.nacarbon.org/nacp/documents/NSIP%20Final.pdf",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "rohling-2021-rationale-remit-oxford",
+    "type": "editorial",
+    "status": "published",
+    "year": 2021,
+    "title": "Rationale and remit of Oxford Open Climate Change",
+    "authors": [
+      "Rohling, E.J.",
+      "Brown, M.",
+      "Eakin, H.",
+      "Eom, J.",
+      "von der Heydt, A.S."
+    ],
+    "authorsAsInCV": "Rohling, EJ, M Brown, H Eakin, J Eom, AS von der Heydt",
+    "container": "Oxford Open Climate Change",
+    "volume": "1",
+    "issue": "1",
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": "10.1093/oxfclm/kgab001",
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "Rohling, EJ, M Brown, H Eakin, J Eom, AS von der Heydt (2021) Rationale and remit of Oxford Open Climate Change Oxford Open Climate Change 1(1) doi: 10.1093/oxfclm/kgab001",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2021-enhancing-food-security",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Enhancing Food Security through Earth Science Data",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Brown, M.E.",
+    "container": "Eos Magazine",
+    "volume": "102",
+    "issue": "2",
+    "pages": null,
+    "publisher": "AGU",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "Brown, M.E. (2021) Enhancing Food Security through Earth Science Data Eos Magazine. AGU Vol 102, No 2.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "global-commission-on-adaptation-2019-adapt-now-global",
+    "type": "report",
+    "status": "published",
+    "year": 2019,
+    "title": "Adapt Now: A Global Call for Leadership on Climate Resilience",
+    "authors": [
+      "Global Commission on Adaptation"
+    ],
+    "authorsAsInCV": "Global Commission on Adaptation",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "World Resources Institute and the Global Center on Adaptation",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "Global Commission on Adaptation (2019) Adapt Now: A Global Call for Leadership on Climate Resilience. World Resources Institute and the Global Center on Adaptation. Contributed to Chapter 2: Food Security and Livelihoods of Small-Scale Producers.",
+    "themes": [
+      "sustainable-food-systems",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "no personal authors; organization used as author — Brown was a contributor to Chapter 2: Food Security and Livelihoods of Small-Scale Producers"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "jewiss-2019-use-satellite-remote",
+    "type": "report",
+    "status": "published",
+    "year": 2019,
+    "title": "Use of Satellite Remote Sensing Data by Commercial Agriculture for Decision Making",
+    "authors": [
+      "Jewiss, J.",
+      "Escobar, V.M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Jewiss, J., V.M. Escobar, M.E. Brown",
+    "container": "Submission to NASA Harvest for fulfillment of contract obligations",
+    "volume": null,
+    "issue": null,
+    "pages": "46",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "Jewiss, J., V.M. Escobar, M.E. Brown, 2019: Use of Satellite Remote Sensing Data by Commercial Agriculture for Decision Making. Submission to NASA Harvest for fulfillment of contract obligations. February 2019. 46 pp.",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "west-2018-chapter-18-carbon",
+    "type": "report",
+    "status": "published",
+    "year": 2018,
+    "title": "Chapter 18: Carbon cycle science in support of decision making",
+    "authors": [
+      "West, T.O.",
+      "Gurwick, N.",
+      "Brown, M.E.",
+      "Duren, R.",
+      "Mooney, S.",
+      "Paustian, K.",
+      "McGlynn, E.",
+      "Malone, E.",
+      "Rosenblatt, A.",
+      "Hultman, N.",
+      "Ocko, I.B."
+    ],
+    "authorsAsInCV": "West, T. O., N. Gurwick, M.E. Brown, R. Duren, S. Mooney, K. Paustian, E. McGlynn, E. Malone, A. Rosenblatt, N. Hultman, and I. B. Ocko",
+    "container": "Second State of the Carbon Cycle Report (SOCCR2): A Sustained Assessment Report",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "U.S. Global Change Research Program, Washington, DC, USA",
+    "editors": "Cavallaro, N., G. Shrestha, R. Birdsey, M. A. Mayes, R. Najjar, S. Reed, P. Romero-Lankao, and Z. Zhu (eds.)",
+    "isbn": null,
+    "doi": "10.7930/SOCCR2.2018.Ch18",
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 17,
+    "citationAsInCV": "West, T. O., N. Gurwick, M.E. Brown, R. Duren, S. Mooney, K. Paustian, E. McGlynn, E. Malone, A. Rosenblatt, N. Hultman, and I. B. Ocko, 2018: Chapter 18: Carbon cycle science in support of decision making. In Second State of the Carbon Cycle Report (SOCCR2): A Sustained Assessment Report [Cavallaro, N., G. Shrestha, R. Birdsey, M. A. Mayes, R. Najjar, S. Reed, P. Romero-Lankao, and Z. Zhu (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 10.7930/SOCCR2.2018.Ch18.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "minor PDF/docx discrepancy: docx has 'E. Malone,A. Rosenblatt' (missing space); PDF text used"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "escobar-2018-nasas-satellites-mapping",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2018,
+    "title": "How NASA’s Satellites are Mapping the Way for Global Policy",
+    "authors": [
+      "Escobar, V.M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "V.M. Escobar and M.E. Brown",
+    "container": "Scientia",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "V.M. Escobar and M.E. Brown (2018) How NASA’s Satellites are Mapping the Way for Global Policy. Scientia. February 2018.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-mobile-applications-help",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2017,
+    "title": "Mobile applications help farmers respond to climate change",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Food Science & Technology Journal",
+    "volume": "31",
+    "issue": "4",
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown (2017) Mobile applications help farmers respond to climate change. Food Science & Technology Journal. 31, 4. December 2017.",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "'31, 4' interpreted as volume 31, issue 4"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-ice-cloud-land",
+    "type": "report",
+    "status": "published",
+    "year": 2017,
+    "title": "Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Volcano Applications White Paper",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "ICESat-2 Mission Applications",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown (2017) Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Volcano Applications White Paper, ICESat-2 Mission Applications.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-ice-cloud-land-b",
+    "type": "report",
+    "status": "published",
+    "year": 2017,
+    "title": "Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Tracking Icebergs from Space White Paper",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "ICESat-2 Mission Applications",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown (2017) Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Tracking Icebergs from Space White Paper, ICESat-2 Mission Applications.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-time-sensitive-applications-nasa",
+    "type": "report",
+    "status": "published",
+    "year": 2016,
+    "title": "Time-Sensitive Applications of NASA data: Workshop Report",
+    "authors": [
+      "Brown, M.E.",
+      "Davies, D.",
+      "Green, D.",
+      "Murphy, K.",
+      "Zavodsky, B.",
+      "Stavros, N."
+    ],
+    "authorsAsInCV": "M.E. Brown, D. Davies, D. Green, K. Murphy, B. Zavodsky, N. Stavros",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown, D. Davies, D. Green, K. Murphy, B. Zavodsky, N. Stavros (2016) Time-Sensitive Applications of NASA data: Workshop Report, held September 27-29 2016, Reid Conference Center, Langley Research Center, Hampton VA.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "delgado-arias-2016-report-icesat-2-inland",
+    "type": "report",
+    "status": "published",
+    "year": 2016,
+    "title": "Report on the ICESat-2 Inland Water Focus Session",
+    "authors": [
+      "Delgado Arias, S.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "S. Delgado Arias, and M.E. Brown",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "S. Delgado Arias, and M.E. Brown (2016) Report on the ICESat-2 Inland Water Focus Session, held November 18, 2015 in Denver Colorado at the American Water Resources Association Annual meeting.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "co-author spelled 'Delgado Arias' here but 'Delgado-Arias' in brown-2015-ice-cloud-land",
+        "year 2016 but session held November 18, 2015"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-ice-cloud-land",
+    "type": "report",
+    "status": "published",
+    "year": 2016,
+    "title": "Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Fuels and Wildfires White Paper",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "ICESat-2 Mission Applications",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown (2016) Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Fuels and Wildfires White Paper. ICESat-2 Mission Applications.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-ice-cloud-land",
+    "type": "report",
+    "status": "published",
+    "year": 2015,
+    "title": "Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Inland Water White Paper",
+    "authors": [
+      "Brown, M.E.",
+      "Delgado-Arias, S.",
+      "Jasinski, M.",
+      "Neumann, T."
+    ],
+    "authorsAsInCV": "M.E. Brown, S. Delgado-Arias, M. Jasinski, T. Neumann",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown, S. Delgado-Arias, M. Jasinski, T. Neumann (2015) Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) Applications: Inland Water White Paper",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "co-author spelled 'Delgado-Arias' here but 'Delgado Arias' in delgado-arias-2016-report-icesat-2"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-climate-trend-analysis",
+    "type": "report",
+    "status": "published",
+    "year": 2016,
+    "title": "A Climate Trend Analysis of Ethiopia – examining sub-seasonal impacts on crops and pasture conditions",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.",
+      "Pedreros, D.",
+      "Verdin, J.",
+      "Rowland, J.",
+      "Williams, E."
+    ],
+    "authorsAsInCV": "M.E. Brown, C. Funk, D. Pedreros, J. Verdin, J. Rowland, E. Williams",
+    "container": "Informing Climate Change Adaptation Series",
+    "volume": null,
+    "issue": null,
+    "pages": "5",
+    "publisher": "USGS and Famine Early Warning Systems Network",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "M.E. Brown, C. Funk, D. Pedreros, J. Verdin, J. Rowland, E. Williams (2016) A Climate Trend Analysis of Ethiopia – examining sub-seasonal impacts on crops and pasture conditions. USGS and Famine Early Warning Systems Network report in the Informing Climate Change Adaptation Series. 5 pp.",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "hubbard-2015-measuring-performance-stormwater",
+    "type": "report",
+    "status": "published",
+    "year": 2015,
+    "title": "Measuring the Performance of Stormwater Best Management Practices at the Goddard Space Flight Center Using the EPA’s SWMM",
+    "authors": [
+      "Hubbard, A.B.",
+      "Carroll, M.L.",
+      "Brown, M.E.",
+      "Levine, L.",
+      "Tokay, A.",
+      "Fahrner, M."
+    ],
+    "authorsAsInCV": "A.B. Hubbard, M.L. Carroll, M.E. Brown, L. Levine, A. Tokay, M. Fahrner",
+    "container": "NASA Report",
+    "volume": null,
+    "issue": null,
+    "pages": "29",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "A.B. Hubbard, M.L. Carroll, M.E. Brown, L. Levine, A. Tokay, M. Fahrner (2015) Measuring the Performance of Stormwater Best Management Practices at the Goddard Space Flight Center Using the EPA’s SWMM. NASA Report. 29 pp.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "stormwater engineering report; no theme fits closely, 'applications' assigned provisionally"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "entekhabi-2014-smap-handbook",
+    "type": "report",
+    "status": "published",
+    "year": 2014,
+    "title": "SMAP Handbook",
+    "authors": [
+      "Entekhabi, D.",
+      "Yueh, S.",
+      "O’Neill, P.",
+      "Kellogg, K."
+    ],
+    "authorsAsInCV": "D. Entekhabi, S. Yueh, P. O’Neill, K. Kellogg et al.",
+    "container": "JPL Publication JPL 400-1567",
+    "volume": null,
+    "issue": null,
+    "pages": "182",
+    "publisher": "Jet Propulsion Laboratory, Pasadena, California",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://smap.jpl.nasa.gov/system/internal_resources/details/original/178_SMAP_Handbook_FINAL_1_JULY_2014_Web.pdf",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 18,
+    "citationAsInCV": "D. Entekhabi, S. Yueh, P. O’Neill, K. Kellogg et al., SMAP Handbook, JPL Publication JPL 400-1567, Jet Propulsion Laboratory, Pasadena, California, 182 pages, July, 2014. http://smap.jpl.nasa.gov/system/internal_resources/details/original/178_SMAP_Handbook_ FINAL_1_JULY_2014_Web.pdf",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "author list truncated with 'et al.' in CV; Brown is not among the named authors",
+        "no parenthetical year; year 2014 taken from 'July, 2014'",
+        "URL broken across a line in PDF ('Handbook_ FINAL'); rejoined, confirmed by docx hyperlink"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2013-study-data-latency",
+    "type": "report",
+    "status": "published",
+    "year": 2013,
+    "title": "Study on Data Latency Needs and Requirements",
+    "authors": [
+      "Brown, M.E.",
+      "Carroll, M.L.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, M.L. Carroll, V.M. Escobar",
+    "container": "Submitted as a technical report to NASA Headquarters",
+    "volume": null,
+    "issue": null,
+    "pages": "31",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, M.L. Carroll, V.M. Escobar (2013) Study on Data Latency Needs and Requirements. Submitted as a technical report to NASA Headquarters. 31 pp.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "carroll-2013-feasibility-using-remotely",
+    "type": "report",
+    "status": "published",
+    "year": 2013,
+    "title": "Feasibility of using remotely sensed data to aid in long term monitoring of biodiversity",
+    "authors": [
+      "Carroll, M.L.",
+      "Brown, M.E.",
+      "Elders, A.",
+      "Johnson, K."
+    ],
+    "authorsAsInCV": "M.L. Carroll, M.E. Brown, A. Elders, K. Johnson",
+    "container": "NASA Technical Memorandum 2014-217524",
+    "volume": null,
+    "issue": null,
+    "pages": "23",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.L. Carroll, M.E. Brown, A. Elders, K. Johnson (2013) Feasibility of using remotely sensed data to aid in long term monitoring of biodiversity. NASA Technical Memorandum 2014-217524. 23 pp.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "year conflict: CV year 2013 but memorandum number is 2014-217524; kept 2013"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2013-global-climate-change",
+    "type": "report",
+    "status": "published",
+    "year": 2013,
+    "title": "Global Climate Change, Food Security and the U.S. Food System Expert Stakeholder and Author Meeting Workshop Report",
+    "authors": [
+      "Brown, M.E.",
+      "Walsh, M.",
+      "Hauser, R.",
+      "Murray, A.",
+      "Jadin, J.",
+      "Backlund, P.",
+      "Robinson, P."
+    ],
+    "authorsAsInCV": "M.E. Brown, Margaret Walsh, Rachel Hauser, Anthony Murray, Jenna Jadin, Peter Backlund, and Paula Robinson",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, Margaret Walsh, Rachel Hauser, Anthony Murray, Jenna Jadin, Peter Backlund, and Paula Robinson (2013) Global Climate Change, Food Security and the U.S. Food System Expert Stakeholder and Author Meeting Workshop Report, held 25-27 June 2013, Washington DC.",
+    "themes": [
+      "food-security",
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "shively-2012-measuring-links-between",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "Measuring the links between agriculture and child health in Nepal",
+    "authors": [
+      "Shively, G.",
+      "Sununtnasuk, C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "G. Shively, C. Sununtnasuk, M.E. Brown",
+    "container": "Nutrition CRSP Research Briefing Paper No. 10",
+    "volume": null,
+    "issue": null,
+    "pages": "26",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://www.nutritioninnovationlab.org/wp-content/uploads/2013/04/RBP10_Agriculture_Child_Health_Nepal_FINAL.pdf",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "G. Shively, C. Sununtnasuk, M.E. Brown (2012) Measuring the links between agriculture and child health in Nepal. Nutrition CRSP Research Briefing Paper No. 10. pp. 26. http://www.nutritioninnovationlab.org/wp-content/uploads/2013/04/RBP10_Agriculture_Child_ Health_Nepal_FINAL.pdf",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "URL broken across lines in PDF ('Child_ Health'); rejoined — docx hyperlink target is truncated at '..._Child_', so full URL is unconfirmed",
+        "'pp. 26' interpreted as length"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-report-hydrology-applications",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "Report on the Hydrology Applications Joint Mission Tutorial for SMAP with GPM, GRACE-FO and SWOT",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. M. Escobar",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, V. M. Escobar, (2012) Report on the Hydrology Applications Joint Mission Tutorial for SMAP with GPM, GRACE-FO and SWOT, Hosted by the USGS National Center, Reston, VA. October 17-18, 2012.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-report-smap-icesat-2-joint",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "Report on the SMAP/ICESat-2 Joint Mission Applications Tutorial",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. M. Escobar",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, V. M. Escobar, (2012) Report on the SMAP/ICESat-2 Joint Mission Applications Tutorial Hosted by the Alaska Satellite Facility, Fairbanks, Alaska, September 18-20, 2012.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-icesat-2-applications-workshop",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "ICESat-2 Applications Workshop Report",
+    "authors": [
+      "Brown, M.E.",
+      "Carroll, M.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, M. Carroll, V. M. Escobar",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://icesat.gsfc.nasa.gov/icesat2/applications/",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, M. Carroll, V. M. Escobar (2012) ICESat-2 Applications Workshop Report. Meeting held at NASA Goddard Space Flight Center, April 12, 2012. http://icesat.gsfc.nasa.gov/icesat2/applications/",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "escobar-2012-smap-focus-session",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "SMAP Focus Session for Arizona State University Urban Modeling Community",
+    "authors": [
+      "Escobar, V.M.",
+      "Brown, M.E.",
+      "Moran, M.S."
+    ],
+    "authorsAsInCV": "V.M. Escobar, V.M., M.E. Brown, M.S. Moran",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://smap.jpl.nasa.gov/files/smap2/ASU_modelers.pdf",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "V.M. Escobar, V.M., M.E. Brown, M.S. Moran (2012) SMAP Focus Session for Arizona State University Urban Modeling Community, February 16-17, 2012, Arizona State University, Phoenix, AZ. http://smap.jpl.nasa.gov/files/smap2/ASU_modelers.pdf",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV repeats initials 'V.M. Escobar, V.M.'; treated as one author"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-nasas-carbon-monitoring",
+    "type": "report",
+    "status": "published",
+    "year": 2012,
+    "title": "NASA’s Carbon Monitoring Systems (CMS) Policy Brief",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. M. Escobar",
+    "container": "Flux Pilot Project meeting",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, V. M. Escobar (2012) NASA’s Carbon Monitoring Systems (CMS) Policy Brief, Flux Pilot Project meeting, held at Resource for the Future (RFF), Washington DC Jan 2012.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-2011-smap-applications",
+    "type": "report",
+    "status": "published",
+    "year": 2011,
+    "title": "2011 SMAP Applications Workshop Report",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.",
+      "Moran, S.",
+      "Entekhabi, D.",
+      "Njoku, E.",
+      "O’Neill, P."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. Escobar, S. Moran, D. Entekhabi, E. Njoku, P. O’Neill",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://smap.jpl.nasa.gov/",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, V. Escobar, S. Moran, D. Entekhabi, E. Njoku, P. O’Neill (2011) 2011 SMAP Applications Workshop Report. Meeting held at the USDA South Building, Washington DC September 12-13, 2011. http://smap.jpl.nasa.gov/",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "duplicate: same report listed earlier as brown-2012-2011-smap-applications with year 2012 and two authors"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-applications-activities-nasa",
+    "type": "report",
+    "status": "published",
+    "year": 2011,
+    "title": "Applications Activities for NASA Flight Missions",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.",
+      "Moran, S.",
+      "Doorn, B.",
+      "Friedl, L.",
+      "Habib, S."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. Escobar, S. Moran, B. Doorn, L. Friedl, S. Habib",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 19,
+    "citationAsInCV": "M.E. Brown, V. Escobar, S. Moran, B. Doorn, L. Friedl, S. Habib (2011) Applications Activities for NASA Flight Missions September 2011.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-earth-science-data",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2011,
+    "title": "Earth Science Data for Humanitarian Aid",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Livebetter Magazine",
+    "volume": null,
+    "issue": "13",
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://www.centerforabetterlife.com/eng/magazine/article_detail.lasso?id=220",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown (2011) Earth Science Data for Humanitarian Aid. Livebetter Magazine. No 13 October 2011. http://www.centerforabetterlife.com/eng/magazine/article_detail.lasso?id=220",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-soil-moisture-active-b",
+    "type": "report",
+    "status": "published",
+    "year": 2011,
+    "title": "Soil Moisture Active Passive SMAP Mission Applications Plan",
+    "authors": [
+      "Brown, M.E.",
+      "Moran, S.",
+      "Escobar, V.",
+      "Entekhabi, D."
+    ],
+    "authorsAsInCV": "M.E. Brown, S. Moran, V. Escobar, D. Entekhabi",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": "http://smap.jpl.nasa.gov/",
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown, S. Moran, V. Escobar, D. Entekhabi (2011) Soil Moisture Active Passive SMAP Mission Applications Plan. http://smap.jpl.nasa.gov/ - revised in 2012.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV notes '- revised in 2012'"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2009-model-west-african",
+    "type": "report",
+    "status": "published",
+    "year": 2009,
+    "title": "A Model of West African Millet Prices in Rural Markets",
+    "authors": [
+      "Brown, M.E.",
+      "Hintermann, B.",
+      "Higgins, N."
+    ],
+    "authorsAsInCV": "M.E. Brown, Hintermann, B., & Higgins, N.",
+    "container": "CEPE Working Paper No. 69",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Center for Energy Policy and Economics, Swiss Federal Institutes of Technology",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown, Hintermann, B., & Higgins, N. (2009). A Model of West African Millet Prices in Rural Markets. Center for Energy Policy and Economics, Swiss Federal Institutes of Technology, CEPE Working Paper No. 69. November 2009.",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "shares its title with the 2014 Food Policy paper (Higgins, Hintermann & Brown, Refereed Papers) — working-paper precursor; keep both"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-using-remote-sensing",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Using Remote Sensing for Improved Decision Making for Food Security",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "The Earth Observer",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown (2008) ‘Using Remote Sensing for Improved Decision Making for Food Security,’ The Earth Observer Newsletter Feature Article, Nov-Dec 2008.",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV describes it as 'Newsletter Feature Article, Nov-Dec 2008'"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "funk-2008-fews-net-climate",
+    "type": "report",
+    "status": "published",
+    "year": 2008,
+    "title": "FEWS NET Climate Change Impact Report",
+    "authors": [
+      "Funk, C.C.",
+      "Brown, M.E.",
+      "Choularton, R.",
+      "Verdin, J.",
+      "Dettinger, M."
+    ],
+    "authorsAsInCV": "C.C. Funk, Brown, M.E., Choularton, R., Verdin, J., Dettinger, M.",
+    "container": "Special Report for USAID",
+    "volume": null,
+    "issue": null,
+    "pages": "10",
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "C.C. Funk, Brown, M.E., Choularton, R., Verdin, J., Dettinger, M., (2008), FEWS NET Climate Change Impact Report, Special Report for USAID, 10 pp.",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2007-precipitation-products-usaid",
+    "type": "report",
+    "status": "published",
+    "year": 2007,
+    "title": "Precipitation Products for USAID Disaster Management Requirements",
+    "authors": [
+      "Brown, M.E.",
+      "Love, T.",
+      "Husak, G.",
+      "Wolvovsky, E.",
+      "Bennett, A.",
+      "Ross, K.W."
+    ],
+    "authorsAsInCV": "M.E. Brown, T. Love, G. Husak, E. Wolvovsky, A. Bennett and K. W. Ross",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": "20",
+    "publisher": "Greenbelt, MD, NASA Goddard Space Flight Center",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown, T. Love, G. Husak, E. Wolvovsky, A. Bennett and K. W. Ross (2007). Precipitation Products for USAID Disaster Management Requirements. Greenbelt, MD, NASA Goddard Space Flight Center: 20 pp.",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "ross-2007-decision-support-evaluation",
+    "type": "report",
+    "status": "published",
+    "year": 2007,
+    "title": "Decision Support Evaluation Report for USAID Famine and Malaria Early Warning Systems",
+    "authors": [
+      "Ross, K.W.",
+      "Brown, M.E.",
+      "Connor, S.J.",
+      "Verdin, J.P.",
+      "Ceccato, P.",
+      "Funk, C.C."
+    ],
+    "authorsAsInCV": "K.W. Ross, M.E. Brown, S.J. Connor, J.P. Verdin, P. Ceccato, and C.C. Funk",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": "76",
+    "publisher": "NASA Goddard Space Flight Center, Greenbelt, MD",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "K.W. Ross, M.E. Brown, S.J. Connor, J.P. Verdin, P. Ceccato, and C.C. Funk (2007) Decision Support Evaluation Report for USAID Famine and Malaria Early Warning Systems, NASA Goddard Space Flight Center, Greenbelt, MD. 76 pp.",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2003-quantitative-comparison-four",
+    "type": "report",
+    "status": "published",
+    "year": 2003,
+    "title": "Quantitative Comparison of Four AVHRR Global Data Sets for Land Applications",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "M.E. Brown, J.E. Pinzon, and C.J. Tucker, C.J.",
+    "container": "Global Mapping and Modeling Systems (GIMMS) Report",
+    "volume": null,
+    "issue": null,
+    "pages": "22",
+    "publisher": "Greenbelt, MD",
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Peer Reviewed Reports and Non-Peer Reviewed Publications (not elsewhere published)",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown, J.E. Pinzon, and C.J. Tucker, C.J. (2003) Quantitative Comparison of Four AVHRR Global Data Sets for Land Applications, Global Mapping and Modeling Systems (GIMMS) Report, Greenbelt, MD. 22 pp.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV repeats initials 'C.J. Tucker, C.J.'; treated as one author",
+        "GIMMS expansion given as 'Global Mapping and Modeling Systems' — kept as written; verify"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2021-monitoring-intelligence-generation",
+    "type": "patent",
+    "status": "pending",
+    "year": 2021,
+    "title": "Monitoring and intelligence generation for farm field",
+    "authors": [
+      "Brown, M.E.",
+      "Feng, M.",
+      "Eskin, V."
+    ],
+    "authorsAsInCV": "M.E. Brown, Feng, M, Eskin V",
+    "container": "U.S. Patent 17/447,984",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "editors": null,
+    "isbn": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "PATENTS",
+    "cvPage": 20,
+    "citationAsInCV": "M.E. Brown, Feng, M, Eskin V (2021). Monitoring and intelligence generation for farm field. U.S. Patent 17/447,984, filed September 17, 2021. Patent pending.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "'17/447,984' is a U.S. application serial number (filed September 17, 2021), not a granted patent number"
+      ]
+    },
+    "publish": true
+  }
+]

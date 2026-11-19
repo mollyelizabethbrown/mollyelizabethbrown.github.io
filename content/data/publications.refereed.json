@@ -1,0 +1,4429 @@
+[
+  {
+    "id": "brown-2026-decoding-climate-anomalies",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "Decoding climate anomalies—From scientifically sound to societally relevant",
+    "authors": [
+      "Brown, M.E.",
+      "Tarnavsky, E.",
+      "Enenkel, M."
+    ],
+    "authorsAsInCV": "Brown, M.E., Tarnavsky, E., Enenkel, M.",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "123",
+    "issue": "44",
+    "pages": "e2321154122",
+    "publisher": null,
+    "doi": "10.1073/pnas.2321154122",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Brown, M.E., Tarnavsky, E., Enenkel, M. (2026) Decoding climate anomalies—From scientifically sound to societally relevant. Proceedings of the National Academy of Sciences 123 (44) e2321154122. Doi: 10.1073/pnas.2321154122.",
+    "themes": [
+      "applications",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "grace-2026-exploring-data-science",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "Exploring data science as a tool to advance linked socio-ecological systems in the context of climate change",
+    "authors": [
+      "Grace, K.L.",
+      "Reich, P.B.",
+      "Agrawal, A.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "K.L. Grace, P.B. Reich, A. Agrawal, M.E. Brown",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "123",
+    "issue": "44",
+    "pages": "e2321149123",
+    "publisher": null,
+    "doi": "10.1073/pnas.2321149123",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "K.L. Grace, P.B. Reich, A. Agrawal, M.E. Brown (2026) Exploring data science as a tool to advance linked socio-ecological systems in the context of climate change. Proceedings of the National Academy of Sciences. 123 (44) e2321149123. doi: 10.1073/pnas.2321149123.",
+    "themes": [
+      "climate-risk",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "samraoui-2026-wetlands-natural-water",
+    "type": "journal-article",
+    "status": "in-press",
+    "year": 2026,
+    "title": "Wetlands as natural water infrastructure: assessing perceived importance, reported use and importance–use mismatch in Algerian wetland communities",
+    "authors": [
+      "Samraoui, F.",
+      "Brown, M.E.",
+      "Nahli, C.",
+      "Snani, S.",
+      "Rouibi, Y.",
+      "Aouadi, A.",
+      "Satour, A.",
+      "Nedjah, R.",
+      "Samraoui, B."
+    ],
+    "authorsAsInCV": "Samraoui, F; ME Brown; Chahrazed Nahli; Sara Snani; Yacine Rouibi; Abdallah Aouadi; Abdellatif Satour; Riad Nedjah; Boudjéma Samraoui",
+    "container": "AQUA - Water Infrastructure, Ecosystems and Society",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Samraoui, F; ME Brown; Chahrazed Nahli; Sara Snani; Yacine Rouibi; Abdallah Aouadi; Abdellatif Satour; Riad Nedjah; Boudjéma Samraoui (2026) Wetlands as natural water infrastructure: assessing perceived importance, reported use and importance–use mismatch in Algerian wetland communities. AQUA - Water Infrastructure, Ecosystems and Society. (In press)",
+    "themes": [
+      "sustainable-food-systems",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "in press: no volume, pages or DOI given",
+        "author list mixes formats in CV (semicolons, 'ME Brown', full given names); normalized"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "mount-2026-increasing-diet-sustainability",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "Increasing Diet Sustainability through Environmental, Economic, and Nutritional Factors in the DC-Maryland-Virginia Metropolitan Area",
+    "authors": [
+      "Mount, C.",
+      "Darge, T.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Mount, C.; Darge, T.; Brown, M.E.",
+    "container": "Sustainability",
+    "volume": "19",
+    "issue": "19",
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3390/su181910111",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Mount, C.; Darge, T.; Brown, M.E. (2026) Increasing Diet Sustainability through Environmental, Economic, and Nutritional Factors in the DC-Maryland-Virginia Metropolitan Area. Sustainability. 19(19). DOI: 10.3390/su181910111",
+    "themes": [
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV gives volume 19(19), but the DOI (su181910111) and docx hyperlink (https://www.mdpi.com/2071-1050/18/19/10111) indicate volume 18, issue 19, article 10111; CV value kept",
+        "no article number/pages given in CV",
+        "crossref: registered volume 18 differs from CV volume 19"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "pinchoff-2026-high-local-temperatures",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "High local temperatures reduce dietary diversity in children under 2: variation along the urban spectrum in Kenya and Burkina Faso",
+    "authors": [
+      "Pinchoff, J.",
+      "Kristiansen, D.",
+      "Brown, M.E.",
+      "Grace, K.L."
+    ],
+    "authorsAsInCV": "Pinchoff, J.; Kristiansen, D.; Brown, M.E.; Grace, K.L.",
+    "container": "Health and Place Journal",
+    "volume": "101",
+    "issue": null,
+    "pages": "103726",
+    "publisher": null,
+    "doi": "10.1016/j.healthplace.2026.103726",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Pinchoff, J.; Kristiansen, D.; Brown, M.E.; Grace, K.L. (2026) High local temperatures reduce dietary diversity in children under 2: variation along the urban spectrum in Kenya and Burkina Faso. Health and Place Journal. 101(103726). DOI: 10.1016/j.healthplace.2026.103726",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV writes '101(103726)'; 103726 matches the DOI article number, so it is stored in pages rather than issue",
+        "container kept as written ('Health and Place Journal'; journal is Health & Place)"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2026-altimetry-data-icesat",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "Altimetry Data from ICESat-2 Brings Value to the Private Sector",
+    "authors": [
+      "Brown, M.E.",
+      "Neeley, A.",
+      "Phillips, A.",
+      "Felikson, D."
+    ],
+    "authorsAsInCV": "Brown, M.E., A. Neeley, A. Phillips and D. Felikson",
+    "container": "Remote Sensing Journal",
+    "volume": "18",
+    "issue": "8",
+    "pages": "1114",
+    "publisher": null,
+    "doi": "10.3390/rs18081114",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Brown, M.E., A. Neeley, A. Phillips and D. Felikson (2026) Altimetry Data from ICESat-2 Brings Value to the Private Sector. Remote Sensing Journal. 18(8), 1114; Doi: 10.3390/rs18081114",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "le-2026-evaluation-deep-learning",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2026,
+    "title": "Evaluation of Deep Learning approaches for Classifying Regional Croplands with Satellite Image Time Series in Senegal",
+    "authors": [
+      "Le, M.T.",
+      "Wessels, K.J.",
+      "Wooten, M.",
+      "Caraballo-Vega, J.A.",
+      "Brown, M.E.",
+      "Carroll, M.",
+      "Zufle, A.",
+      "Neigh, C.S.R."
+    ],
+    "authorsAsInCV": "Le MT, Wessels, KJ, Wooten, M., Caraballo-Vega JA, Brown, ME, Carroll M, Zufle A, Neigh CSR.",
+    "container": "Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "volume": "19",
+    "issue": null,
+    "pages": "9922-9933",
+    "publisher": null,
+    "doi": "10.1109/JSTARS.2026.3666440",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Le MT, Wessels, KJ, Wooten, M., Caraballo-Vega JA, Brown, ME, Carroll M, Zufle A, Neigh CSR. (2026) Evaluation of Deep Learning approaches for Classifying Regional Croplands with Satellite Image Time Series in Senegal. Journal of Selected Topics in Applied Earth Observations and Remote Sensing. Vol 19; 9922 - 9933 Doi: 10.1109/JSTARS.2026.3666440",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "container kept as written; it lacks the 'IEEE' prefix used for the same journal in the 2014 Brown & Escobar entry"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "mansfield-2025-child-stunting-amid",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2025,
+    "title": "Child Stunting Amid Hot and Cold Temperature Anomalies in Burkina Faso and Kenya",
+    "authors": [
+      "Mansfield, T.",
+      "Brown, M.E.",
+      "Gore, M."
+    ],
+    "authorsAsInCV": "Mansfield, T, Brown, M.E., Gore, M.",
+    "container": "Children",
+    "volume": "12",
+    "issue": "10",
+    "pages": "1346",
+    "publisher": null,
+    "doi": "10.3390/children12101346",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Mansfield, T, Brown, M.E., Gore, M. (2025) Child Stunting Amid Hot and Cold Temperature Anomalies in Burkina Faso and Kenya. Children. 12(10):1346. doi: 10.3390/children12101346",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "conflict",
+      "issues": [
+        "crossref: DOI is registered to a different title — \"Child Stunting and Temperature Anomalies: A Cross-Sectional Study in Burkina Faso and Kenya\" (similarity 0.73)",
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "osendarp-2025-famines-gaza-other",
+    "type": "letter-commentary",
+    "status": "published",
+    "year": 2025,
+    "title": "The Famines in Gaza and Other Conflict Areas Are a Moral Failure",
+    "authors": [
+      "Osendarp, S.",
+      "Haddad, L.",
+      "Fabrizio, C.",
+      "Andridge, C.",
+      "Black, R.E.",
+      "Brown, M.E.",
+      "Bryan, E.",
+      "Campbell, B.M.",
+      "D’Alimonte, M.",
+      "Fanzo, F.",
+      "Headey, D.",
+      "Heidkamp, R.",
+      "McCarter, A.",
+      "Menon, P.",
+      "Michaux, K.",
+      "Nordhagen, S.",
+      "L. Miachon Silva",
+      "Verstraeten, R.",
+      "Bhutta, Z.A."
+    ],
+    "authorsAsInCV": "Osendarp, S., L. Haddad, C. Fabrizio, C. Andridge, R.E. Black, M.E. Brown, E. Bryan, B.M. Campbell, M. D’Alimonte, F. Fanzo, D. Headey, R. Heidkamp, A. McCarter, P. Menon, K. Michaux, S. Nordhagen, L. Miachon Silva, R. Verstraeten, Z.A. Bhutta",
+    "container": "Lancet",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/S0140-6736(25)01542-9",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Osendarp, S., L. Haddad, C. Fabrizio, C. Andridge, R.E. Black, M.E. Brown, E. Bryan, B.M. Campbell, M. D’Alimonte, F. Fanzo, D. Headey, R. Heidkamp, A. McCarter, P. Menon, K. Michaux, S. Nordhagen, L. Miachon Silva, R. Verstraeten, Z.A. Bhutta 2025 “The Famines in Gaza and Other Conflict Areas Are a Moral Failure.” Lancet. https://doi.org/10.1016/S0140-6736(25)01542-9",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "Lancet comment piece; typed letter-commentary (not a research article)",
+        "year given without parentheses in CV ('Bhutta 2025')",
+        "no volume/issue/pages given",
+        "author 'L. Miachon Silva' kept as written (family/given split uncertain)",
+        "author 'F. Fanzo' may be an initial error (J. Fanzo elsewhere in CV); kept as written",
+        "title enclosed in quotation marks in CV; quotes and final period dropped"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "light-2025-applying-science-impact",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2025,
+    "title": "Applying the Science Impact Framework to understand real-world applications and impacts of ICESat and ICESat-2 data on decision-making",
+    "authors": [
+      "Light, S.I.",
+      "Brown, M.E.",
+      "Neeley, A.",
+      "Neumann, T."
+    ],
+    "authorsAsInCV": "Light, S.I, Brown, M.E., Neeley, A., Neumann, T.",
+    "container": "Remote Sensing Applications: Society and Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rsase.2025.101669",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 3,
+    "citationAsInCV": "Light, S.I, Brown, M.E., Neeley, A., Neumann, T. (2025) Applying the Science Impact Framework to understand real-world applications and impacts of ICESat and ICESat-2 data on decision-making. Remote Sensing Applications: Science and Environment. https://doi.org/10.1016/j.rsase.2025.101669",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "corrected: Remote Sensing Applications: Science and Environment → Remote Sensing Applications: Society and Environment (rsase DOI; spelled correctly elsewhere in CV)",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "kennedy-2024-characterizing-communicating-uncertainty",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2024,
+    "title": "Characterizing and communicating uncertainty: lessons from NASA’s Carbon Monitoring System",
+    "authors": [
+      "Kennedy, R.",
+      "Serbin, S.P.",
+      "Dietze, M.C.",
+      "Andersen, H.-E.",
+      "Babcock, C.",
+      "Baker, D.F.",
+      "Brown, M.E.",
+      "Davis, K.J.",
+      "Duncanson, L.",
+      "Feng, S.",
+      "Hudak, A.T.",
+      "Liu, J.",
+      "Patterson, P.L.",
+      "Raczka, B.",
+      "Cochrane, M.A.",
+      "Sepulveda Carlo, E.A.",
+      "Vargas, R."
+    ],
+    "authorsAsInCV": "Kennedy, R. Serbin, S.P., Dietze, M.C., Andersen, H-E, Babcock, C., Baker, D.F., Brown, M.E., Davis, K.J,, Duncanson, L, Feng, S., Hudak, A.T., Liu, J., Patterson, P.L., Raczka, B., Cochrane, M.A., Sepulveda Carlo, E.A., Vargas, R.",
+    "container": "Environmental Research Letters",
+    "volume": "19",
+    "issue": null,
+    "pages": "123003",
+    "publisher": null,
+    "doi": "10.1088/1748-9326/ad8be0",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "Kennedy, R. Serbin, S.P., Dietze, M.C., Andersen, H-E, Babcock, C., Baker, D.F., Brown, M.E., Davis, K.J,, Duncanson, L, Feng, S., Hudak, A.T., Liu, J., Patterson, P.L., Raczka, B., Cochrane, M.A., Sepulveda Carlo, E.A., Vargas, R. (2024) Characterizing and communicating uncertainty: lessons from NASA’s Carbon Monitoring System. Environmental Research Letters. 19 123003. https://doi.org/10.1088/1748-9326/ad8be0",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV author punctuation irregular ('Kennedy, R. Serbin', 'Davis, K.J,,'); normalized"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2024-data-decisions-changing",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2024,
+    "title": "Data to Decisions: Changing Priorities for Earth Observations",
+    "authors": [
+      "Brown, M.E.",
+      "Neeley, A.",
+      "Neumann, T."
+    ],
+    "authorsAsInCV": "M.E. Brown, A. Neeley, T. Neumann",
+    "container": "EOS Magazine",
+    "volume": "105",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1029/2024EO240389",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "M.E. Brown, A. Neeley, T. Neumann (2024) Data to Decisions: Changing Priorities for Earth Observations. EOS Magazine. 105, https://doi.org/10.1029/2024EO240389.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "Eos magazine feature, not a refereed research article; typed magazine-article"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "szyniszewska-2024-food-systems-perspective",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2024,
+    "title": "A food systems perspective: how GBADs links to the Global Burden of Crop Loss",
+    "authors": [
+      "Szyniszewska, A.M.",
+      "Simpkins, K.M.",
+      "Thomas, L.",
+      "Beale, T.",
+      "Bebber, D.P.",
+      "Brown, M.E.",
+      "Mahmood, S.",
+      "Milne, A.E.",
+      "Murphy, C.",
+      "Oliver, G.",
+      "Taylor, B.",
+      "Woolman, T.",
+      "Huntington, B.",
+      "Finegold, C."
+    ],
+    "authorsAsInCV": "A.M. Szyniszewska, K.M. Simpkins, L. Thomas, T. Beale, D.P. Bebber, M.E. Brown, S. Mahmood, A.E. Milne, C. Murphy, G. Oliver, B. Taylor, T. Woolman, B. Huntington & C. Finegold",
+    "container": "Revue Scientifique et Technique",
+    "volume": "43",
+    "issue": null,
+    "pages": "177-188",
+    "publisher": null,
+    "doi": "10.20506/rst.43.3530",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "A.M. Szyniszewska, K.M. Simpkins, L. Thomas, T. Beale, D.P. Bebber, M.E. Brown, S. Mahmood, A.E. Milne, C. Murphy, G. Oliver, B. Taylor, T. Woolman, B. Huntington & C. Finegold (2024) A food systems perspective: how GBADs links to the Global Burden of Crop Loss. Revue Scientifique et Technique 43:177-188. doi: 10.20506/rst.43.3530.",
+    "themes": [
+      "food-security",
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "santiago-2023-data-integration-dashboard",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "Data Integration Dashboard for Assessing and Planning Sustainable Intensification Interventions: A Case Study in Senegal",
+    "authors": [
+      "Santiago, G.",
+      "Carcedo, A.J.P.",
+      "Brown, M.E.",
+      "Nejadhashemi, A.P.",
+      "Vara Prasad, P.V.",
+      "Ciampitti, I.A."
+    ],
+    "authorsAsInCV": "G. Santiago, AJP Carcedo, ME Brown, AP Nejadhashemi, P. V. Vara Prasad and IA Ciampitti",
+    "container": "Frontiers in Sustainable Food Systems",
+    "volume": "7",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3389/fsufs.2023.1208286",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "G. Santiago, AJP Carcedo, ME Brown, AP Nejadhashemi, P. V. Vara Prasad and IA Ciampitti (2023) Data Integration Dashboard for Assessing and Planning Sustainable Intensification Interventions: A Case Study in Senegal. Frontiers in Sustainable Food Systems. Volume 7, https://doi.org/10.3389/fsufs.2023.1208286",
+    "themes": [
+      "sustainable-food-systems",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2023-assessment-nasa-carbon",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "Assessment of the NASA Carbon Monitoring System Wet Carbon Stakeholder Community: Data needs, gaps, and opportunities",
+    "authors": [
+      "Brown, M.E.",
+      "Mitchell, C.",
+      "Halabisky, M.",
+      "Gustafson, B.",
+      "do Rosario Gomes, H.",
+      "Campbell, A.D.",
+      "Poulter, B."
+    ],
+    "authorsAsInCV": "M.E. Brown, C. Mitchell, M. Halabisky, B. Gustafson, H do Rosario Gomes, A.D. Campbell, B. Poulter",
+    "container": "Environmental Research Letters",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1088/1748-9326/ace208",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "M.E. Brown, C. Mitchell, M. Halabisky, B. Gustafson, H do Rosario Gomes, A.D. Campbell, B. Poulter (2023) Assessment of the NASA Carbon Monitoring System Wet Carbon Stakeholder Community: Data needs, gaps, and opportunities. Environmental Research Letters. Doi: https://doi.org/10.1088/1748-9326/ace208",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "burrows-2022-considering-soil-moisture",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Considering soil moisture in models of climate impacts on child health in farming centric countries",
+    "authors": [
+      "Burrows, R.",
+      "Grace, K.L.",
+      "Brown, M.E.",
+      "McNally, A."
+    ],
+    "authorsAsInCV": "R. Burrows, K.L.Grace, ME Brown, A McNally",
+    "container": "Population and Environment",
+    "volume": "45",
+    "issue": null,
+    "pages": "15",
+    "publisher": null,
+    "doi": "10.1007/s11111-023-00426-3",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "R. Burrows, K.L.Grace, ME Brown, A McNally (2022) Considering soil moisture in models of climate impacts on child health in farming centric countries. Population and Environment vol 45, article number 15, doi: https://doi.org/10.1007/s11111-023-00426-3",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV year (2022) conflicts with DOI year token (s11111-023) and the entry sits among 2023 items; CV year kept",
+        "'article number 15' stored in pages",
+        "crossref: registered year 2023 differs from CV year 2022"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2023-data-scarcity-limits",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "Data scarcity limits understanding of hydroclimatic drivers of food and urban security",
+    "authors": [
+      "Brown, M.E.",
+      "Grace, K.L."
+    ],
+    "authorsAsInCV": "M.E. Brown and KL Grace",
+    "container": "Nature Water",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1038/s44221-023-00066-9",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "M.E. Brown and KL Grace (2023) Data scarcity limits understanding of hydroclimatic drivers of food and urban security. Nature Water. Doi: 10.1038/s44221-023-00066-9",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brooks-2023-investigating-relationship-between",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "Investigating the Relationship Between Seasonal Agricultural Variability and Childbearing Goals",
+    "authors": [
+      "Brooks, N.",
+      "Grace, K.L.",
+      "Kristiansen, D.",
+      "Shukla, S.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "N Brooks, KL Grace, D. Kristiansen; S. Shukla; and M.E. Brown",
+    "container": "Global Environmental Change",
+    "volume": "80",
+    "issue": null,
+    "pages": "102677",
+    "publisher": null,
+    "doi": "10.1016/j.gloenvcha.2023.102677",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "N Brooks, KL Grace, D. Kristiansen; S. Shukla; and M.E. Brown (2023) Investigating the Relationship Between Seasonal Agricultural Variability and Childbearing Goals. Global Environmental Change 80:102677. 10.1016/j.gloenvcha.2023.102677",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "conflict",
+      "issues": [
+        "crossref: DOI is registered to a different title — \"Investigating the relationship between growing season quality and childbearing goals\" (similarity 0.70)",
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "johnson-2023-meso-scale-frontier",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "The meso scale as a frontier in interdisciplinary modeling of sustainability from local to global scales",
+    "authors": [
+      "Johnson, J.A.",
+      "Brown, M.E.",
+      "Corong, E.",
+      "Dietrich, J.P.",
+      "Henry, R.",
+      "P. José v. Jeetze",
+      "Leclere, D.",
+      "Popp, A.",
+      "Thakrar, S.K.",
+      "Williams, D.R."
+    ],
+    "authorsAsInCV": "J.A. Johnson, M.E. Brown, E. Corong, J.P. Dietrich, R. Henry, P. José v. Jeetze, D. Leclere, A. Popp, S.K. Thakrar, D.R Williams",
+    "container": "Environmental Research Letters",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1088/1748-9326/acb503",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "J.A. Johnson, M.E. Brown, E. Corong, J.P. Dietrich, R. Henry, P. José v. Jeetze, D. Leclere, A. Popp, S.K. Thakrar, D.R Williams (2023) The meso scale as a frontier in interdisciplinary modeling of sustainability from local to global scales. Environmental Research Letters doi: 10.1088/1748-9326/acb503",
+    "themes": [
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "author 'P. José v. Jeetze' kept as written (family/given split uncertain)",
+        "DOI broken across a line/page gap in the PDF; rejoined",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2023-integrated-modeling-framework",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2023,
+    "title": "Integrated modeling framework for sustainable agricultural intensification",
+    "authors": [
+      "Brown, M.E.",
+      "Carcedo, A.J.C.",
+      "Eggen, M.",
+      "Grace, K.L.",
+      "Neff, J.",
+      "Ciampitti, I."
+    ],
+    "authorsAsInCV": "M.E. Brown, A.J.C. Carcedo, M. Eggen, K.L, Grace, J. Neff and I. Ciampitti",
+    "container": "Frontiers In Sustainable Food Systems",
+    "volume": "6",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3389/fsufs.2022.1039962",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "M.E. Brown, A.J.C. Carcedo, M. Eggen, K.L, Grace, J. Neff and I. Ciampitti (2023) Integrated modeling framework for sustainable agricultural intensification. Frontiers In Sustainable Food Systems vol. 6 doi: 10.3389/fsufs.2022.1039962",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV year (2023) conflicts with DOI year token (fsufs.2022) and volume 6; CV year kept",
+        "'A.J.C. Carcedo' differs from 'AJP Carcedo' in the 2023 Santiago entry; kept as written",
+        "CV author punctuation 'K.L, Grace' normalized"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "zamanialaei-2022-weather-not-role",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Weather or not?: The role of international sanctions on food prices in Iran",
+    "authors": [
+      "Zamanialaei, M.",
+      "Brown, M.E.",
+      "McCarty, J.L.",
+      "Fain, J.J."
+    ],
+    "authorsAsInCV": "M. Zamanialaei, M.E. Brown, J.L. McCarty, J.J. Fain",
+    "container": "Frontiers in Sustainable Food Systems",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3389/fsufs.2022.998235",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 4,
+    "citationAsInCV": "M. Zamanialaei, M.E. Brown, J.L. McCarty, J.J. Fain (2022) Weather or not?: The role of international sanctions on food prices in Iran. Frontiers in Sustainable Food Systems DOI:10.3389/fsufs.2022.998235",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given",
+        "crossref: registered year 2023 differs from CV year 2022"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2022-literature-review-shows",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Literature Review shows that Engagement of Stakeholders Accelerates Applications of ICESat-2 data when compared to ICESat",
+    "authors": [
+      "Brown, M.E.",
+      "Delgado Arias, S.",
+      "Chesnes, M."
+    ],
+    "authorsAsInCV": "M.E. Brown, S. Delgado Arias, M. Chesnes",
+    "container": "Remote Sensing Applications: Society and Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rsase.2022.100874",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "M.E. Brown, S. Delgado Arias, M. Chesnes (2022) Literature Review shows that Engagement of Stakeholders Accelerates Applications of ICESat-2 data when compared to ICESat. Remote Sensing Applications: Society and Environment doi: 10.1016/j.rsase.2022.100874",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "conflict",
+      "issues": [
+        "no volume/pages given",
+        "crossref: DOI is registered to a different title — \"Review of ICESat and ICESat-2 literature to enhance applications discovery\" (similarity 0.57)",
+        "crossref: registered year 2023 differs from CV year 2022",
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "elders-2022-estimating-crop-type",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-day Sentinel-2",
+    "authors": [
+      "Elders, A.",
+      "Carroll, M.L.",
+      "Neigh, C.S.R.",
+      "D'Agostino, A.L.",
+      "Wooten, M.R.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "A. Elders, ML Carroll, C.S.R. Neigh, A.L. D'Agostino; M.R. Wooten; M.E. Brown",
+    "container": "Remote Sensing Applications: Society and Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rsase.2022.100820",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "A. Elders, ML Carroll, C.S.R. Neigh, A.L. D'Agostino; M.R. Wooten; M.E. Brown (2022) Estimating Crop Type and Yield of Small Holder Fields in Burkina Faso Using Multi-day Sentinel-2. Remote Sensing Applications: Society and Environment. doi: 10.1016/j.rsase.2022.100820",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2022-scientist-stakeholder-relationships",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Scientist-Stakeholder relationships drive carbon data product transfer effectiveness within NASA program",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.E.",
+      "Younis, F.M.",
+      "McGroddy, M.",
+      "Delgado Arias, S.",
+      "Griffith, P.",
+      "Hurtt, G."
+    ],
+    "authorsAsInCV": "M.E. Brown, V.E. Escobar, F.M Younis, M. McGroddy, S. Delgado Arias, P. Griffith, and G. Hurtt",
+    "container": "Environmental Research Letters",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1088/1748-9326/ac87bf",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "M.E. Brown, V.E. Escobar, F.M Younis, M. McGroddy, S. Delgado Arias, P. Griffith, and G. Hurtt (2022) Scientist-Stakeholder relationships drive carbon data product transfer effectiveness within NASA program. Environmental Research Letters doi: 10.1088/1748-9326/ac87bf",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "'V.E. Escobar' differs from 'V.M. Escobar' elsewhere in CV; kept as written",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "hurtt-2022-nasa-carbon-monitoring",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "The NASA Carbon Monitoring System Phase 2 Synthesis: Scope, Findings, Gaps and Recommended Next Steps",
+    "authors": [
+      "Hurtt, G.C.",
+      "Andrews, A.",
+      "Bowman, K.",
+      "Brown, M.E.",
+      "Chatterjee, A.",
+      "Escobar, V.",
+      "Fatoyinbo, F.",
+      "Griffith, P.",
+      "Guy, M.",
+      "Healey, S.P.",
+      "Jacob, D.J.",
+      "Kennedy, R.",
+      "Lohrenz, S.",
+      "Morales, V.",
+      "Nehrkorn, T.",
+      "Ott, L.",
+      "Saatchi, S.",
+      "Sepulveda Carlo, E.",
+      "Serbin, S.P.",
+      "Tian, H."
+    ],
+    "authorsAsInCV": "G.C. Hurtt, A. Andrews, K. Bowman, M.E. Brown, A. Chatterjee, V. Escobar, F. Fatoyinbo, P. Griffith, M. Guy, S.P. Healey, D.J. Jacob, R. Kennedy, S. Lohrenz, V. Morales, T. Nehrkorn, L. Ott, S. Saatchi, E. Sepulveda Carlo, S.P. Serbin, H. Tian",
+    "container": "Environmental Research Letters",
+    "volume": "17",
+    "issue": "6",
+    "pages": "063010",
+    "publisher": null,
+    "doi": "10.1088/1748-9326/ac7407",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "G.C. Hurtt, A. Andrews, K. Bowman, M.E. Brown, A. Chatterjee, V. Escobar, F. Fatoyinbo, P. Griffith, M. Guy, S.P. Healey, D.J. Jacob, R. Kennedy, S. Lohrenz, V. Morales, T. Nehrkorn, L. Ott, S. Saatchi, E. Sepulveda Carlo, S.P. Serbin, H. Tian (2022) The NASA Carbon Monitoring System Phase 2 Synthesis: Scope, Findings, Gaps and Recommended Next Steps. Environmental Research Letters 17(6) 063010; doi: 10.1088/1748-9326/ac7407",
+    "themes": [
+      "applications",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2022-designing-pest-disease",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Designing a Pest and Disease Outbreak Warning System for Farmers, Agronomists and Agricultural input distributors in East Africa",
+    "authors": [
+      "Brown, M.E.",
+      "Mugo, S.",
+      "Petersen, S.",
+      "Klauser, D."
+    ],
+    "authorsAsInCV": "M.E. Brown, S. Mugo, S. Petersen, and D. Klauser",
+    "container": "Insects",
+    "volume": "13",
+    "issue": "3",
+    "pages": "232",
+    "publisher": null,
+    "doi": "10.3390/insects13030232",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "M.E. Brown, S. Mugo, S. Petersen, and D. Klauser (2022) Designing a Pest and Disease Outbreak Warning System for Farmers, Agronomists and Agricultural input distributors in East Africa. Insects 13(3), 232; doi: 10.3390/insects13030232",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "grace-2022-conflict-climate-factors",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2022,
+    "title": "Conflict and climate factors and the risk of child acute malnutrition among children aged 24–59 months: a comparative analysis of Kenya, Nigeria, and Uganda",
+    "authors": [
+      "Grace, K.L.",
+      "Verdin, A.",
+      "Brown, M.E.",
+      "Bakhtsiyarava, M.",
+      "Backer, D.",
+      "Billing, T."
+    ],
+    "authorsAsInCV": "Grace, K.L., Verdin, A., Brown M.E., Bakhtsiyarava, M., Backer, D. and Billing, T.",
+    "container": "Spatial Demography",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1007/s40980-021-00102-w",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "Grace, K.L., Verdin, A., Brown M.E., Bakhtsiyarava, M., Backer, D. and Billing, T. (2022) Conflict and climate factors and the risk of child acute malnutrition among children aged 24–59 months: a comparative analysis of Kenya, Nigeria, and Uganda. Spatial Demography doi: 10.1007/s40980-021-00102-w",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "DOI year token (s40980-021) differs from CV year 2022",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "ssekyanzi-2021-identification-potential-surface",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Identification of potential surface water resources for inland aquaculture from Sentinel-2 images of the Rwenzori region of Uganda",
+    "authors": [
+      "Ssekyanzi, A.",
+      "Nevejan, N.",
+      "Van der Zande, D.",
+      "Brown, M.E.",
+      "Van Stappen, G."
+    ],
+    "authorsAsInCV": "A. Ssekyanzi, N. Nevejan, D. Van der Zande, M.E. Brown, G Van Stappen",
+    "container": "Water",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3390/w13192657",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "A. Ssekyanzi, N. Nevejan, D. Van der Zande, M.E. Brown, G Van Stappen (2021) Identification of potential surface water resources for inland aquaculture from Sentinel-2 images of the Rwenzori region of Uganda. Water doi: 10.3390/w13192657",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "fanzo-2021-sustainable-food-systems",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Sustainable Food Systems and Nutrition in the 21st Century",
+    "authors": [
+      "Fanzo, J.",
+      "Benton, T.G.",
+      "Brown, M.E.",
+      "Covic, N.",
+      "Fitch, K.",
+      "Golden, C.D.",
+      "Grace, D.",
+      "Grinspoon, S.",
+      "Hivert, M.-F.",
+      "Huybers, P.",
+      "Jaacks, L.M.",
+      "Masters, W.A.",
+      "Nisbett, N.",
+      "Rudie, C.",
+      "Richardson, R.A.",
+      "Sigman, I.",
+      "Singleton, C.R.",
+      "Webb, P.",
+      "Willett, W.C."
+    ],
+    "authorsAsInCV": "J Fanzo, T.G. Benton, M.E. Brown, N. Covic, K. Fitch, C.D. Golden, D. Grace, S. Grinspoon, M.-F. Hivert, P. Huybers, L.M. Jaacks, W.A. Masters, N. Nisbett, C. Rudie, R.A. Richardson, I. Sigman, C.R. Singleton, P. Webb, and W.C. Willett",
+    "container": "The American Journal of Clinical Nutrition",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1093/ajcn/nqab315",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "J Fanzo, T.G. Benton, M.E. Brown, N. Covic, K. Fitch, C.D. Golden, D. Grace, S. Grinspoon, M.-F. Hivert, P. Huybers, L.M. Jaacks, W.A. Masters, N. Nisbett, C. Rudie, R.A. Richardson, I. Sigman, C.R. Singleton, P. Webb, and W.C. Willett (2021) Sustainable Food Systems and Nutrition in the 21st Century. The American Journal of Clinical Nutrition DOI: https://doi.org/10.1093/ajcn/nqab315",
+    "themes": [
+      "sustainable-food-systems",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given",
+        "crossref: registered year 2022 differs from CV year 2021"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2021-considering-climate-conflict",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Considering climate and conflict conditions together to improve interventions that prevent child acute malnutrition",
+    "authors": [
+      "Brown, M.E.",
+      "Grace, K.",
+      "Billing, T.",
+      "Backer, D."
+    ],
+    "authorsAsInCV": "M.E. Brown, K. Grace, T. Billing and D. Backer",
+    "container": "Lancet Planetary Health",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/S2542-5196(21)00197-2",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "M.E. Brown, K. Grace, T. Billing and D. Backer (2021) Considering climate and conflict conditions together to improve interventions that prevent child acute malnutrition. Lancet Planetary Health doi: 10.1016/S2542-5196(21)00197-2",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "johnson-2021-democratizing-earth-observations",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Democratizing Earth Observations-Based Science to Improve Agriculture, Food Security and Resilience, from Village to Globe",
+    "authors": [
+      "Johnson, K.B.",
+      "Brown, M.E.",
+      "Becker-Reshef, I."
+    ],
+    "authorsAsInCV": "K.B. Johnson, M.E. Brown and I. Becker-Reshef",
+    "container": "Frontiers in Sustainable Food Systems",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.3389/fsufs.2021.707804",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "K.B. Johnson, M.E. Brown and I. Becker-Reshef (2021) Democratizing Earth Observations-Based Science to Improve Agriculture, Food Security and Resilience, from Village to Globe. Frontiers in Sustainable Food Systems doi: 10.3389/fsufs.2021.707804",
+    "themes": [
+      "applications",
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2021-metrics-accelerate-private",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2021,
+    "title": "Metrics to Accelerate Private Sector Investment in SDG2-Zero Hunger",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Sustainability",
+    "volume": "13",
+    "issue": null,
+    "pages": "5967",
+    "publisher": null,
+    "doi": "10.3390/su13115967",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 5,
+    "citationAsInCV": "M.E. Brown (2021) Metrics to Accelerate Private Sector Investment in SDG2-Zero Hunger. Sustainability 13 (5967) doi: 10.3390/su13115967",
+    "themes": [
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV writes '13 (5967)'; 5967 is the article number (matches DOI), stored in pages; issue not given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "niles-2020-climate-impacts-associated",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Climate Impacts associated with reduced diet diversity in children across nineteen countries",
+    "authors": [
+      "Niles, M.T.",
+      "Emery, B.F.",
+      "Wiltshire, S.",
+      "Brown, M.E.",
+      "Fisher, B.",
+      "Ricketts, T.H."
+    ],
+    "authorsAsInCV": "Niles, M.T., B.F. Emery, S. Wiltshire, M.E. Brown, B. Fisher, T.H. Ricketts",
+    "container": "Environmental Research Letters",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1088/1748-9326/abd0ab",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Niles, M.T., B.F. Emery, S. Wiltshire, M.E. Brown, B. Fisher, T.H. Ricketts (2020) Climate Impacts associated with reduced diet diversity in children across nineteen countries. Environmental Research Letters. doi:10.1088/1748-9326/abd0ab",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given",
+        "crossref: registered year 2021 differs from CV year 2020"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "enenkel-2020-why-predict-climate",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Why predict climate hazards if we need to understand impacts? Putting humans back into the drought equation",
+    "authors": [
+      "Enenkel, M.",
+      "Brown, M.E.",
+      "Vogt, J.V.",
+      "McCarty, J.L.",
+      "Reid Bell, A.",
+      "Guha-Sapir, D.",
+      "Dorigo, W.",
+      "Vasilaky, K.",
+      "Svoboda, M.",
+      "Bonifacio, R.",
+      "Voigt, S.",
+      "Anderson, M.",
+      "Funk, C.",
+      "Osgood, D.",
+      "Hain, C.",
+      "Vinck, P."
+    ],
+    "authorsAsInCV": "Enenkel, M., Brown, M.E., Vogt, J.V., McCarty, J.L., Reid Bell, A., Guha-Sapir, D., Dorigo, W., Vasilaky, K., Svoboda, M., Bonifacio, R., Voigt, S., Anderson, M., Funk, C., Osgood, D., Hain, C., Vinck, P.",
+    "container": "Climatic Change",
+    "volume": "162",
+    "issue": null,
+    "pages": "1161-1176",
+    "publisher": null,
+    "doi": "10.1007/s10584-020-02878-0",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Enenkel, M., Brown, M.E., Vogt, J.V., McCarty, J.L., Reid Bell, A., Guha-Sapir, D., Dorigo, W., Vasilaky, K., Svoboda, M., Bonifacio, R., Voigt, S., Anderson, M., Funk, C., Osgood, D., Hain, C., Vinck, P. (2020) Why predict climate hazards if we need to understand impacts? Putting humans back into the drought equation. Climatic Change. 162, pages 1161-1176. 1161–1176. 10.1007/s10584-020-02878-0",
+    "themes": [
+      "climate-risk",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "page range is duplicated in the CV ('pages 1161-1176. 1161–1176.')"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "jewiss-2020-satellite-remote-sensing",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Satellite Remote Sensing Data for Decision Support in Emerging Agricultural Economies",
+    "authors": [
+      "Jewiss, J.L.",
+      "Brown, M.E.",
+      "Escobar, V."
+    ],
+    "authorsAsInCV": "Jewiss J.L., M.E. Brown, and V. Escobar",
+    "container": "IEEE Geoscience and Remote Sensing Magazine",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1109/MGRS.2020.3023343",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Jewiss J.L., M.E. Brown, and V. Escobar (2020) Satellite Remote Sensing Data for Decision Support in Emerging Agricultural Economies. IEEE Geoscience and Remote Sensing Magazine. Doi: 10.1109/MGRS.2020.3023343",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "IEEE Geoscience and Remote Sensing Magazine feature article; typed journal-article by judgement",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "mikal-2020-domestic-migration-mobile",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Domestic migration and mobile phones: A qualitative case study focused on recent migrants to Ouagadougou, Burkina Faso",
+    "authors": [
+      "Mikal, J.",
+      "Grace, K.",
+      "DeWaard, J.",
+      "Brown, M.E.",
+      "Sangli, G."
+    ],
+    "authorsAsInCV": "Mikal J, Grace K, DeWaard J, Brown M.E., Sangli G.",
+    "container": "PLOS One",
+    "volume": "15",
+    "issue": "8",
+    "pages": "e0236248",
+    "publisher": null,
+    "doi": "10.1371/journal.pone.0236248",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Mikal J, Grace K, DeWaard J, Brown M.E., Sangli G. (2020) Domestic migration and mobile phones: A qualitative case study focused on recent migrants to Ouagadougou, Burkina Faso. PLOS One. 15.8 (2020): e0236248. doi: 10.1371/journal.pone.0236248",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV writes '15.8 (2020): e0236248'; read as volume 15, issue 8"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2020-nasa-carbon-monitoring",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "NASA’s Carbon Monitoring System (CMS) and Arctic-Boreal Vulnerability Experiment (ABoVE) Social Network and Community of Practice",
+    "authors": [
+      "Brown, M.E.",
+      "Cooper, C.W.",
+      "Griffith, P."
+    ],
+    "authorsAsInCV": "M.E. Brown, C.W. Cooper, P. Griffith",
+    "container": "Environmental Research Letters",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1088/1748-9326/aba300",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "M.E. Brown, C.W. Cooper, P. Griffith (2020) NASA’s Carbon Monitoring System (CMS) and Arctic-Boreal Vulnerability Experiment (ABoVE) Social Network and Community of Practice. Environmental Research Letters. doi: 10.1088/1748-9326/aba300",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "cooper-2020-text-mining-food",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Text Mining the Food Security Literature Reveals Substantial Spatial Bias and Thematic Broadening Over Time",
+    "authors": [
+      "Cooper, M.",
+      "Brown, M.E.",
+      "Niles, M.",
+      "Mahmoud, M."
+    ],
+    "authorsAsInCV": "Cooper, M.; M.E. Brown, M. Niles, Mahmoud, M.",
+    "container": "Global Food Security",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.gfs.2020.100392",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Cooper, M.; M.E. Brown, M. Niles, Mahmoud, M. (2020) Text Mining the Food Security Literature Reveals Substantial Spatial Bias and Thematic Broadening Over Time. Global Food Security. Doi: 10.1016/j.gfs.2020.100392",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2020-empirical-studies-factors",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2020,
+    "title": "Empirical Studies of Factors Associated with Child Malnutrition: Highlighting the Evidence about Climate and Conflict Shocks",
+    "authors": [
+      "Brown, M.E.",
+      "Backer, D.",
+      "Billing, T.",
+      "White, P.",
+      "Grace, K.",
+      "Doocy, S.",
+      "Huth, P."
+    ],
+    "authorsAsInCV": "M.E. Brown, Backer D., Billing T. White P., Grace K., Doocy S. and Huth P.",
+    "container": "Food Security Journal",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1007/s12571-020-01041-y",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "M.E. Brown, Backer D., Billing T. White P., Grace K., Doocy S. and Huth P. (2020) Empirical Studies of Factors Associated with Child Malnutrition: Highlighting the Evidence about Climate and Conflict Shocks. Food Security Journal. DOI: 10.1007/s12571-020-01041-y",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV author list missing a comma ('Billing T. White P.'); split as two authors",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "cooper-2019-mapping-effects-drought",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2019,
+    "title": "Mapping the Effects of Drought on Child Stunting",
+    "authors": [
+      "Cooper, M.",
+      "Brown, M.E.",
+      "Hochrainer-Stigler, S.",
+      "Pflug, G.",
+      "McCallum, I.",
+      "Fritz, S.",
+      "Silva, J.",
+      "Zvoleff, A."
+    ],
+    "authorsAsInCV": "Cooper, M., M.E. Brown, S. Hochrainer-Stigler, G. Pflug, I. McCallum, S. Fritz, J. Silva, A. Zvoleff",
+    "container": "Proceedings of National Academy of Science",
+    "volume": "116",
+    "issue": "35",
+    "pages": "17219-17224",
+    "publisher": null,
+    "doi": "10.1073/pnas.1905228116",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Cooper, M., M.E. Brown, S. Hochrainer-Stigler, G. Pflug, I. McCallum, S. Fritz, J. Silva, A. Zvoleff (2019) Mapping the Effects of Drought on Child Stunting. Proceedings of National Academy of Science. 116 (35) 17219-17224; doi: 10.1073/pnas.1905228116",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "container kept as written ('Proceedings of National Academy of Science'); full form used elsewhere in CV"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "cooper-2019-hunger-nutrition-precipitation",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2019,
+    "title": "Hunger, Nutrition and Precipitation: Evidence from Ghana and Bangladesh",
+    "authors": [
+      "Cooper, M.",
+      "Brown, M.E.",
+      "Azzarri, C.",
+      "Meinzen-Dick, R."
+    ],
+    "authorsAsInCV": "Cooper, M., M.E. Brown, C. Azzarri, and R. Meinzen-Dick",
+    "container": "Population and Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1007/s11111-019-00323-8",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Cooper, M., M.E. Brown, C. Azzarri, and R. Meinzen-Dick (2019) Hunger, Nutrition and Precipitation: Evidence from Ghana and Bangladesh. Population and Environment. Doi: 10.1007/s11111-019-00323-8",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "zhao-2019-detect-change-point",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2019,
+    "title": "Detect change-point, trend, and seasonality in satellite time series data to track abrupt changes and nonlinear dynamics: A Bayesian ensemble algorithm",
+    "authors": [
+      "Zhao, K.",
+      "Wulder, M.",
+      "Hu, T.",
+      "Bright, R.",
+      "Wu, Q.",
+      "Qin, H.",
+      "Li, Y.",
+      "Toman, E.",
+      "Mallick, B.",
+      "Zhang, X.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Zhao K., M. Wulder, T. Hu, R. Bright, Q. Wu, H. Qin, Y. Li; E. Toman, B. Mallick, X. Zhang, M.E. Brown",
+    "container": "Remote Sensing of Environment",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rse.2019.04.034",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Zhao K., M. Wulder, T. Hu, R. Bright, Q. Wu, H. Qin, Y. Li; E. Toman, B. Mallick, X. Zhang, M.E. Brown (2019) Detect change-point, trend, and seasonality in satellite time series data to track abrupt changes and nonlinear dynamics: A Bayesian ensemble algorithm. Remote Sensing of Environment. Doi: 10.1016/j.rse.2019.04.034",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2019-nasa-early-adopter",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2019,
+    "title": "NASA’s Early Adopter Program Links Satellite Data to Decision Making",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, V.M. Escobar",
+    "container": "Remote Sensing Journal",
+    "volume": "11",
+    "issue": "4",
+    "pages": "406",
+    "publisher": null,
+    "doi": "10.3390/rs11040406",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "M.E. Brown, V.M. Escobar (2019) NASA’s Early Adopter Program Links Satellite Data to Decision Making. Remote Sensing Journal. 11:4, 406; doi: 10.3390/rs11040406",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "osgood-2019-farmer-perception-recollection",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2019,
+    "title": "Farmer Perception, Recollection, and Remote Sensing in Weather Index Insurance for Agriculture in the Developing World: an Ethiopia Case Study",
+    "authors": [
+      "Osgood, D.",
+      "Powell, B.",
+      "Diro, R.",
+      "Farah, C.",
+      "Enenkel, M.",
+      "Brown, M.E.",
+      "Husak, G.",
+      "Blakeley, S.L.",
+      "Hoffman, L.",
+      "McCarty, J."
+    ],
+    "authorsAsInCV": "Osgood, D; Powell, B; Diro, R; Farah, C; Enenkel, M; Brown, ME; Husak, G; Blakeley, SL; Hoffman, L and McCarty, J",
+    "container": "Remote Sensing Journal",
+    "volume": "10",
+    "issue": "12",
+    "pages": "1887",
+    "publisher": null,
+    "doi": "10.3390/rs10121887",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 6,
+    "citationAsInCV": "Osgood, D; Powell, B; Diro, R; Farah, C; Enenkel, M; Brown, ME; Husak, G; Blakeley, SL; Hoffman, L and McCarty, J (2019) Farmer Perception, Recollection, and Remote Sensing in Weather Index Insurance for Agriculture in the Developing World: an Ethiopia Case Study. Remote Sensing Journal 10: 12, 1887; doi: 10.3390/rs10121887",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "entry spans PDF pages 6-7",
+        "crossref: registered year 2018 differs from CV year 2019"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "iizumi-2018-uncertainties-potentials-recent",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2018,
+    "title": "Uncertainties of potentials and recent changes in global yields of major crops resulting from census- and satellite-based yield datasets at multiple resolutions",
+    "authors": [
+      "Iizumi, T.",
+      "Kotoku, M.",
+      "West, P.C.",
+      "Gerber, J.S.",
+      "Kim, W.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Iizumi T., M. Kotoku, P.C. West, J.S. Gerber, W. Kim and M.E. Brown",
+    "container": "PLoS One",
+    "volume": "13",
+    "issue": "9",
+    "pages": "e0203809",
+    "publisher": null,
+    "doi": "10.1371/journal.pone.0203809",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "Iizumi T., M. Kotoku, P.C. West, J.S. Gerber, W. Kim and M.E. Brown (2018) Uncertainties of potentials and recent changes in global yields of major crops resulting from census- and satellite-based yield datasets at multiple resolutions. PLoS One 13: 9, e0203809. Doi: 10.1371/journal.pone.0203809",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "enenkel-2018-exploiting-convergence-evidence",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2018,
+    "title": "Exploiting the convergence of evidence in satellite data for advanced weather index insurance design",
+    "authors": [
+      "Enenkel, M.",
+      "Osgood, D.",
+      "Anderson, M.",
+      "Powell, B.",
+      "McCarty, J.",
+      "Neigh, C.",
+      "Carroll, M.",
+      "Wooten, M.",
+      "Husak, G.",
+      "Hain, C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Enenkel, M., D. Osgood, M. Anderson, B. Powell, J. McCarty, C. Neigh, M. Carroll, M. Wooten, G. Husak, C. Hain, M.E. Brown",
+    "container": "Weather, Climate and Society",
+    "volume": "11",
+    "issue": "1",
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1175/WCAS-D-17-0111.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "Enenkel, M., D. Osgood, M. Anderson, B. Powell, J. McCarty, C. Neigh, M. Carroll, M. Wooten, G. Husak, C. Hain, M.E. Brown (2018) Exploiting the convergence of evidence in satellite data for advanced weather index insurance design. Weather, Climate and Society 11: 1 doi: 10.1175/WCAS-D-17-0111.1",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV gives '11: 1' with no pages; read as volume 11, issue 1 (by analogy with other 'vol: issue' entries)"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "niles-2017-multi-country-assessment",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2017,
+    "title": "A multi-country assessment of factors related to smallholder food security in varying rainfall conditions",
+    "authors": [
+      "Niles, M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Niles, M. and M.E. Brown",
+    "container": "Scientific Reports",
+    "volume": "7",
+    "issue": null,
+    "pages": "16277",
+    "publisher": null,
+    "doi": "10.1038/s41598-017-16282-9",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "Niles, M. and M.E. Brown (2017) A multi-country assessment of factors related to smallholder food security in varying rainfall conditions. Scientific Reports. 7: 16277, doi: 10.1038/s41598-017-16282-9.",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "davies-2017-nasa-data-time",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2017,
+    "title": "NASA Data for Time-Sensitive Applications: A Workshop Summary",
+    "authors": [
+      "Davies, D.",
+      "Brown, M.E.",
+      "Murphy, K.",
+      "Stavros, N.",
+      "Zavodsky, B.",
+      "Carroll, M."
+    ],
+    "authorsAsInCV": "Davies D., M.E. Brown, K. Murphy, N. Stavros, B. Zavodsky, M. Carroll",
+    "container": "IEEE Geoscience and Remote Sensing Magazine",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1109/MGRS.2017.2729278",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "Davies D., M.E. Brown, K. Murphy, N. Stavros, B. Zavodsky, M. Carroll (2017) NASA Data for Time-Sensitive Applications: A Workshop Summary. IEEE Geoscience and Remote Sensing Magazine. Doi: 10.1109/MGRS.2017.2729278",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "workshop summary (meeting report) in IEEE Geoscience and Remote Sensing Magazine; typed magazine-article by judgement, may not be a refereed paper",
+        "no volume/pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-climate-trend-analysis",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2017,
+    "title": "A Climate Trend Analysis of Ethiopia—Examining Subseasonal Climate Impacts on Crops and Pasture Conditions",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C.",
+      "Pedreros, D.",
+      "Korecha, D.",
+      "Lemma, M.",
+      "Rowland, J.D.",
+      "Williams, E.",
+      "Verdin, J.P."
+    ],
+    "authorsAsInCV": "M.E. Brown, Funk, C.C., Pedreros, D., Korecha, D., Lemma, M., Rowland, J.D., Williams, E., Verdin, J.P.",
+    "container": "Climatic Change",
+    "volume": "142",
+    "issue": "1-2",
+    "pages": "169-182",
+    "publisher": null,
+    "doi": "10.1007/s10584-017-1948-6",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "M.E. Brown, Funk, C.C., Pedreros, D., Korecha, D., Lemma, M., Rowland, J.D., Williams, E., Verdin, J.P., 2017. A Climate Trend Analysis of Ethiopia—Examining Subseasonal Climate Impacts on Crops and Pasture Conditions. Climatic Change 142(1-2): 169-182. doi: 10.1007/s10584-017-1948-6",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "year given without parentheses in CV ('Verdin, J.P., 2017.')"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-markets-trade-help",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2017,
+    "title": "Do markets and trade help or hurt the global food system adapt to climate change?",
+    "authors": [
+      "Brown, M.E.",
+      "Carr, E.R.",
+      "Grace, K.",
+      "Wiebe, K.",
+      "Funk, C.",
+      "Attavanich, W.",
+      "Backlund, P.",
+      "Buja, L."
+    ],
+    "authorsAsInCV": "M.E. Brown, E.R. Carr, K. Grace, K. Wiebe, C. Funk, W. Attavanich, P. Backlund, L. Buja",
+    "container": "Food Policy Journal",
+    "volume": "68",
+    "issue": null,
+    "pages": "154–159",
+    "publisher": null,
+    "doi": "10.1016/j.foodpol.2017.02.004",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "M.E. Brown, E.R. Carr, K. Grace, K. Wiebe, C. Funk, W. Attavanich, P. Backlund, L. Buja (2017) Do markets and trade help or hurt the global food system adapt to climate change? Food Policy Journal. 68 pp154–159. doi: 10.1016/j.foodpol.2017.02.004",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "docx hyperlink points to a ScienceDirect PII page (S030691921630481X), not the DOI"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2017-remote-sensing-useful",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2017,
+    "title": "Is remote sensing useful for finding and monitoring urban farms?",
+    "authors": [
+      "Brown, M.E.",
+      "McCarty, J.L."
+    ],
+    "authorsAsInCV": "M.E. Brown and J.L. McCarty",
+    "container": "Applied Geography",
+    "volume": "80",
+    "issue": null,
+    "pages": "23-33",
+    "publisher": null,
+    "doi": "10.1016/j.apgeog.2017.01.008",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "M.E. Brown and J.L. McCarty (2017) Is remote sensing useful for finding and monitoring urban farms? Applied Geography. 80. pg 23-33. doi: 10.1016/j.apgeog.2017.01.008",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "grace-2017-investigating-important-interactions",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2017,
+    "title": "Investigating important interactions between water and food security for child health in Burkina Faso",
+    "authors": [
+      "Grace, K.",
+      "Frederick, L.",
+      "Brown, M.E.",
+      "Boukerrou, L.",
+      "Lloyd, B."
+    ],
+    "authorsAsInCV": "K. Grace, L. Frederick, M.E. Brown, L. Boukerrou, and B. Lloyd",
+    "container": "Population and Environment Journal",
+    "volume": "39",
+    "issue": "1",
+    "pages": "26-46",
+    "publisher": null,
+    "doi": "10.1007/s11111-017-0270-6",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "K. Grace, L. Frederick, M.E. Brown, L. Boukerrou, and B. Lloyd (2017) Investigating important interactions between water and food security for child health in Burkina Faso. Population and Environment Journal 39(1), pp 26-46. doi: 10.1007/s11111-017-0270-6",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "kim-2016-role-surface-wind",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2016,
+    "title": "Role of surface wind and vegetation cover in multi-decadal variations of dust emission in the Sahara and Sahel",
+    "authors": [
+      "Kim, D.",
+      "Chin, M.",
+      "Fiehl, T.",
+      "Bian, H.",
+      "Remer, L.A.",
+      "Yu, H.",
+      "Brown, M.E.",
+      "Stockwell, W.R."
+    ],
+    "authorsAsInCV": "D. Kim, M. Chin, T. Fiehl, H. Bian, L.A. Remer, H. Yu, M.E. Brown and W.R. Stockwell",
+    "container": "Atmospheric Environment",
+    "volume": "148",
+    "issue": null,
+    "pages": "282-296",
+    "publisher": null,
+    "doi": "10.1016/j.atmosenv.2016.10.051",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "D. Kim, M. Chin, T. Fiehl, H. Bian, L.A. Remer, H. Yu, M.E. Brown and W.R. Stockwell (2016) Role of surface wind and vegetation cover in multi-decadal variations of dust emission in the Sahara and Sahel. Atmospheric Environment.148, pg 282-296. doi: 10.1016/j.atmosenv.2016.10.051",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "author 'T. Fiehl' may be a misspelling of 'T. Diehl' (2013 Kim et al. entry); kept as written",
+        "crossref: registered year 2017 differs from CV year 2016"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "carroll-2016-situ-air-temperature",
+    "type": "dataset",
+    "status": "published",
+    "year": 2016,
+    "title": "In-situ Air Temperature and Relative Humidity in Greenbelt, MD, 2013-2015",
+    "authors": [
+      "Carroll, M.L.",
+      "Brown, M.E.",
+      "Wooten, M.R.",
+      "Donham, J.E.",
+      "Hubbard, A.B.",
+      "Ridenhour, W.B."
+    ],
+    "authorsAsInCV": "M.L. Carroll, M.E. Brown, M.R. Wooten, J.E. Donham, A.B. Hubbard, and W.B. Ridenhour.",
+    "container": null,
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "ORNL DAAC, Oak Ridge, Tennessee, USA",
+    "doi": "10.3334/ORNLDAAC/1319",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 7,
+    "citationAsInCV": "M.L. Carroll, M.E. Brown, M.R. Wooten, J.E. Donham, A.B. Hubbard, and W.B. Ridenhour. 2016. In-situ Air Temperature and Relative Humidity in Greenbelt, MD, 2013-2015. ORNL DAAC, Oak Ridge, Tennessee, USA. doi: 10.3334/ORNLDAAC/1319",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "ORNL DAAC dataset, not a refereed paper; typed dataset",
+        "year given without parentheses in CV ('Ridenhour. 2016.')"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-remote-sensing-technology",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2016,
+    "title": "Remote Sensing Technology and Land Use Analysis in Food Security Assessment",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Journal of Land Use Science",
+    "volume": "11",
+    "issue": "6",
+    "pages": "623-641",
+    "publisher": null,
+    "doi": "10.1080/1747423X.2016.1195455",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown (2016) Remote Sensing Technology and Land Use Analysis in Food Security Assessment. Journal of Land Use Science. 11(6) pg 623-641. doi: 10.1080/1747423X.2016.1195455",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2016-applications-icesat-2",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2016,
+    "title": "Applications for ICESat-2 Data from NASA’s Early Adopter Program",
+    "authors": [
+      "Brown, M.E.",
+      "Delgado Arias, S.",
+      "Neumann, T.",
+      "Jasinski, M.",
+      "Posey, P.",
+      "Babonis, G.",
+      "Glenn, N.",
+      "Birkett, C.",
+      "Escobar, V.",
+      "Markus, T."
+    ],
+    "authorsAsInCV": "M.E. Brown, Sabrina Delgado Arias, Thomas Neumann, Michael Jasinski, Pamela Posey, Greg Babonis, Nancy Glenn, Charon Birkett, Vanessa Escobar, Thorsten Markus",
+    "container": "IEEE Geoscience and Remote Sensing Magazine",
+    "volume": "4",
+    "issue": "4",
+    "pages": "24-37",
+    "publisher": null,
+    "doi": "10.1109/MGRS.2016.2560759",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown, Sabrina Delgado Arias, Thomas Neumann, Michael Jasinski, Pamela Posey, Greg Babonis, Nancy Glenn, Charon Birkett, Vanessa Escobar, Thorsten Markus (2016) Applications for ICESat-2 Data from NASA’s Early Adopter Program. IEEE Geoscience and Remote Sensing Magazine 4(4) 24-37. Doi:10.1109/MGRS.2016.2560759",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "IEEE Geoscience and Remote Sensing Magazine feature article; typed journal-article by judgement"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-social-network-content",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Social Network and Content Analysis of the North American Carbon Program as a Scientific Community of Practice",
+    "authors": [
+      "Brown, M.E.",
+      "Ihli, M.",
+      "Hendrick, O.",
+      "Delgado-Arias, S.",
+      "Escobar, V.M.",
+      "Griffith, P."
+    ],
+    "authorsAsInCV": "M.E. Brown, Monica Ihli, Oscar Hendrick, Sabrina Delgado-Arias, Vanessa M. Escobar, Peter Griffith",
+    "container": "Social Networks Journal",
+    "volume": "44",
+    "issue": null,
+    "pages": "22-237",
+    "publisher": null,
+    "doi": "10.1016/j.socnet.2015.10.002",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown, Monica Ihli, Oscar Hendrick, Sabrina Delgado-Arias, Vanessa M. Escobar, Peter Griffith (2015) Social Network and Content Analysis of the North American Carbon Program as a Scientific Community of Practice Social Networks Journal. 44: 22-237. doi:10.1016/j.socnet.2015. 10.002",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "DOI had a stray internal space in CV ('10.1016/j.socnet.2015. 10.002'); removed",
+        "page range '22-237' looks implausible (possible typo); kept as written",
+        "no punctuation separates title from journal in CV",
+        "crossref: registered year 2016 differs from CV year 2015"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-identifying-quantifying-benefits",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Identifying and quantifying the benefits of meteorological satellites",
+    "authors": [
+      "Brown, M.E.",
+      "Wooldridge, C."
+    ],
+    "authorsAsInCV": "M.E. Brown and C. Wooldridge",
+    "container": "Bulletin of the American Meteorological Society",
+    "volume": "97",
+    "issue": "1",
+    "pages": "182-185",
+    "publisher": null,
+    "doi": "10.1175/BAMS-D-14-00224.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown and C. Wooldridge (2015) Identifying and quantifying the benefits of meteorological satellites. Bulletin of the American Meteorological Society. 97(1):182-185. doi:10.1175/BAMS-D-14- 00224.1",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "DOI had a stray internal space in CV ('10.1175/BAMS-D-14- 00224.1'); removed",
+        "docx hyperlink path (journals/bams/97/2/...) suggests issue 2, CV says 97(1); CV value kept",
+        "volume 97 sits oddly with CV year 2015",
+        "crossref: registered year 2016 differs from CV year 2015"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-weather-international-price",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Weather and international price shocks on food prices in the developing world",
+    "authors": [
+      "Brown, M.E.",
+      "Kshirsagar, V."
+    ],
+    "authorsAsInCV": "M.E. Brown and V. Kshirsagar",
+    "container": "Global Environmental Change",
+    "volume": "35",
+    "issue": null,
+    "pages": "31-40",
+    "publisher": null,
+    "doi": "10.1016/j.gloenvcha.2015.08.003",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown and V. Kshirsagar (2015) Weather and international price shocks on food prices in the developing world. Global Environmental Change 35: 31-40. Doi: 10.1016/j.gloenvcha.2015.08.003",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2015-climate-change-global",
+    "type": "report",
+    "status": "published",
+    "year": 2015,
+    "title": "Climate Change, Global Food Security, and the U.S. Food System",
+    "authors": [
+      "Brown, M.E.",
+      "Antle, J.M.",
+      "Backlund, P.",
+      "Carr, E.G.",
+      "Easterling, W.E.",
+      "Walsh, M.K.",
+      "Ammann, C.",
+      "Attavanich, W.",
+      "Barrett, C.B.",
+      "Bellemare, M.F.",
+      "Dancheck, V.",
+      "Funk, C.",
+      "Grace, K.",
+      "Ingram, J.S.I.",
+      "Jiang, H.",
+      "Maletta, H.",
+      "Mata, T.",
+      "Murray, A.",
+      "Ngugi, M.",
+      "Ojima, D.",
+      "O’Neill, B.",
+      "Tebaldi, C."
+    ],
+    "authorsAsInCV": "M.E. Brown, J.M. Antle, P. Backlund, E.G. Carr, W.E. Easterling, M.K. Walsh, C. Ammann, W. Attavanich, C. B. Barrett, M.F. Bellemare, V. Dancheck, C. Funk, K. Grace, J.S.I. Ingram, H. Jiang, H. Maletta, T. Mata, A. Murray, M. Ngugi, D. Ojima, B. O’Neill, and C. Tebaldi.",
+    "container": "USDA Technical Document",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "USDA, Washington, D.C.",
+    "doi": "10.7930/J0862DC7",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.E. Brown, J.M. Antle, P. Backlund, E.G. Carr, W.E. Easterling, M.K. Walsh, C. Ammann, W. Attavanich, C. B. Barrett, M.F. Bellemare, V. Dancheck, C. Funk, K. Grace, J.S.I. Ingram, H. Jiang, H. Maletta, T. Mata, A. Murray, M. Ngugi, D. Ojima, B. O’Neill, and C. Tebaldi. (2015) Climate Change, Global Food Security, and the U.S. Food System. USDA Technical Document. Washington, D.C. DOI: 10.7930/J0862DC7",
+    "themes": [
+      "sustainable-food-systems",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "USDA technical assessment report, not a refereed journal paper; typed report",
+        "docx hyperlink points to https://www.usda.gov/sites/default/files/documents/FullAssessment.pdf rather than the DOI",
+        "'E.G. Carr' differs from 'E.R. Carr' in the 2017 Food Policy entry; kept as written"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "shively-2015-environmental-variability-child",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Environmental Variability and Child Growth in Nepal",
+    "authors": [
+      "Shively, G.",
+      "Sununtnasuk, C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "G. Shively, C. Sununtnasuk, and M.E. Brown",
+    "container": "Health & Place",
+    "volume": "35",
+    "issue": null,
+    "pages": "37-51",
+    "publisher": null,
+    "doi": "10.1016/j.healthplace.2015.06.008",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "G. Shively, C. Sununtnasuk, and M.E. Brown (2015) Environmental Variability and Child Growth in Nepal. Health & Place 35:37-51 doi: 10.1016/j.healthplace.2015.06.008",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "docx hyperlink targets a different DOI (10.1080/00220388.2015.1018900, a Journal of Development Studies prefix) than the visible DOI; visible DOI kept"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "sen-gupta-2015-integration-energy-balance",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Integration of an energy balance snowmelt model into an open source modeling framework",
+    "authors": [
+      "Sen Gupta, A.",
+      "Tarboton, D.G.",
+      "Hummel, P.",
+      "Brown, M.E.",
+      "Habib, S."
+    ],
+    "authorsAsInCV": "A. Sen Gupta, D.G. Tarboton, P. Hummel, M.E. Brown, S. Habib",
+    "container": "Environmental Modeling and Software",
+    "volume": "64",
+    "issue": null,
+    "pages": "205-218",
+    "publisher": null,
+    "doi": "10.1016/j.envsoft.2015.02.017",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "A. Sen Gupta, D.G. Tarboton, P. Hummel, M.E. Brown, S. Habib (2015) Integration of an energy balance snowmelt model into an open source modeling framework Environmental Modeling and Software. 64: 205-218. doi: 10.1016/j.envsoft.2015.02.017",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no punctuation separates title from journal in CV",
+        "container kept as written ('Environmental Modeling and Software'; journal styles itself Environmental Modelling & Software)",
+        "crossref: registered volume 68 differs from CV volume 64"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "moran-2015-connecting-nasa-science",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2015,
+    "title": "Connecting NASA Science and Engineering with Earth Science Applications",
+    "authors": [
+      "Moran, M.S.",
+      "Doorn, B.",
+      "Escobar, V.M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.S. Moran, B. Doorn, V.M. Escobar, and M.E. Brown",
+    "container": "Journal of Hydrometeorology",
+    "volume": "16",
+    "issue": null,
+    "pages": "473–483",
+    "publisher": null,
+    "doi": "10.1175/JHM-D-14-0093.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "M.S. Moran, B. Doorn, V.M. Escobar, and M.E. Brown (2015) Connecting NASA Science and Engineering with Earth Science Applications. Journal of Hydrometeorology 16: 473–483. doi: 10.1175/JHM-D-14-0093.1",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "park-2014-non-linear-responses",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Non-linear responses of vegetation green-up to local temperature in temperate and boreal forests in the Northern Hemisphere",
+    "authors": [
+      "Park, H.",
+      "S-Jeong",
+      "Ho, C.-H.",
+      "Kim, J.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "H. Park, S-Jeong, C-H Ho, J. Kim, and M.E. Brown",
+    "container": "Remote Sensing of Environment",
+    "volume": "165",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rse.2015.04.030",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "H. Park, S-Jeong, C-H Ho, J. Kim, and M.E. Brown (2014) Non-linear responses of vegetation green-up to local temperature in temperate and boreal forests in the Northern Hemisphere. Remote Sensing of Environment 165 doi: 10.1016/j.rse.2015.04.030",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV year (2014) conflicts with DOI year token (rse.2015) and volume 165; CV year kept",
+        "author 'S-Jeong' malformed (initials/family unclear); kept as written",
+        "no pages given",
+        "crossref: registered year 2015 differs from CV year 2014"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "duncan-2014-energy-availability-spatiotemporal",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Energy availability, spatiotemporal variability, and its implications for animal ecology",
+    "authors": [
+      "Duncan, C.",
+      "Chauvenet, A.",
+      "Brown, M.E.",
+      "Pettorelli, N."
+    ],
+    "authorsAsInCV": "C. Duncan, A. Chauvenet, A., M.E. Brown, N. Pettorelli",
+    "container": "Diversity & Distributions",
+    "volume": "21",
+    "issue": null,
+    "pages": "290-301",
+    "publisher": null,
+    "doi": "10.1111/ddi.12270",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 8,
+    "citationAsInCV": "C. Duncan, A. Chauvenet, A., M.E. Brown, N. Pettorelli (2014) Energy availability, spatiotemporal variability, and its implications for animal ecology. Diversity & Distributions. 21:290-301. doi: 10.1111/ddi.12270",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV author 'A. Chauvenet, A.,' has a duplicated initial; normalized to 'Chauvenet, A.'"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "higgins-2014-model-west-african",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "A Model of West African Millet Prices in Rural Markets",
+    "authors": [
+      "Higgins, N.",
+      "Hintermann, B.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "N. Higgins, B. Hintermann, M.E. Brown",
+    "container": "Food Policy",
+    "volume": "52",
+    "issue": null,
+    "pages": "33-43",
+    "publisher": null,
+    "doi": "10.1016/j.foodpol.2014.09.011",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "N. Higgins, B. Hintermann, M.E. Brown (2014) A Model of West African Millet Prices in Rural Markets. Food Policy. 52: 33-43 doi: 10.1016/j.foodpol.2014.09.011",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "crossref: registered year 2015 differs from CV year 2014"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "mcnally-2014-calculating-crop-water",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Calculating crop water requirement satisfaction in the West Africa Sahel with remotely sensed soil moisture",
+    "authors": [
+      "McNally, A.",
+      "Husak, G.J.",
+      "Brown, M.E.",
+      "Carroll, M.",
+      "Funk, C.",
+      "Yatheendradas, S.",
+      "Aresenault, K.",
+      "Peters-Lidard, C.",
+      "Verdin, J.P."
+    ],
+    "authorsAsInCV": "A. McNally, G. J Husak, M.E. Brown, M. Carroll, C. Funk, Soni Yatheendradas, K. Aresenault, C. Peters-Lidard, J P Verdin",
+    "container": "Journal of Hydrometeorology",
+    "volume": "16",
+    "issue": null,
+    "pages": "295–305",
+    "publisher": null,
+    "doi": "10.1175/JHM-D-14-0049.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "A. McNally, G. J Husak, M.E. Brown, M. Carroll, C. Funk, Soni Yatheendradas, K. Aresenault, C. Peters-Lidard, J P Verdin (2014) Calculating crop water requirement satisfaction in the West Africa Sahel with remotely sensed soil moisture. Journal of Hydrometeorology 16, 295–305. doi: 10.1175/JHM-D-14-0049.1",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "author 'K. Aresenault' may be a misspelling (Arsenault); kept as written",
+        "crossref: registered year 2015 differs from CV year 2014"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2014-integrated-modeling-system",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "An integrated modeling system for estimating glacier and snow melt driven streamflow from remote sensing and earth system data products in the Himalayas",
+    "authors": [
+      "Brown, M.E.",
+      "Racoviteanu, A.E.",
+      "Tarboton, D.G.",
+      "Sen Gupta, A.",
+      "Nigro, J.D.",
+      "Policelli, F.S.",
+      "Habib, S.",
+      "Tokay, M.",
+      "Shrestha, M.",
+      "Bajracharya, S.",
+      "Hummel, P.R.",
+      "Gray, M.",
+      "Duda, P.B.",
+      "Zaitchik, B.",
+      "Mahat, V.",
+      "Artan, G.",
+      "Tokar, A.S."
+    ],
+    "authorsAsInCV": "M.E. Brown, A.E. Racoviteanu, D.G. Tarboton, A. Sen Gupta, J.D. Nigro, F.S. Policelli, S. Habib, M. Tokay, M. Shrestha, S. Bajracharya, P.R. Hummel, M. Gray, P.B. Duda, B. Zaitchik, V. Mahat, G. Artan, and A.S. Tokar",
+    "container": "Journal of Hydrology",
+    "volume": "519",
+    "issue": null,
+    "pages": "1859-1869",
+    "publisher": null,
+    "doi": "10.1016/j.jhydrol.2014.09.050",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "M.E. Brown, A.E. Racoviteanu, D.G. Tarboton, A. Sen Gupta, J.D. Nigro, F.S. Policelli, S. Habib, M. Tokay, M. Shrestha, S. Bajracharya, P.R. Hummel, M. Gray, P.B. Duda, B. Zaitchik, V. Mahat, G. Artan, and A.S. Tokar (2014) An integrated modeling system for estimating glacier and snow melt driven streamflow from remote sensing and earth system data products in the Himalayas. Journal of Hydrology 519, p. 1859-1869. doi: 10.1016/j.jhydrol.2014.09.050",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "johnson-2014-environmental-risk-factors",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Environmental risk factors and child nutritional status and survival in a context of climate variability and change",
+    "authors": [
+      "Johnson, K.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "K. Johnson and M.E. Brown",
+    "container": "Applied Geography",
+    "volume": "54",
+    "issue": null,
+    "pages": "209–221",
+    "publisher": null,
+    "doi": "10.1016/j.apgeog.2014.08.007",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "K. Johnson and M.E. Brown (2014) Environmental risk factors and child nutritional status and survival in a context of climate variability and change. Applied Geography 54 p. 209–221. Doi: 10.1016/j.apgeog.2014.08.007",
+    "themes": [
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2014-user-needs-assessing",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "User needs and assessing the impact of low latency NASA Earth observation data availability on societal benefit",
+    "authors": [
+      "Brown, M.E.",
+      "Carroll, M.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown, M. Carroll, V.M. Escobar",
+    "container": "Space Policy",
+    "volume": "30",
+    "issue": null,
+    "pages": "135-137",
+    "publisher": null,
+    "doi": "10.1016/j.spacepol.2014.05.002",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "M.E. Brown, M. Carroll, V.M. Escobar (2014) User needs and assessing the impact of low latency NASA Earth observation data availability on societal benefit. Space Policy 30, p 135-137. doi: 10.1016/j.spacepol.2014.05.002",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "iizumi-2014-impacts-el-nino",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Impacts of El Nino Southern Oscillation on global yields of major crops",
+    "authors": [
+      "Iizumi, T.",
+      "Luo, J.-J.",
+      "Challinor, A.J.",
+      "Sakurai, G.",
+      "Yokozawa, M.",
+      "Sakuma, H.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "T. Iizumi, J-J Luo, A.J. Challinor, G. Sakurai, M. Yokozawa, H Sakuma, and M.E. Brown",
+    "container": "Nature Communications",
+    "volume": "5",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1038/ncomms4712",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "T. Iizumi, J-J Luo, A.J. Challinor, G. Sakurai, M. Yokozawa, H Sakuma, and M.E. Brown (2014) Impacts of El Nino Southern Oscillation on global yields of major crops. Nature Communications 5 doi: 10.1038/ncomms4712",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no pages/article number given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "grace-2014-examining-link-between",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Examining the link between food prices and food insecurity: A multi-level analysis of maize price and birthweight in Kenya",
+    "authors": [
+      "Grace, K.",
+      "Brown, M.E.",
+      "McNally, A."
+    ],
+    "authorsAsInCV": "K. Grace, M.E. Brown, A. McNally",
+    "container": "Food Policy",
+    "volume": "46",
+    "issue": null,
+    "pages": "56-65",
+    "publisher": null,
+    "doi": "10.1016/j.foodpol.2014.01.010",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "K. Grace, M.E. Brown, A. McNally (2014) Examining the link between food prices and food insecurity: A multi-level analysis of maize price and birthweight in Kenya Food Policy 46, p. 56-65. doi: 10.1016/j.foodpol.2014.01.010",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no punctuation separates title from journal in CV"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2014-using-satellite-remote",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Using Satellite Remote Sensing and Household Survey Data to Assess Human Health and Nutrition Response to Environmental Change",
+    "authors": [
+      "Brown, M.E.",
+      "Grace, K.",
+      "Shively, G.",
+      "Johnson, K.",
+      "Carroll, M."
+    ],
+    "authorsAsInCV": "M.E. Brown, K. Grace, G. Shively, K. Johnson, M. Carroll",
+    "container": "Population and Environment",
+    "volume": "36",
+    "issue": "1",
+    "pages": "48-72",
+    "publisher": null,
+    "doi": "10.1007/s11111-013-0201-0",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "M.E. Brown, K. Grace, G. Shively, K. Johnson, M. Carroll (2014) Using Satellite Remote Sensing and Household Survey Data to Assess Human Health and Nutrition Response to Environmental Change. Population and Environment. 36 (1) p. 48-72. doi: 10.1007/s11111-013-0201-0",
+    "themes": [
+      "climate-risk",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "panday-2014-application-evaluation-snowmelt",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Application and evaluation of a snowmelt runoff model in the Tamar River basin, eastern Himalaya using a Markov Chain Monte Carlo (MCMC) data assimilation approach",
+    "authors": [
+      "Panday, P.",
+      "Williams, C.",
+      "Frey, K.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "P. Panday, C. Williams, K. Frey and M.E. Brown",
+    "container": "Hydrological Processes",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1002/hyp.10005",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "P. Panday, C. Williams, K. Frey and M.E. Brown (2014) Application and evaluation of a snowmelt runoff model in the Tamar River basin, eastern Himalaya using a Markov Chain Monte Carlo (MCMC) data assimilation approach. Hydrological Processes, doi: 10.1002/hyp.10005",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no volume/pages given",
+        "crossref: registered year 2013 differs from CV year 2014"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "rosenzweig-2014-enhancing-climate-resilience",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Enhancing Climate Resilience at NASA Centers: The Climate Adaptation Science Investigator Workgroup (CASI) for Science and Stewardship",
+    "authors": [
+      "Rosenzweig, C.",
+      "Horton, R.",
+      "Bader, D.",
+      "Brown, M.E.",
+      "DeYoung, R.",
+      "Fellows, M.",
+      "Friedl, L.",
+      "Gotwals, K.",
+      "Graham, W.",
+      "Hall, C.",
+      "Higuchi, S.",
+      "Hudson, C.",
+      "Jedlovec, G.",
+      "Kaye, J.",
+      "Lowenstein, M.",
+      "Mace, T.",
+      "Milesi, C.",
+      "Patzert, W.",
+      "Stackhouse, P., Jr.",
+      "Toufectis, K."
+    ],
+    "authorsAsInCV": "C. Rosenzweig, R. Horton, D. Bader, M.E. Brown, R. DeYoung, M. Fellows, L. Friedl, K. Gotwals, W. Graham, C. Hall, S. Higuchi, C. Hudson, G. Jedlovec, J. Kaye, M. Lowenstein, T. Mace, C. Milesi, W. Patzert, P. Stackhouse Jr., and K. Toufectis",
+    "container": "Bulletin of the American Meteorological Society",
+    "volume": "95",
+    "issue": "9",
+    "pages": "1351–1363",
+    "publisher": null,
+    "doi": "10.1175/BAMS-D-12-00169.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "C. Rosenzweig, R. Horton, D. Bader, M.E. Brown, R. DeYoung, M. Fellows, L. Friedl, K. Gotwals, W. Graham, C. Hall, S. Higuchi, C. Hudson, G. Jedlovec, J. Kaye, M. Lowenstein, T. Mace, C. Milesi, W. Patzert, P. Stackhouse Jr., and K. Toufectis (2014) Enhancing Climate Resilience at NASA Centers: The Climate Adaptation Science Investigator Workgroup (CASI) for Science and Stewardship. Bulletin of the American Meteorological Society 95 (9) 1351–1363. doi: 10.1175/BAMS-D-12-00169.1",
+    "themes": [
+      "applications",
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2014-assessment-soil-moisture",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2014,
+    "title": "Assessment of Soil Moisture Data Requirements by the Potential SMAP Data User Community: Review of SMAP Mission User Community",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M."
+    ],
+    "authorsAsInCV": "M.E. Brown and V.M. Escobar",
+    "container": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "volume": "7",
+    "issue": "1",
+    "pages": "277–283",
+    "publisher": null,
+    "doi": "10.1109/JSTARS.2013.2261473",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 9,
+    "citationAsInCV": "M.E. Brown and V.M. Escobar (2014) Assessment of Soil Moisture Data Requirements by the Potential SMAP Data User Community: Review of SMAP Mission User Community. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 7 (1) 277–283. doi: 10.1109/JSTARS.2013.2261473",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "entry spans PDF pages 9-10"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "johnson-2013-forest-cover-associated",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "Forest cover associated with improved health and nutrition outcomes in Malawi: Evidence from the Demographic and Health Surveys and NASA satellite remote sensing data",
+    "authors": [
+      "Johnson, K.",
+      "Jacob, A.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "K. Johnson, A. Jacob, M.E. Brown",
+    "container": "Global Health: Science and Practice",
+    "volume": "1",
+    "issue": "2",
+    "pages": "237-248",
+    "publisher": null,
+    "doi": "10.9745/GHSP-D-13-00055",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "K. Johnson, A. Jacob, M.E. Brown (2013) Forest cover associated with improved health and nutrition outcomes in Malawi: Evidence from the Demographic and Health Surveys and NASA satellite remote sensing data. Global Health: Science and Practice, 1(2) pp. 237-248, doi: 10.9745/GHSP-D-13-00055",
+    "themes": [
+      "climate-risk",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "iizumi-2013-prediction-seasonal-climate",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "Prediction of seasonal climate-induced variations in global food production levels",
+    "authors": [
+      "Iizumi, T.",
+      "Sakuma, H.",
+      "Yokozawa, M.",
+      "Luo, J.-J.",
+      "Challinor, A.J.",
+      "Brown, M.E.",
+      "Sakurai, G.",
+      "Yamagata, T."
+    ],
+    "authorsAsInCV": "T. Iizumi , H. Sakuma, M. Yokozawa, J.-J. Luo, A.J. Challinor, M.E. Brown, G. Sakurai, and T. Yamagata",
+    "container": "Nature Climate Change",
+    "volume": "3",
+    "issue": null,
+    "pages": "904–908",
+    "publisher": null,
+    "doi": "10.1038/nclimate1945",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "T. Iizumi , H. Sakuma, M. Yokozawa, J.-J. Luo, A.J. Challinor, M.E. Brown, G. Sakurai, and T. Yamagata (2013) Prediction of seasonal climate-induced variations in global food production levels. Nature Climate Change, 3: pp 904–908 doi: 10.1038/nclimate1945",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "west-2013-definition-capabilities-components",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "Definition, Capabilities, and Components of a Terrestrial Carbon Monitoring System",
+    "authors": [
+      "West, T.O.",
+      "Brown, M.E.",
+      "Duren, R.M.",
+      "Ogle, S.M.",
+      "Moss, R.H."
+    ],
+    "authorsAsInCV": "T.O. West, M.E. Brown, R.M. Duren, S.M. Ogle, and R.H. Moss",
+    "container": "Carbon Management",
+    "volume": "4",
+    "issue": "4",
+    "pages": "413-422",
+    "publisher": null,
+    "doi": "10.4155/cmt.13.36",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "T.O. West, M.E. Brown, R.M. Duren, S.M. Ogle, and R.H. Moss (2013) Definition, Capabilities, and Components of a Terrestrial Carbon Monitoring System. Carbon Management. 4(4) pp. 413-422. doi:10.4155/cmt.13.36",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2013-nasa-soil-moisture",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "NASA's Soil Moisture Active Passive (SMAP) Mission and Opportunities for Applications Users",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M.",
+      "Moran, M.S.",
+      "Entekhabi, D.",
+      "O'Neill, P.E.",
+      "Njoku, E.G.",
+      "Doorn, B.",
+      "Entin, J.K."
+    ],
+    "authorsAsInCV": "M.E. Brown, V. M. Escobar, M.S. Moran, D. Entekhabi, P.E. O'Neill, E. G. Njoku, B. Doorn, J.K. Entin",
+    "container": "Bulletin of American Meteorological Society",
+    "volume": "94",
+    "issue": "8",
+    "pages": "1125-1128",
+    "publisher": null,
+    "doi": "10.1175/BAMS-D-11-00049.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, V. M. Escobar, M.S. Moran, D. Entekhabi, P.E. O'Neill, E. G. Njoku, B. Doorn, J.K. Entin (2013) NASA's Soil Moisture Active Passive (SMAP) Mission and Opportunities for Applications Users. Bulletin of American Meteorological Society. 94(8) 1125-1128. doi: 10.1175/BAMS-D-11-00049.1",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2013-policy-robust-space",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "Policy for Robust Space-based Earth Science, Technology and Applications",
+    "authors": [
+      "Brown, M.E.",
+      "Escobar, V.M.",
+      "Macauley, M.",
+      "Aschbacher, J.",
+      "Milagro-Perez, M.P.",
+      "Doorn, B.",
+      "Friedl, L."
+    ],
+    "authorsAsInCV": "M.E. Brown, V.M. Escobar, M. Macauley, J. Aschbacher, M.P. Milagro-Perez, B. Doorn, L. Friedl",
+    "container": "Space Policy",
+    "volume": "29",
+    "issue": "1",
+    "pages": "76–82",
+    "publisher": null,
+    "doi": "10.1016/j.spacepol.2012.11.007",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, V.M. Escobar, M. Macauley, J. Aschbacher, M.P. Milagro-Perez, B. Doorn, L. Friedl (2013) Policy for Robust Space-based Earth Science, Technology and Applications. Space Policy. 29(1). pp 76–82. doi: 10.1016/j.spacepol.2012.11.007",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "kim-2013-effect-dynamic-surface",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "The Effect of the Dynamic Surface Bareness to Dust Source Function, Emission, and Distribution",
+    "authors": [
+      "Kim, D.",
+      "Chin, M.",
+      "Bian, H.",
+      "Tan, Q.",
+      "Brown, M.E.",
+      "Zheng, T.",
+      "You, R.",
+      "Diehl, T.",
+      "Ginoux, P.",
+      "Kucsera, T."
+    ],
+    "authorsAsInCV": "D. Kim, M. Chin, H. Bian, Q. Tan, M.E. Brown, T. Zheng, R. You, T. Diehl, P. Ginoux, and T. Kucsera",
+    "container": "Journal of Geophysical Research - Atmospheres",
+    "volume": "118",
+    "issue": null,
+    "pages": "1–16",
+    "publisher": null,
+    "doi": "10.1029/2012JD017907",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "D. Kim, M. Chin, H. Bian, Q. Tan, M.E. Brown, T. Zheng, R. You, T. Diehl, P. Ginoux, and T. Kucsera (2013) The Effect of the Dynamic Surface Bareness to Dust Source Function, Emission, and Distribution. Journal of Geophysical Research - Atmospheres. 118, 1–16, doi: 10.1029/2012JD017907",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2013-city-national-metric",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2013,
+    "title": "A City and National Metric Measuring Isolation from the Global Market for Food Security Assessment",
+    "authors": [
+      "Brown, M.E.",
+      "Silver, K.C.",
+      "Rajagopalan, K."
+    ],
+    "authorsAsInCV": "M.E. Brown, K.C. Silver, K. Rajagopalan",
+    "container": "Applied Geography",
+    "volume": "38",
+    "issue": null,
+    "pages": "119-128",
+    "publisher": null,
+    "doi": "10.1016/j.apgeog.2012.11.015",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, K.C. Silver, K. Rajagopalan (2013) A City and National Metric Measuring Isolation from the Global Market for Food Security Assessment. Applied Geography, 38:119-128. doi 10.1016/j.apgeog.2012.11.015",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-global-phenological-response",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2012,
+    "title": "Global Phenological Response to Climate in Crop Areas using Humidity and Temperature Models",
+    "authors": [
+      "Brown, M.E.",
+      "de Beurs, K.",
+      "Marshall, M."
+    ],
+    "authorsAsInCV": "M.E. Brown, K. de Beurs, M.Marshall",
+    "container": "Remote Sensing of Environment",
+    "volume": "126",
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1016/j.rse.2012.08.009",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, K. de Beurs, M.Marshall (2012) Global Phenological Response to Climate in Crop Areas using Humidity and Temperature Models. Remote Sensing of Environment. 126. doi: 10.1016/j.rse.2012.08.009",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-developing-earth-science",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2012,
+    "title": "Developing Earth Science Data and Models for Evaluating Climate Policy Outcomes",
+    "authors": [
+      "Brown, M.E.",
+      "Macauley, M.K."
+    ],
+    "authorsAsInCV": "M.E. Brown, M.K. Macauley",
+    "container": "EOS Transactions AGU",
+    "volume": "93",
+    "issue": "34",
+    "pages": "328",
+    "publisher": null,
+    "doi": "10.1029/2012EO340007",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, M.K. Macauley (2012) Developing Earth Science Data and Models for Evaluating Climate Policy Outcomes. EOS Transactions AGU, 93(34), 328, doi:10.1029/2012EO340007.",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "conflict",
+      "issues": [
+        "EOS Transactions AGU item (meeting report/news format), likely not a refereed paper; typed magazine-article",
+        "crossref: DOI is registered to a different title — \"Understanding climate policy data needs\" (similarity 0.60)",
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-country-regional-staple",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2012,
+    "title": "Country and Regional Staple Food Price Indices for Improved Identification of Food Insecurity",
+    "authors": [
+      "Brown, M.E.",
+      "Tondel, F.",
+      "Essam, T.",
+      "Thorne, J.A.",
+      "Mann, B.F.",
+      "Leonard, K.",
+      "Stabler, B.",
+      "Eilerts, G."
+    ],
+    "authorsAsInCV": "M.E. Brown, F. Tondel, T. Essam, J.A. Thorne, B.F. Mann, K. Leonard, B. Stabler, G. Eilerts",
+    "container": "Global Environmental Change - Policy Dimensions",
+    "volume": "22",
+    "issue": "3",
+    "pages": "784–794",
+    "publisher": null,
+    "doi": "10.1016/j.gloenvcha.2012.03.005",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 10,
+    "citationAsInCV": "M.E. Brown, F. Tondel, T. Essam, J.A. Thorne, B.F. Mann, K. Leonard, B. Stabler, G. Eilerts (2012) Country and Regional Staple Food Price Indices for Improved Identification of Food Insecurity. Global Environmental Change - Policy Dimensions. 22(3): 784–794. doi: 10.1016/j.gloenvcha.2012.03.005.",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-evaluating-use-remote",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2012,
+    "title": "Evaluating the Use of Remote Sensing data in the USAID Famine Early Warning Systems Network",
+    "authors": [
+      "Brown, M.E.",
+      "Brickley, E.B."
+    ],
+    "authorsAsInCV": "M.E. Brown, E. B. Brickley",
+    "container": "Journal of Applied Remote Sensing",
+    "volume": "6",
+    "issue": null,
+    "pages": "063511",
+    "publisher": null,
+    "doi": "10.1117/1.JRS.6.063511",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown, E. B. Brickley (2012) Evaluating the Use of Remote Sensing data in the USAID Famine Early Warning Systems Network. Journal of Applied Remote Sensing. 6, 063511, DOI:10.1117/1.JRS.6.063511",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2012-bringing-together-users",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2012,
+    "title": "Bringing together users and developers of forest biomass maps",
+    "authors": [
+      "Brown, M.E.",
+      "Macauley, M."
+    ],
+    "authorsAsInCV": "M. E. Brown, M. Macauley",
+    "container": "EOS, Transactions of the American Geophysical Union",
+    "volume": "93",
+    "issue": "3",
+    "pages": "32",
+    "publisher": null,
+    "doi": "10.1029/2012EO030011",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M. E. Brown, M. Macauley (2012), Bringing together users and developers of forest biomass maps, EOS, Transactions of the American Geophysical Union 93(3), 32, doi:10.1029/2012EO030011.",
+    "themes": [
+      "applications",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "EOS meeting report, not a refereed paper; typed magazine-article"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2011-science-based-insurance",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2011,
+    "title": "Science-based Insurance",
+    "authors": [
+      "Brown, M.E.",
+      "Osgood, D.O.",
+      "Carriquiry, M.A."
+    ],
+    "authorsAsInCV": "M.E. Brown, D.O. Osgood, M. A. Carriquiry",
+    "container": "Nature Geoscience",
+    "volume": "4",
+    "issue": null,
+    "pages": "213–214",
+    "publisher": null,
+    "doi": "10.1038/ngeo1117",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown, D.O. Osgood, M. A. Carriquiry (2011) Science-based Insurance. Nature Geosciences 4: 213–214. doi:10.1038/ngeo1117",
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "corrected: Nature Geosciences → Nature Geoscience",
+        "2-page piece, possibly a commentary rather than a research article; kept as journal-article"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "vrieling-2011-phenological-characterization-variability",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2011,
+    "title": "Phenological characterization and variability of African farming systems with NDVI time series",
+    "authors": [
+      "Vrieling, A.",
+      "De Beurs, K.M.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Vrieling, A., K. M. De Beurs, and M. E. Brown",
+    "container": "Climatic Change",
+    "volume": "109",
+    "issue": "3-4",
+    "pages": "455-477",
+    "publisher": null,
+    "doi": "10.1007/s10584-011-0049-1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "Vrieling, A., K. M. De Beurs, and M. E. Brown (2011). Phenological characterization and variability of African farming systems with NDVI time series. Climatic Change, 109 (3-4), pp.455-477. DOI 10.1007/s10584-011-0049-1",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "jeong-2011-phenology-shifts-start",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2011,
+    "title": "Phenology shifts at start vs. end of growing season in temperate vegetation over the Northern Hemisphere for the period 1982–2008",
+    "authors": [
+      "Jeong, S.-J.",
+      "Ho, C.-H.",
+      "Gim, H.-J.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "S-J Jeong, C-H Ho, H-J Gim, and M.E. Brown",
+    "container": "Global Change Biology",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1111/j.1365-2486.2011.02397.x",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "S-J Jeong, C-H Ho, H-J Gim, and M.E. Brown (2011) Phenology shifts at start vs. end of growing season in temperate vegetation over the Northern Hemisphere for the period 1982–2008. Global Change Biology. Doi 10.1111/j.1365-2486.2011.02397",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "DOI looks truncated (Wiley 'j.1365-2486.2011.02397' lacks the usual '.x' suffix); kept as given",
+        "no volume/pages given",
+        "curation: CV DOI was truncated (missing '.x'); completed DOI verified against Crossref title, year 2011, vol 17, pp 2385-2399"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "benavides-2010-parasite-encounter-infection",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2010,
+    "title": "From parasite encounter to infection: multiple-scale drivers of parasite richness in a wild social primate population",
+    "authors": [
+      "Benavides, J.",
+      "Huchard, E.",
+      "Brown, M.E.",
+      "Pettorelli, N.",
+      "King, A.",
+      "Raymond, M.",
+      "Cowlishaw, G."
+    ],
+    "authorsAsInCV": "Benavides, J., Huchard, E., Brown, M.E., Pettorelli, N., King, A., Raymond, M., and Cowlishaw, G.",
+    "container": "American Journal of Physical Anthropology",
+    "volume": "147",
+    "issue": null,
+    "pages": "52-63",
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "Benavides, J., Huchard, E., Brown, M.E., Pettorelli, N., King, A., Raymond, M., and Cowlishaw, G. (2010). From parasite encounter to infection: multiple-scale drivers of parasite richness in a wild social primate population. American Journal of Physical Anthropology 147: 52-63.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "no DOI given",
+        "volume 147 sits oddly with CV year 2010",
+        "suggested-doi: 10.1002/ajpa.21627 — Crossref title \"From parasite encounter to infection: Multiple‐scale drivers of parasite richness in a wild social primate population\" (2011); confirm before adding"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2010-himala-climate-impacts",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2010,
+    "title": "HIMALA: Climate Impacts on Glaciers, Snow and Hydrology in the Himalayan Region",
+    "authors": [
+      "Brown, M.E.",
+      "Ouyang, H.",
+      "Habib, S.",
+      "Shrestha, B.",
+      "Shrestha, M.",
+      "Panday, P.",
+      "Tzortziou, M.",
+      "Policelli, F.",
+      "Artan, G.",
+      "Giriraj, A.",
+      "Bajracharya, S.R.",
+      "Racovinteanu, A."
+    ],
+    "authorsAsInCV": "M.E. Brown, H. Ouyang, S. Habib, B. Shrestha, M. Shrestha, P. Panday, M. Tzortziou, F. Policelli, G. Artan, A. Giriraj, SR. Bajracharya, A. Racovinteanu",
+    "container": "Mountain Research and Development",
+    "volume": "30",
+    "issue": "4",
+    "pages": "401-404",
+    "publisher": null,
+    "doi": "10.1659/MRD-JOURNAL-D-10-00071.1",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown, H. Ouyang, S. Habib, B. Shrestha, M. Shrestha, P. Panday, M. Tzortziou, F. Policelli, G. Artan, A. Giriraj, SR. Bajracharya, A. Racovinteanu (2010) HIMALA: Climate Impacts on Glaciers, Snow and Hydrology in the Himalayan Region. Mountain Research and Development 30(4): 401-404, doi: 10.1659/MRD-JOURNAL-D-10-00071.1",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "author 'A. Racovinteanu' may be a misspelling of 'Racoviteanu' (2014 Journal of Hydrology entry); kept as written"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "jeong-2010-browning-desert-boundaries",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2010,
+    "title": "Browning in desert boundaries in Asia in recent decades",
+    "authors": [
+      "Jeong, S.-J.",
+      "Ho, C.-H.",
+      "Brown, M.E.",
+      "Kug, J.-S.",
+      "Piao, S."
+    ],
+    "authorsAsInCV": "S-J Jeong, C-H Ho, M.E. Brown, J-S Kug and S Piao",
+    "container": "Journal of Geophysical Research-Atmosphere",
+    "volume": "116",
+    "issue": null,
+    "pages": "D02103",
+    "publisher": null,
+    "doi": "10.1029/2010JD014633",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "S-J Jeong, C-H Ho, M.E. Brown, J-S Kug and S Piao (2010) Browning in desert boundaries in Asia in recent decades. Journal of Geophysical Research-Atmosphere 116, D02103, doi:10.1029/2010JD014633, 2011",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "CV year (2010) conflicts with trailing ', 2011' after the DOI and with volume 116; CV year kept",
+        "trailing ', 2011' stripped from DOI",
+        "crossref: registered year 2011 differs from CV year 2010"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2010-response-african-land",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2010,
+    "title": "The response of African land surface phenology to large scale climate oscillations",
+    "authors": [
+      "Brown, M.E.",
+      "De Beurs, K.M.",
+      "Vrieling, A."
+    ],
+    "authorsAsInCV": "M.E. Brown, De Beurs, K. M. & Vrieling, A.",
+    "container": "Remote Sensing of Environment",
+    "volume": "114",
+    "issue": null,
+    "pages": "2286-2296",
+    "publisher": null,
+    "doi": "10.1016/j.rse.2010.05.005",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown, De Beurs, K. M. & Vrieling, A. (2010) The response of African land surface phenology to large scale climate oscillations. Remote Sensing of Environment 114 (2010), pp. 2286-2296, doi: 10.1016/j.rse.2010.05.005",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2010-review-remote-sensing",
+    "type": "book-review",
+    "status": "published",
+    "year": 2010,
+    "title": "Review of Remote Sensing Needs and Applications in Africa",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "African Geographical Review",
+    "volume": "29",
+    "issue": "1",
+    "pages": "104-108",
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown (2010) ‘Review of Remote Sensing Needs and Applications in Africa’, report published in 2007 by the USGS, prepared by James Rowland, Eric Wood and Larry L. Tieszen. African Geographical Review, 29(1): 104-108.",
+    "themes": [
+      "earth-observation",
+      "applications"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "review of a 2007 USGS report (prepared by James Rowland, Eric Wood and Larry L. Tieszen), not an original research paper; typed book-review",
+        "title is the reviewed report's title; enclosing quotes and the descriptive clause were dropped (kept in citationAsInCV)",
+        "no DOI given"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2010-climate-change-nutrition",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2010,
+    "title": "Climate Change, Nutrition and Food Security in sub-Saharan Africa",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "SCN News",
+    "volume": "38",
+    "issue": null,
+    "pages": "32-36",
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "M.E. Brown (2010) Climate Change, Nutrition and Food Security in sub-Saharan Africa. SCN News, 38: 32-36. ISSN 1564 - 3743",
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "SCN News is a UN Standing Committee on Nutrition newsletter, likely not refereed; typed magazine-article",
+        "no DOI; CV gives ISSN 1564-3743"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "garonna-2009-rapid-primary-productivity",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Rapid primary productivity change in one of the last coastal rainforests: The case of Kahua, Solomon Islands",
+    "authors": [
+      "Garonna, I.",
+      "Fazey, I.",
+      "Brown, M.E.",
+      "Pettorelli, N."
+    ],
+    "authorsAsInCV": "I. Garonna, Fazey, I., Brown, M.E., and Pettorelli, N.",
+    "container": "Environmental Conservation",
+    "volume": "36",
+    "issue": null,
+    "pages": "253-260",
+    "publisher": null,
+    "doi": "10.1017/S0376892909990208",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 11,
+    "citationAsInCV": "I. Garonna, Fazey, I., Brown, M.E., and Pettorelli, N. (2009) Rapid primary productivity change in one of the last coastal rainforests: The case of Kahua, Solomon Islands. Environmental Conservation, 36: 253-260, doi: 10.1017/S0376892909990208",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "rosenzweig-2009-space-agency-workshop",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Space Agency Workshop Considers Effect of Climate Change on Infrastructure: Climate Change Impacts & Adaptation – NASA Mission & Infrastructure, Kennedy Space Center, July 28-30, 2009",
+    "authors": [
+      "Rosenzweig, C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "C. Rosenzweig, and Brown, M.E.",
+    "container": "EOS, Transactions of the American Geophysical Union",
+    "volume": "90",
+    "issue": "40",
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1029/2009EO400004",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "C. Rosenzweig, and Brown, M.E. (2009) Space Agency Workshop Considers Effect of Climate Change on Infrastructure: Climate Change Impacts & Adaptation – NASA Mission & Infrastructure, Kennedy Space Center, July 28-30, 2009’. EOS, Transactions of the American Geophysical Union, 90 (40) doi: 10.1029/2009EO400004, 2009",
+    "themes": [
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "EOS meeting report, not a refereed paper; typed magazine-article",
+        "stray closing quotation mark at end of title in CV removed",
+        "trailing ', 2009' stripped from DOI",
+        "no pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2009-markets-climate-change",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Markets, Climate Change and Food Security in West Africa",
+    "authors": [
+      "Brown, M.E.",
+      "Hintermann, B.",
+      "Higgins, N."
+    ],
+    "authorsAsInCV": "M.E. Brown, Hintermann, B., and Higgins, N.",
+    "container": "Environmental Science and Technology",
+    "volume": "43",
+    "issue": "21",
+    "pages": "8016–8020",
+    "publisher": null,
+    "doi": "10.1021/es901162d",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown, Hintermann, B., and Higgins, N. (2009) Markets, Climate Change and Food Security in West Africa, Environmental Science and Technology 43 (21), pp 8016–8020. doi: 10.1021/es901162d",
+    "themes": [
+      "food-security",
+      "sustainable-food-systems"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "ross-2009-review-fews-net",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Review of FEWS NET biophysical monitoring requirements",
+    "authors": [
+      "Ross, K.W.",
+      "Brown, M.E.",
+      "Verdin, J.P.",
+      "Underwood, L.W."
+    ],
+    "authorsAsInCV": "K.W. Ross, Brown, M.E., Verdin, J.P. and Underwood, L.W.",
+    "container": "Environmental Research Letters",
+    "volume": "4",
+    "issue": null,
+    "pages": "024009",
+    "publisher": null,
+    "doi": "10.1088/1748-9326/4/2/024009",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "K.W. Ross, Brown, M.E., Verdin, J.P. and Underwood, L.W. (2009) Review of brickl NET biophysical monitoring requirements, Environmental Research Letters. 4 (2009) 024009 (10pp) doi: 10.1088/1748-9326/4/2/024009",
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "corrected: Review of brickl NET biophysical monitoring requirements → Review of FEWS NET biophysical monitoring requirements (same typo in docx)",
+        "DOI path (4/2/) implies issue 2, not stated in CV"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "funk-2009-declining-global-per",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Declining Global per Capita Agricultural Capacity and Warming Oceans Threaten Food Security",
+    "authors": [
+      "Funk, C.C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "C.C. Funk and Brown, M.E.",
+    "container": "Food Security Journal",
+    "volume": "1",
+    "issue": "3",
+    "pages": "271-289",
+    "publisher": null,
+    "doi": "10.1007/s12571-009-0026-y",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "C.C. Funk and Brown, M.E. (2009) Declining Global per Capital Agricultural Capacity and Warming Oceans Threaten Food Security, Food Security Journal 1 (3): 271-289. doi: 10.1007/s12571-009-0026-y",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "corrected: per Capital → per Capita (in title)"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2009-biophysical-remote-sensing",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2009,
+    "title": "Biophysical Remote Sensing and Climate Data in Famine Early Warning Systems",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "Geography Compass",
+    "volume": "3",
+    "issue": "4",
+    "pages": "1381–1407",
+    "publisher": null,
+    "doi": "10.1111/j.1749-8198.2009.00244.x",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown (2009) ‘Biophysical Remote Sensing and Climate Data in Famine Early Warning Systems’, Geography Compass. 3(4): 1381–1407. doi: 10.1111/j.1749-8198.2009.00244.x",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "title enclosed in single quotation marks in CV; quotes dropped"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-climate-change-agriculture",
+    "type": "book-review",
+    "status": "published",
+    "year": 2008,
+    "title": "Climate Change and Agriculture in Africa: Impact Assessment and Adaptation Strategies",
+    "authors": [
+      "Brown, M.E.",
+      "McCusker, B."
+    ],
+    "authorsAsInCV": "M.E. Brown, and McCusker, B.",
+    "container": "EOS Transactions of the American Geophysical Union",
+    "volume": "89",
+    "issue": "47",
+    "pages": null,
+    "publisher": null,
+    "doi": "10.1029/2008EO470009",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown, and McCusker, B. (2008) Climate Change and Agriculture in Africa: Impact Assessment and Adaptation Strategies. Book Review in EOS Transactions of the American Geophysical Union 89(47) doi:10.1029/2008EO470009.",
+    "themes": [
+      "sustainable-food-systems",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "book review in EOS, not a refereed paper; typed book-review; title is the reviewed book's title",
+        "no pages given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-neural-networks-tool",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Neural Networks as a Tool for Constructing Continuous NDVI Time Series from AVHRR and MODIS",
+    "authors": [
+      "Brown, M.E.",
+      "Lary, D.",
+      "Vrieling, A.",
+      "Stathakis, D.",
+      "Mussa, H."
+    ],
+    "authorsAsInCV": "M.E. Brown, Lary, D., Vrieling, A., Stathakis, D. and Mussa, H.",
+    "container": "International Journal of Remote Sensing",
+    "volume": "29",
+    "issue": "24",
+    "pages": "7141-7158",
+    "publisher": null,
+    "doi": "10.1080/01431160802238435",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown, Lary, D., Vrieling, A., Stathakis, D. and Mussa, H. (2008) Neural Networks as a Tool for Constructing Continuous NDVI Time Series from AVHRR and MODIS. International Journal of Remote Sensing 29(24): 7141-7158. doi: 10.1080/01431160802238435",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "bro-jorgensen-2008-using-ndvi-explain",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Using NDVI To Explain Ranging Patterns in a Lek-Breeding Antelope: The Importance of Spatial Scale",
+    "authors": [
+      "Bro-Jørgensen, J.",
+      "Brown, M.E.",
+      "Pettorelli, N."
+    ],
+    "authorsAsInCV": "J. Bro-Jørgensen, Brown, M.E. and Pettorelli, N.",
+    "container": "Oecologia",
+    "volume": "158",
+    "issue": "1",
+    "pages": "177-182",
+    "publisher": null,
+    "doi": "10.1007/s00442-008-1121-z",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "J. Bro-Jørgensen, Brown, M.E. and Pettorelli, N. (2008) Using NDVI To Explain Ranging Patterns in a Lek-Breeding Antelope: The Importance of Spatial Scale. Oecologica 158(1): 177-182. DOI 10.1007/s00442-008-1121-z",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "corrected: Oecologica → Oecologia"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "funk-2008-warming-indian-ocean",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Warming of the Indian Ocean threatens eastern and southern African food security but could be mitigated by agricultural development",
+    "authors": [
+      "Funk, C.C.",
+      "Dettinger, M.",
+      "Michaelsen, J.",
+      "Verdin, J.P.",
+      "Brown, M.E.",
+      "Barlow, M.",
+      "Hoell, A."
+    ],
+    "authorsAsInCV": "C.C. Funk, Dettinger, M., Michaelsen, J, Verdin, J.P., Brown, M.E., Barlow, M. and Hoell, A.",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "105",
+    "issue": "32",
+    "pages": "11081-11086",
+    "publisher": null,
+    "doi": "10.1073/pnas.0708196105",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "C.C. Funk, Dettinger, M., Michaelsen, J, Verdin, J.P., Brown, M.E., Barlow, M. and Hoell, A. (2008) Warming of the Indian Ocean threatens eastern and southern African food security but could be mitigated by agricultural development. Proceedings of the National Academy of Sciences 105(32): 11081-11086. doi: 10.1073/pnas.0708196105",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-ensuring-food-security",
+    "type": "letter-commentary",
+    "status": "published",
+    "year": 2008,
+    "title": "Ensuring Food Security",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C.",
+      "Verdin, J.P.",
+      "Eilerts, G."
+    ],
+    "authorsAsInCV": "M.E. Brown, Funk, C.C., Verdin, J.P. and Eilerts, G.",
+    "container": "Science",
+    "volume": "320",
+    "issue": "5876",
+    "pages": "611-612",
+    "publisher": null,
+    "doi": "10.1126/science.320.5876.611",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown, Funk, C.C., Verdin, J.P. and Eilerts, G. (2008) Ensuring Food Security (in Letters). Science 320(5876): 611-612. doi: 10.1126/science.320.5876.611",
+    "themes": [
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "Science Letter (CV: '(in Letters)'); typed letter-commentary; '(in Letters)' annotation dropped from title"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-food-security-under",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Food Security under Climate Change",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C."
+    ],
+    "authorsAsInCV": "M.E. Brown and C.C. Funk",
+    "container": "Science",
+    "volume": "319",
+    "issue": "5863",
+    "pages": "580-581",
+    "publisher": null,
+    "doi": "10.1126/science.1154102",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown and C.C. Funk (2008) Food Security under Climate Change. Science 319 (5863): 580 - 581. doi: 10.1126/science.1154102",
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "2-page Science piece, possibly a Perspective rather than a research article; kept as journal-article"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-evaluation-multi-sensor",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Evaluation of Multi-Sensor Semi-Arid Crop Season Parameters Based on NDVI and Rainfall",
+    "authors": [
+      "Brown, M.E.",
+      "de Beurs, K."
+    ],
+    "authorsAsInCV": "M.E. Brown and K. de Beurs",
+    "container": "Remote Sensing of Environment",
+    "volume": "112",
+    "issue": "5",
+    "pages": "2261-2271",
+    "publisher": null,
+    "doi": "10.1016/j.rse.2007.10.008",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 12,
+    "citationAsInCV": "M.E. Brown and K. de Beurs (2008) Evaluation of Multi-Sensor Semi-Arid Crop Season Parameters Based on NDVI and Rainfall. Remote Sensing of Environment 112(5): 2261-2271. doi:10.1016/j.rse.2007.10.008",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2008-using-satellite-remote",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Using Satellite Remote Sensing Data in a Spatially Explicit Price Model",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Prince, S.D."
+    ],
+    "authorsAsInCV": "M.E. Brown, Pinzon, J.E, and Prince, S.D.",
+    "container": "Land Economics",
+    "volume": "84",
+    "issue": "2",
+    "pages": "342–359",
+    "publisher": null,
+    "doi": "10.3368/le.84.2.340",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown, Pinzon, J.E, and Prince, S.D. (2008) Using Satellite Remote Sensing Data in a Spatially Explicit Price Model. Land Economics 84(2): 342–359. Doi: 10.3368/le.84.2.340",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "DOI suffix (.340) does not match the stated start page (342); kept as given"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "tarnavsky-2008-multiscale-geostatistical-analysis",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2008,
+    "title": "Multiscale Geostatistical Analysis of AVHRR, SPOT-VGT, and MODIS Global NDVI Records",
+    "authors": [
+      "Tarnavsky, E.",
+      "Garrigues, S.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "E. Tarnavsky, Garrigues, S. and Brown, M.E.",
+    "container": "Remote Sensing of Environment",
+    "volume": "112",
+    "issue": "2",
+    "pages": "535-549",
+    "publisher": null,
+    "doi": "10.1016/j.rse.2007.05.008",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "E. Tarnavsky, Garrigues, S. and Brown, M.E. (2008) Multiscale Geostatistical Analysis of AVHRR, SPOT-VGT, and MODIS Global NDVI Records. Remote Sensing of Environment 112(2): 535-549. doi:10.1016/j.rse.2007.05.008",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2007-earlier-famine-warning",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2007,
+    "title": "Earlier Famine Warning Possible Using Remote Sensing and Models",
+    "authors": [
+      "Brown, M.E.",
+      "Funk, C.C.",
+      "Galu, G.",
+      "Choularton, R."
+    ],
+    "authorsAsInCV": "M.E. Brown, Funk, C.C., Galu, G. and Choularton, R.",
+    "container": "EOS, Transactions of the American Geophysical Union",
+    "volume": "88",
+    "issue": "39",
+    "pages": "381–382",
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown, Funk, C.C., Galu, G. and Choularton, R. (2007) Earlier Famine Warning Possible Using Remote Sensing and Models. EOS, Transactions of the American Geophysical Union 88(39): 381–382.",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "EOS article, likely not a refereed paper; typed magazine-article",
+        "no DOI given"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2006-assessing-natural-resource",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2006,
+    "title": "Assessing Natural Resource Management Challenges in Senegal: Integrating data from Participatory Rural Appraisals with Remote Sensing",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "M.E. Brown",
+    "container": "World Development",
+    "volume": "34",
+    "issue": "4",
+    "pages": "751-767",
+    "publisher": null,
+    "doi": "10.1016/j.worlddev.2005.10.002",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown (2006). Assessing Natural Resource Management Challenges in Senegal: Integrating data from Participatory Rural Appraisals with Remote Sensing. World Development 34(4): 751-767. doi:10.1016/j.worlddev.2005.10.002",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2006-effect-vegetation-productivity",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2006,
+    "title": "The effect of vegetation productivity on millet Prices in the Informal Markets of Mali, Burkina Faso and Niger",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Prince, S.D."
+    ],
+    "authorsAsInCV": "M.E. Brown, Pinzon, J.E, and Prince, S.D.",
+    "container": "Climatic Change",
+    "volume": "78",
+    "issue": null,
+    "pages": "181-202",
+    "publisher": null,
+    "doi": "10.1007/s10584-006-9096-4",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown, Pinzon, J.E, and Prince, S.D. (2006) The effect of vegetation productivity on millet Prices in the Informal Markets of Mali, Burkina Faso and Niger. Climatic Change 78: 181-202. Doi: 10.1007/s10584-006-9096-4",
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2006-evaluation-consistency-long",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2006,
+    "title": "Evaluation of the consistency of long-term NDVI time series derived from AVHRR, SPOT-Vegetation, SeaWIFS, MODIS and LandSAT ETM+",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Didan, K.",
+      "Morisette, J.T.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "M.E. Brown, Pinzon, J.E., Didan, K., Morisette, J.T. and Tucker, C.J.",
+    "container": "IEEE Transactions Geoscience and Remote Sensing",
+    "volume": "44",
+    "issue": "7",
+    "pages": "1787-1793",
+    "publisher": null,
+    "doi": "10.1109/TGRS.2005.860205",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown, Pinzon, J.E., Didan, K., Morisette, J.T. and Tucker, C.J. (2006) Evaluation of the consistency of long-term NDVI time series derived from AVHRR, SPOT-Vegetation, SeaWIFS, MODIS and LandSAT ETM+’, IEEE Transactions Geoscience and Remote Sensing 44(7): 1787-1793. 10.1109/TGRS.2005.860205",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "stray closing quotation mark after title in CV removed",
+        "container kept as written ('IEEE Transactions Geoscience and Remote Sensing', missing 'on')"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "funk-2006-intra-seasonal-ndvi",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2006,
+    "title": "Intra-seasonal NDVI change projections in semi-arid Africa",
+    "authors": [
+      "Funk, C.C.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "C.C. Funk and Brown, M.E.",
+    "container": "Remote Sensing of Environment",
+    "volume": "101",
+    "issue": null,
+    "pages": "249-256",
+    "publisher": null,
+    "doi": "10.1016/j.rse.2005.12.014",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "C.C. Funk and Brown, M.E. (2006) Intra-seasonal NDVI change projections in semi-arid Africa. Remote Sensing of Environment 101: 249-256. doi:10.1016/j.rse.2005.12.014",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "tucker-2005-extended-avhrr-8",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2005,
+    "title": "An Extended AVHRR 8-km NDVI Data Set Compatible with MODIS and SPOT Vegetation NDVI Data",
+    "authors": [
+      "Tucker, C.J.",
+      "Pinzon, J.E.",
+      "Brown, M.E.",
+      "Slayback, D.A.",
+      "Pak, E.W.",
+      "Mahoney, R.",
+      "Vermote, E.F.",
+      "El Saleous, N."
+    ],
+    "authorsAsInCV": "C.J. Tucker, Pinzon J.E., Brown M.E., Slayback D.A., Pak E.W., Mahoney R., Vermote E.F., and El Saleous N.",
+    "container": "International Journal of Remote Sensing",
+    "volume": "26",
+    "issue": "20",
+    "pages": "4485-4498",
+    "publisher": null,
+    "doi": "10.1080/01431160500168686",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "C.J. Tucker, Pinzon J.E., Brown M.E., Slayback D.A., Pak E.W., Mahoney R., Vermote E.F., and El Saleous N. (2005). An Extended AVHRR 8-km NDVI Data Set Compatible with MODIS and SPOT Vegetation NDVI Data, International Journal of Remote Sensing 26 (20): 4485-4498. 10.1080/01431160500168686",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2004-new-vegetation-index",
+    "type": "magazine-article",
+    "status": "published",
+    "year": 2004,
+    "title": "New Vegetation Index Dataset Available to Monitor Global Change",
+    "authors": [
+      "Brown, M.E.",
+      "Pinzon, J.E.",
+      "Tucker, C.J."
+    ],
+    "authorsAsInCV": "M.E. Brown, Pinzon, J.E. and Tucker, C.J.",
+    "container": "EOS, Transactions of the American Geophysical Union",
+    "volume": "85",
+    "issue": null,
+    "pages": "565, 569",
+    "publisher": null,
+    "doi": null,
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "M.E. Brown, Pinzon, J.E. and Tucker, C.J. (2004) New Vegetation Index Dataset Available to Monitor Global Change. in EOS, Transactions of the American Geophysical Union, 85:565,569.",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "EOS article, likely not a refereed paper; typed magazine-article",
+        "no DOI or issue given"
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "pinzon-2001-evaluating-coherence-natural",
+    "type": "journal-article",
+    "status": "published",
+    "year": 2001,
+    "title": "Evaluating Coherence of Natural Images by Smoothness Membership in Besov Spaces",
+    "authors": [
+      "Pinzon, J.E.",
+      "Pierce, J.F.",
+      "Tucker, C.J.",
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "J.E. Pinzon, Pierce, J.F., Tucker, C.J. and Brown, M.E.",
+    "container": "IEEE Transactions on Geoscience and Remote Sensing",
+    "volume": "39",
+    "issue": "9",
+    "pages": "1879-1889",
+    "publisher": null,
+    "doi": "10.1109/36.951078",
+    "url": null,
+    "cvSection": "Refereed Papers",
+    "cvPage": 13,
+    "citationAsInCV": "J.E. Pinzon, Pierce, J.F., Tucker, C.J. and Brown, M.E. (2001) Evaluating Coherence of Natural Images by Smoothness Membership in Besov Spaces IEEE Transactions on Geoscience and Remote Sensing, 39(9): 1879-1889. 10.1109/36.951078",
+    "themes": [
+      "earth-observation"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "no punctuation separates title from journal in CV"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  }
+]

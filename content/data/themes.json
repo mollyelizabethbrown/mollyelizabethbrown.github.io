@@ -1,0 +1,268 @@
+[
+  {
+    "id": "earth-observation",
+    "order": 1,
+    "title": "Earth Observation and Environmental Change",
+    "short": "Earth Observation",
+    "kicker": "Measuring a changing land surface",
+    "summary": "Building and testing the long-term satellite records — vegetation, phenology, cropland and snow — on which climate and food security analysis depends.",
+    "introduction": [
+      "Every downstream analysis of drought, harvests or hunger depends on environmental records that are consistent across decades and sensors. Brown's research began inside that problem: as a member of NASA Goddard's GIMMS group she helped produce and distribute the 8-km AVHRR vegetation index record, and evaluated how well NDVI series from AVHRR, SPOT-Vegetation, SeaWiFS, MODIS and Landsat agree with one another.",
+      "Those records then became instruments for asking how vegetation itself is changing — how the start and length of growing seasons in Africa respond to large-scale climate oscillations, how crop-area phenology responds to temperature and humidity worldwide, and how snow and glacier melt feed rivers in the Himalaya. Her recent work turns to very-high-resolution imagery and deep learning to resolve smallholder fields and regional croplands in West Africa."
+    ],
+    "questions": [
+      "How consistent are vegetation records derived from successive satellite sensors, and how can they be joined into climate-quality time series?",
+      "How are growing seasons in agricultural regions responding to temperature, humidity and large-scale climate oscillations?",
+      "Can satellite data resolve cropland and smallholder fields at the scales where food is actually produced?",
+      "How much do snow and glacier melt contribute to streamflow in data-scarce mountain basins?"
+    ],
+    "methods": [
+      "AVHRR, MODIS, SPOT-Vegetation and Landsat NDVI time series",
+      "Inter-sensor comparison and multiscale geostatistics",
+      "Land surface phenology metrics",
+      "Neural networks and deep learning on satellite image time series",
+      "Energy-balance snowmelt and streamflow modeling",
+      "Very-high-resolution commercial imagery"
+    ],
+    "findings": [
+      {
+        "doi": "10.1080/01431160500168686",
+        "text": "Described an extended 8-km AVHRR NDVI data set constructed to be compatible with MODIS and SPOT-Vegetation records — the basis for decades-long vegetation analysis."
+      },
+      {
+        "doi": "10.1109/TGRS.2005.860205",
+        "text": "Evaluated the consistency of long-term NDVI time series from AVHRR, SPOT-Vegetation, SeaWiFS, MODIS and Landsat ETM+."
+      },
+      {
+        "doi": "10.1016/j.rse.2010.05.005",
+        "text": "Examined how African land surface phenology responds to large-scale climate oscillations."
+      },
+      {
+        "doi": "10.1016/j.rse.2012.08.009",
+        "text": "Modeled the global phenological response of crop areas to humidity and temperature."
+      },
+      {
+        "doi": "10.1016/j.jhydrol.2014.09.050",
+        "text": "Developed an integrated system for estimating glacier- and snowmelt-driven streamflow in the Himalaya from remote sensing and Earth system data."
+      },
+      {
+        "doi": "10.1109/JSTARS.2026.3666440",
+        "text": "Evaluated deep learning approaches for classifying regional croplands with satellite image time series in Senegal."
+      }
+    ],
+    "imageId": "global-ndvi-modis",
+    "wordingStatus": "draft — PI to approve"
+  },
+  {
+    "id": "food-security",
+    "order": 2,
+    "title": "Agriculture and Food Security",
+    "short": "Food Security",
+    "kicker": "From harvests to markets",
+    "summary": "Connecting satellite-observed growing conditions to crop production, local food prices and famine early warning.",
+    "introduction": [
+      "Brown's doctoral research asked a question that has run through her career: when satellites show a poor growing season, does it show up in what people pay for food? Her studies of millet markets in Mali, Burkina Faso and Niger built one of the first spatially explicit price models to use satellite vegetation data, and later work extended the approach to staple food price indices, weather and international price shocks across hundreds of markets, and measures of how isolated places are from global markets.",
+      "Over more than a decade of collaboration with USAID's Famine Early Warning Systems Network (FEWS NET), she worked to ensure that vegetation and rainfall observations — and projections of them — reached the analysts who forecast food crises. That experience is synthesised in her books on famine early warning (2008) and on food prices and climate variability (2014), and continues in work on seasonal prediction of global crop production and early warning of crop pests and diseases."
+    ],
+    "questions": [
+      "How do vegetation conditions and weather shocks propagate into local food prices in developing countries?",
+      "When do international price movements dominate local markets, and which places are isolated from them?",
+      "How early can satellite observations and climate forecasts warn of production shortfalls?",
+      "How can early warning extend to pests and diseases that threaten smallholder harvests?"
+    ],
+    "methods": [
+      "Price econometrics and spatially explicit price models",
+      "NDVI and rainfall anomaly analysis",
+      "Seasonal climate forecasts and crop yield data sets",
+      "Food price indices for early warning",
+      "Farmer-reported crop damage combined with weather and satellite data"
+    ],
+    "findings": [
+      {
+        "doi": "10.1007/s10584-006-9096-4",
+        "text": "Examined the effect of vegetation productivity on millet prices in the informal markets of Mali, Burkina Faso and Niger."
+      },
+      {
+        "doi": "10.1016/j.gloenvcha.2012.03.005",
+        "text": "Developed country and regional staple food price indices for improved identification of food insecurity."
+      },
+      {
+        "doi": "10.1016/j.gloenvcha.2015.08.003",
+        "text": "Analysed the influence of weather and international price shocks on local food prices across the developing world."
+      },
+      {
+        "doi": "10.1038/nclimate1945",
+        "text": "Showed that seasonal climate-induced variations in global food production can be predicted."
+      },
+      {
+        "doi": "10.1038/ncomms4712",
+        "text": "Quantified the impacts of the El Niño–Southern Oscillation on global yields of major crops."
+      },
+      {
+        "doi": "10.3390/insects13030232",
+        "text": "Designed a pest and disease outbreak warning system for farmers, agronomists and agricultural input distributors in East Africa."
+      }
+    ],
+    "imageId": "sahel-niger-inland-delta",
+    "wordingStatus": "draft — PI to approve"
+  },
+  {
+    "id": "climate-risk",
+    "order": 3,
+    "title": "Climate Risk and Human Well-being",
+    "short": "Climate & Well-being",
+    "kicker": "Climate shocks and child health",
+    "summary": "Linking drought, heat and conflict to child nutrition, diet diversity and household decisions using satellite and survey data together.",
+    "introduction": [
+      "Environmental shocks matter most through what they do to people. Since the early 2010s Brown has worked with demographers, economists and public-health researchers to join satellite and climate records to household surveys — asking how rainfall, vegetation, soil moisture and temperature conditions relate to children's growth, diets and survival.",
+      "This work has examined drought and child stunting across many countries, high temperatures and dietary diversity in young children, food prices and birthweight, and seasonal agricultural variability and fertility intentions. With partners in the humanitarian sector it has also brought conflict into the same frame, building models of acute malnutrition risk intended to support anticipatory action."
+    ],
+    "questions": [
+      "How do drought, heat and rainfall variability affect child growth, diet diversity and acute malnutrition?",
+      "How do climate and conflict shocks combine in shaping malnutrition risk?",
+      "Which environmental indicators can anticipate nutrition crises early enough for humanitarian action?",
+      "How do seasonal agricultural conditions relate to reproductive decisions, migration and livelihoods?"
+    ],
+    "methods": [
+      "Demographic and Health Surveys linked to satellite rainfall, vegetation, soil moisture and temperature",
+      "Multilevel and spatial statistical models",
+      "Systematic review of empirical evidence",
+      "Predictive risk models for anticipatory action",
+      "Qualitative case studies"
+    ],
+    "findings": [
+      {
+        "doi": "10.1073/pnas.1905228116",
+        "text": "Mapped the effects of drought on child stunting."
+      },
+      {
+        "doi": "10.1088/1748-9326/abd0ab",
+        "text": "Associated climate impacts with reduced diet diversity in children across nineteen countries."
+      },
+      {
+        "doi": "10.1016/j.healthplace.2026.103726",
+        "text": "Found that high local temperatures reduce dietary diversity in children under two, with variation along the urban spectrum in Kenya and Burkina Faso."
+      },
+      {
+        "doi": "10.1016/S2542-5196(21)00197-2",
+        "text": "Argued for considering climate and conflict conditions together to improve interventions that prevent child acute malnutrition."
+      },
+      {
+        "doi": "10.1016/j.foodpol.2014.01.010",
+        "text": "Examined the link between maize prices and birthweight in Kenya in a multi-level analysis."
+      },
+      {
+        "doi": "10.1016/j.gloenvcha.2023.102677",
+        "text": "Investigated the relationship between seasonal agricultural variability and childbearing goals."
+      }
+    ],
+    "imageId": "east-africa-drought-ndvi-2006",
+    "wordingStatus": "draft — PI to approve"
+  },
+  {
+    "id": "applications",
+    "order": 4,
+    "title": "Earth Science Applications and Decision Support",
+    "short": "Applications & Decisions",
+    "kicker": "From data to decisions",
+    "summary": "Studying — and building — the pathways by which satellite missions and data products reach the people who make decisions.",
+    "introduction": [
+      "Satellite missions produce value only when their data are used. Brown led the pre-launch applications programs for NASA's Soil Moisture Active Passive (SMAP) and ICESat-2 missions, including Early Adopter programs that paired prospective users with mission scientists before launch, and continues to lead ICESat-2 applications.",
+      "Alongside that practice runs a research program on use itself: how FEWS NET analysts use remote sensing, how latency limits the value of NASA data, how scientist–stakeholder relationships shape the transfer of carbon data products, how scientific communities of practice form, and how private companies use satellite altimetry. Her work on index insurance asks how converging satellite evidence and farmer experience can make insurance for smallholders more reliable."
+    ],
+    "questions": [
+      "How do decision-makers actually use satellite data, and what limits that use?",
+      "How can missions engage users before launch so that data are applied sooner after it?",
+      "What makes scientist–stakeholder relationships effective in transferring data products?",
+      "How can satellite evidence support reliable, scalable index insurance for farmers?"
+    ],
+    "methods": [
+      "Mission applications and Early Adopter programs",
+      "Stakeholder surveys, interviews and workshops",
+      "Social network and content analysis",
+      "Systematic literature review and the Science Impact Framework",
+      "Convergence of evidence across independent satellite products"
+    ],
+    "findings": [
+      {
+        "doi": "10.3390/rs11040406",
+        "text": "Described how NASA's Early Adopter program links satellite data to decision making."
+      },
+      {
+        "doi": "10.1016/j.rsase.2022.100874",
+        "text": "A literature review showed that engagement of stakeholders accelerated applications of ICESat-2 data compared with its predecessor, ICESat."
+      },
+      {
+        "doi": "10.1088/1748-9326/ac87bf",
+        "text": "Showed that scientist–stakeholder relationships drive the effectiveness of carbon data product transfer within a NASA program."
+      },
+      {
+        "doi": "10.1117/1.JRS.6.063511",
+        "text": "Evaluated the use of remote sensing data in the USAID Famine Early Warning Systems Network."
+      },
+      {
+        "doi": "10.1175/WCAS-D-17-0111.1",
+        "text": "Exploited the convergence of evidence in satellite data for advanced weather index insurance design."
+      },
+      {
+        "doi": "10.3390/rs18081114",
+        "text": "Documented the value that ICESat-2 altimetry data bring to the private sector."
+      }
+    ],
+    "imageId": "icesat2-global-data",
+    "wordingStatus": "draft — PI to approve"
+  },
+  {
+    "id": "sustainable-food-systems",
+    "order": 5,
+    "title": "Sustainable Development and Resilient Food Systems",
+    "short": "Resilient Food Systems",
+    "kicker": "Food systems under climate change",
+    "summary": "Synthesising how climate change affects the food system as a whole, and how intensification, trade and investment can make it more resilient.",
+    "introduction": [
+      "Brown's work also operates at the scale of the food system. She was lead author of the USDA assessment Climate Change, Global Food Security, and the U.S. Food System, which examined effects on food availability, access, utilization and stability, and has written on whether markets and trade help or hinder adaptation, on declining per-capita agricultural capacity, and on Indian Ocean warming as a threat to African food security.",
+      "More recent research develops integrated modeling frameworks and decision dashboards for sustainable agricultural intensification in West Africa, metrics to direct private-sector investment toward zero hunger, and analysis of how environmental, economic and nutritional factors shape diet sustainability."
+    ],
+    "questions": [
+      "How will climate change affect food availability, access, utilization and stability — globally and for the US food system?",
+      "Do markets and trade help or hinder adaptation of the food system to climate change?",
+      "How can agricultural intensification be planned to be productive, sustainable and equitable?",
+      "What metrics can direct public and private investment toward zero hunger?"
+    ],
+    "methods": [
+      "Expert assessment and synthesis",
+      "Integrated agronomic and socioeconomic modeling",
+      "Decision dashboards for sustainable intensification",
+      "Indicator and metric development",
+      "Policy and investment analysis"
+    ],
+    "findings": [
+      {
+        "doi": "10.7930/J0862DC7",
+        "text": "Assessed how climate change affects global food security and the U.S. food system (USDA technical report, lead author)."
+      },
+      {
+        "doi": "10.1073/pnas.0708196105",
+        "text": "Showed that warming of the Indian Ocean threatens eastern and southern African food security, but could be mitigated by agricultural development."
+      },
+      {
+        "doi": "10.1007/s12571-009-0026-y",
+        "text": "Documented declining global per-capita agricultural capacity and warming oceans as threats to food security."
+      },
+      {
+        "doi": "10.1016/j.foodpol.2017.02.004",
+        "text": "Examined whether markets and trade help or hurt the global food system's adaptation to climate change."
+      },
+      {
+        "doi": "10.3389/fsufs.2022.1039962",
+        "text": "Proposed an integrated modeling framework for sustainable agricultural intensification."
+      },
+      {
+        "doi": "10.3390/su13115967",
+        "text": "Proposed metrics to accelerate private-sector investment in Sustainable Development Goal 2 — Zero Hunger."
+      }
+    ],
+    "imageId": "ethiopian-highland-farmland",
+    "wordingStatus": "draft — PI to approve"
+  }
+]

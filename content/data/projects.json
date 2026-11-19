@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "icesat-2-applications",
+    "title": "ICESat-2 Mission Applications Program",
+    "abstract": "Leadership of the applications program for NASA's Ice, Cloud, and land Elevation Satellite-2 (ICESat-2), from pre-launch coordination through the operational mission. The program engages prospective users — including through the Early Adopter program — so that laser altimetry data on ice, inland water, vegetation, wildfire fuels and other targets can be applied in decision-making, and evaluates the resulting impacts.",
+    "goals": [
+      "Engage user communities with the mission before and after launch",
+      "Run the ICESat-2 Early Adopter program",
+      "Document and evaluate the applications and decision impacts of ICESat and ICESat-2 data"
+    ],
+    "periodStart": 2012,
+    "periodEnd": 2027,
+    "status": "active",
+    "funder": "NASA",
+    "program": "ICESat-2 Mission, NASA Goddard Space Flight Center",
+    "role": "Applications Program Coordinator (2012–2015); Principal Investigator and Applications Team Lead (2015–2027)",
+    "leadPI": null,
+    "collaborators": [
+      "NASA Goddard Space Flight Center"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "methods": [
+      "Early Adopter program",
+      "Stakeholder workshops and white papers",
+      "Literature review",
+      "Science Impact Framework"
+    ],
+    "themes": [
+      "applications",
+      "earth-observation"
+    ],
+    "publicationDois": [
+      "10.1109/MGRS.2016.2560759",
+      "10.1016/j.rsase.2022.100874",
+      "10.1016/j.rsase.2025.101669",
+      "10.3390/rs18081114",
+      "10.1029/2024EO240389",
+      "10.3390/rs11040406"
+    ],
+    "featured": true,
+    "cvPages": [
+      49,
+      51,
+      52
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Abstract is an editorial synthesis of the CV grant entries and applications publications; PI to approve."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "smap-applications",
+    "title": "SMAP Mission Applications Program",
+    "abstract": "Coordination of the pre-launch applications program for NASA's Soil Moisture Active Passive (SMAP) mission, including assessment of soil-moisture data requirements across the prospective user community, an Early Adopter program, applications workshops and joint-mission tutorials with GPM, GRACE-FO, SWOT and ICESat-2.",
+    "goals": [
+      "Identify the soil-moisture data requirements of potential SMAP users",
+      "Prepare users to apply SMAP data at launch",
+      "Develop the SMAP Mission Applications Plan"
+    ],
+    "periodStart": 2010,
+    "periodEnd": 2015,
+    "status": "completed",
+    "funder": "NASA",
+    "program": "SMAP Mission",
+    "role": "Applications Program Coordinator",
+    "leadPI": null,
+    "collaborators": [
+      "NASA Jet Propulsion Laboratory",
+      "Massachusetts Institute of Technology",
+      "USDA"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "methods": [
+      "User community assessment",
+      "Applications workshops",
+      "Early Adopter program"
+    ],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [
+      "10.1175/BAMS-D-11-00049.1",
+      "10.1109/JSTARS.2013.2261473",
+      "10.1175/JHM-D-14-0093.1"
+    ],
+    "featured": true,
+    "cvPages": [
+      52,
+      19,
+      20
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Collaborating organizations inferred from co-author affiliations in CV talk entries (pp.39, 37); PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "carbon-monitoring-system-applications",
+    "title": "Carbon Monitoring System Applications and Stakeholder Engagement",
+    "abstract": "A sequence of NASA Carbon Monitoring System (CMS) projects linking carbon cycle science to policy and management decisions: engaging stakeholders, assessing data needs and gaps, and studying the socioeconomic value of CMS data products for user organizations, including scientist–stakeholder relationships and the program's community of practice.",
+    "goals": [
+      "Link carbon cycle science to policy and management decisions",
+      "Assess stakeholder data needs, gaps and uses of CMS products",
+      "Evaluate the value and transfer effectiveness of CMS data products"
+    ],
+    "periodStart": 2011,
+    "periodEnd": 2022,
+    "status": "completed",
+    "funder": "NASA",
+    "program": "Carbon Monitoring System",
+    "role": "Science Definition Team member and PI of applications activities (2011–2013); Principal Investigator, Phase 2b (2013–2015); Co-Investigator (2016–2019, PI: Jeff Masek, NASA GSFC); Institutional Investigator (2020–2022, PI: Vanessa Escobar, NOAA)",
+    "leadPI": null,
+    "collaborators": [
+      "NASA Goddard Space Flight Center",
+      "NOAA"
+    ],
+    "geography": [
+      "United States",
+      "North America"
+    ],
+    "methods": [
+      "Stakeholder engagement",
+      "Surveys and interviews",
+      "Social network analysis",
+      "Synthesis reporting"
+    ],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [
+      "10.4155/cmt.13.36",
+      "10.1088/1748-9326/aba300",
+      "10.1088/1748-9326/ac87bf",
+      "10.1088/1748-9326/ac7407",
+      "10.1088/1748-9326/ace208",
+      "10.1088/1748-9326/ad8be0"
+    ],
+    "featured": true,
+    "cvPages": [
+      50,
+      52
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Four separately funded CMS grants merged into one program record; PI to confirm presentation."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "himala",
+    "title": "HIMALA: Climate Impacts on Glaciers, Snow and Hydrology in the Himalayan Region",
+    "abstract": "A NASA Applied Sciences project with the International Centre for Integrated Mountain Development (ICIMOD) and USAID to estimate the contribution of glacier and snow melt to streamflow in Himalayan river basins, integrating remote sensing and Earth system data products with an energy-balance snowmelt model in an open-source modeling framework.",
+    "goals": [
+      "Estimate glacier- and snowmelt-driven streamflow in data-scarce Himalayan basins",
+      "Integrate remote sensing data with hydrological models",
+      "Transfer modeling capacity to regional partners"
+    ],
+    "periodStart": 2009,
+    "periodEnd": 2014,
+    "status": "completed",
+    "funder": "NASA Applied Sciences (Decisions, ROSES 2008 A18)",
+    "program": "Applied Sciences",
+    "role": "Principal Investigator (Co-PI: S. Habib, NASA Goddard)",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "ICIMOD",
+      "USAID",
+      "Utah State University",
+      "NASA Goddard Space Flight Center",
+      "USGS"
+    ],
+    "geography": [
+      "Himalaya",
+      "Nepal"
+    ],
+    "methods": [
+      "Energy-balance snowmelt modeling",
+      "Remote sensing of snow and glaciers",
+      "Streamflow modeling",
+      "MCMC data assimilation"
+    ],
+    "themes": [
+      "earth-observation"
+    ],
+    "publicationDois": [
+      "10.1659/MRD-JOURNAL-D-10-00071.1",
+      "10.1016/j.jhydrol.2014.09.050",
+      "10.1016/j.envsoft.2015.02.017",
+      "10.1002/hyp.10005"
+    ],
+    "featured": true,
+    "cvPages": [
+      52,
+      53,
+      35,
+      37
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV gives the grant amount as '$1.4 K' — likely a typo; amount is not displayed on the site.",
+        "Collaborators drawn from CV talk entries on pp.35–37 and 41."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "meriam",
+    "title": "MERIAM: Modelling Early Risk Indicators to Anticipate Malnutrition",
+    "abstract": "A project with Action Against Hunger, the University of Maryland and Johns Hopkins University to model early risk indicators of acute malnutrition, combining satellite-derived environmental data, food prices and conflict information so that humanitarian organizations can anticipate nutrition crises.",
+    "goals": [
+      "Identify climate and conflict shocks associated with acute malnutrition",
+      "Build predictive models of malnutrition risk",
+      "Engage humanitarian actors in the use of predictive models"
+    ],
+    "periodStart": 2017,
+    "periodEnd": 2021,
+    "status": "completed",
+    "funder": "UK Department for International Development (DFID)",
+    "program": "Action Against Hunger – University of Maryland – Johns Hopkins University",
+    "role": "Investigator (28% effort over five years)",
+    "leadPI": null,
+    "collaborators": [
+      "Action Against Hunger",
+      "Johns Hopkins University",
+      "University of Maryland"
+    ],
+    "geography": [
+      "Kenya",
+      "Nigeria",
+      "Uganda"
+    ],
+    "methods": [
+      "Systematic review",
+      "Satellite-derived environmental indicators",
+      "Food price data",
+      "Predictive modeling"
+    ],
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1007/s12571-020-01041-y",
+      "10.1016/S2542-5196(21)00197-2",
+      "10.1007/s40980-021-00102-w"
+    ],
+    "featured": true,
+    "cvPages": [
+      50,
+      29
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "CV does not state Brown's formal role title on MERIAM; shown as 'Investigator'.",
+        "Geography inferred from the associated Spatial Demography paper (Kenya, Nigeria, Uganda); PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "index-insurance-africa",
+    "title": "Remote Sensing and Energy Balance Models for Scalable Agricultural Insurance in Sub-Saharan Africa",
+    "abstract": "An interdisciplinary NASA project linking satellite remote sensing data and energy-balance (evapotranspiration) models to design scalable, more reliable weather index insurance for smallholder farmers in sub-Saharan Africa, including comparison of satellite evidence with farmer perception and recollection of bad years.",
+    "goals": [
+      "Assess convergence of evidence among independent satellite products for index design",
+      "Compare satellite indices with farmer-reported losses",
+      "Support scalable agricultural insurance"
+    ],
+    "periodStart": 2013,
+    "periodEnd": 2015,
+    "status": "completed",
+    "funder": "NASA Interdisciplinary Research in Earth Science (ROSES 2013 A32)",
+    "program": "Interdisciplinary Research in Earth Science",
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "International Research Institute for Climate and Society, Columbia University",
+      "University of California, Santa Barbara",
+      "USDA",
+      "NASA Goddard Space Flight Center"
+    ],
+    "geography": [
+      "Sub-Saharan Africa",
+      "Ethiopia"
+    ],
+    "methods": [
+      "ALEXI evapotranspiration",
+      "Satellite rainfall and vegetation indices",
+      "Farmer surveys"
+    ],
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1175/WCAS-D-17-0111.1",
+      "10.3390/rs10121887",
+      "10.1038/ngeo1117"
+    ],
+    "featured": true,
+    "cvPages": [
+      51,
+      52,
+      32
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Collaborating organizations inferred from co-author affiliations in the 2014 AGU talk (p.32) and 2016 Reading talk (p.31); PI to confirm.",
+        "Brown et al. 2011 (Nature Geoscience) predates the grant and is shown as related work."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "fews-net-earth-science",
+    "title": "Earth Science for Famine Early Warning (FEWS NET)",
+    "abstract": "Long-running collaboration with the US Agency for International Development's Famine Early Warning Systems Network, ensuring access to and effective use of real-time and projected vegetation index and rainfall data for Africa, Central America, Afghanistan and Haiti, and evaluating how remote sensing is used in food security early warning.",
+    "goals": [
+      "Deliver real-time and projected vegetation and rainfall data to FEWS NET",
+      "Integrate food prices and NDVI projections for earlier warning",
+      "Evaluate the use of remote sensing in early warning assessments"
+    ],
+    "periodStart": 2002,
+    "periodEnd": 2015,
+    "status": "completed",
+    "funder": "NASA Applied Sciences; USAID",
+    "program": "Famine Early Warning Systems Network",
+    "role": "Liaison and Principal Investigator (SSAI, 2002–2008); liaison and collaborator (NASA GSFC, 2008–2015)",
+    "leadPI": null,
+    "collaborators": [
+      "USAID FEWS NET",
+      "US Geological Survey",
+      "University of California, Santa Barbara",
+      "Chemonics International"
+    ],
+    "geography": [
+      "Africa",
+      "Central America",
+      "Afghanistan",
+      "Haiti"
+    ],
+    "methods": [
+      "NDVI and rainfall monitoring",
+      "NDVI projections",
+      "Food price indices",
+      "Decision-support evaluation"
+    ],
+    "themes": [
+      "food-security",
+      "applications"
+    ],
+    "publicationDois": [
+      "10.1016/j.rse.2005.12.014",
+      "10.1111/j.1749-8198.2009.00244.x",
+      "10.1117/1.JRS.6.063511",
+      "10.1016/j.gloenvcha.2012.03.005",
+      "10.1088/1748-9326/4/2/024009"
+    ],
+    "related": [
+      "fews-net-decisions-can",
+      "precipitation-products-usaid",
+      "fews-net-ldas"
+    ],
+    "featured": true,
+    "cvPages": [
+      1,
+      2,
+      58
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Programme-level record synthesised from the NASA and SSAI position descriptions; individual grants are listed separately."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "fews-net-decisions-can",
+    "title": "Enhancing USAID Famine and Malaria Early Warning with NASA Earth Science Results",
+    "abstract": "A NASA Applied Sciences Decisions project with the USGS and Columbia University to bring NASA Earth science results into USAID's famine and malaria early warning systems. NASA ultimately combined the project with another funded effort.",
+    "goals": [],
+    "periodStart": 2006,
+    "periodEnd": 2009,
+    "status": "completed",
+    "funder": "NASA Applied Sciences (Decisions CAN, NRA NNH04ZYO010C)",
+    "program": "Applied Sciences — Decisions",
+    "role": "Principal Investigator; Co-PIs James Verdin (USGS) and Stephen Connor (Columbia University)",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "US Geological Survey",
+      "Columbia University"
+    ],
+    "geography": [
+      "Africa"
+    ],
+    "methods": [],
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      53
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "precipitation-products-usaid",
+    "title": "Precipitation Products for USAID Disaster Management Requirements",
+    "abstract": "An internally competed NASA Rapid Prototyping Capability project examining precipitation products — including simulated Global Precipitation Measurement (GPM) data — against USAID disaster management requirements.",
+    "goals": [],
+    "periodStart": 2007,
+    "periodEnd": 2007,
+    "status": "completed",
+    "funder": "NASA Rapid Prototyping Capability",
+    "program": null,
+    "role": "Principal Investigator (with Compton J. Tucker as manager)",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "NASA Goddard Space Flight Center"
+    ],
+    "geography": [],
+    "methods": [],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      53,
+      20,
+      45
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "fews-net-ldas",
+    "title": "A Land Data Assimilation System for Famine Early Warning",
+    "abstract": "A NASA Applied Sciences project led by the USGS to develop a land data assimilation system supporting famine early warning.",
+    "goals": [],
+    "periodStart": 2009,
+    "periodEnd": 2014,
+    "status": "completed",
+    "funder": "NASA Applied Sciences (Decisions, ROSES 2008 A18)",
+    "program": "Applied Sciences — Decisions",
+    "role": "Co-Investigator (PI: J. Verdin, USGS; Co-I C. Peters-Lidard)",
+    "leadPI": "James Verdin (USGS)",
+    "collaborators": [
+      "US Geological Survey",
+      "NASA Goddard Space Flight Center"
+    ],
+    "geography": [],
+    "methods": [
+      "Land data assimilation"
+    ],
+    "themes": [
+      "food-security",
+      "earth-observation"
+    ],
+    "publicationDois": [
+      "10.1175/JHM-D-14-0049.1"
+    ],
+    "featured": false,
+    "cvPages": [
+      53
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Linking McNally et al. (2014) to this project is an editorial inference; PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "west-africa-prices",
+    "title": "Food Prices and Vegetation in West Africa",
+    "abstract": "Two NASA-funded projects implementing interdisciplinary price models for Africa and testing whether satellite remote sensing can forecast cereal prices in West African markets, building on doctoral research on millet prices in Mali, Burkina Faso and Niger.",
+    "goals": [
+      "Implement interdisciplinary price models for Africa",
+      "Forecast cereal prices in West Africa using satellite remote sensing"
+    ],
+    "periodStart": 2006,
+    "periodEnd": 2010,
+    "status": "completed",
+    "funder": "NASA Applied Sciences; NASA Feasibility (ROSES 2008 A19)",
+    "program": null,
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "University of Maryland, Agricultural and Resource Economics"
+    ],
+    "geography": [
+      "West Africa",
+      "Mali",
+      "Burkina Faso",
+      "Niger"
+    ],
+    "methods": [
+      "Price econometrics",
+      "NDVI time series"
+    ],
+    "themes": [
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1021/es901162d",
+      "10.1016/j.foodpol.2014.09.011",
+      "10.3368/le.84.2.340",
+      "10.1007/s10584-006-9096-4"
+    ],
+    "featured": false,
+    "cvPages": [
+      52,
+      53,
+      56
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Two grants ('Interdisciplinary Model Implementation for Prices in Africa', 2006–2009; 'Cereal price forecasting in West Africa using NASA Satellite Remote Sensing', 2009–2010) merged into one record."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "growing-season-change",
+    "title": "Global Length of Growing Season Changes and Their Impact on Agriculture",
+    "abstract": "A NASA Carbon Cycle and Ecosystems project analysing three decades of satellite vegetation data to quantify changes in the length of growing seasons and their impact on agriculture and food production.",
+    "goals": [],
+    "periodStart": 2009,
+    "periodEnd": 2011,
+    "status": "completed",
+    "funder": "NASA Carbon Cycle and Ecosystems",
+    "program": null,
+    "role": "Principal Investigator; Co-Is J. Tucker (NASA), K. de Beurs (Virginia Tech), M. Marshall (UCSB), C. Funk (USGS)",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "NASA Goddard Space Flight Center",
+      "Virginia Tech",
+      "University of California, Santa Barbara",
+      "US Geological Survey"
+    ],
+    "geography": [
+      "Global",
+      "Africa"
+    ],
+    "methods": [
+      "Land surface phenology",
+      "AVHRR NDVI time series"
+    ],
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1016/j.rse.2012.08.009",
+      "10.1016/j.rse.2010.05.005",
+      "10.1007/s10584-011-0049-1"
+    ],
+    "featured": false,
+    "cvPages": [
+      52
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "access-agra",
+    "title": "NASA Earth Science Data for Farmer Management and Agro-Input Mobile Systems (AGRA)",
+    "abstract": "A NASA ACCESS project with the Alliance for a Green Revolution in Africa (AGRA) and its partner ImageAD to put satellite information on vegetation, rainfall, temperature and soil moisture into the hands of farmers, traders and agribusinesses through a mobile website, mobile application and SMS text service.",
+    "goals": [
+      "Deliver satellite-derived environmental information to farmers, traders and agribusinesses",
+      "Develop mobile web, app and SMS delivery systems"
+    ],
+    "periodStart": 2014,
+    "periodEnd": 2015,
+    "status": "completed",
+    "funder": "NASA Advancing Collaborative Connections for Earth System Science (ACCESS, ROSES 2013 A36)",
+    "program": "ACCESS",
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "Alliance for a Green Revolution in Africa (AGRA)",
+      "ImageAD",
+      "University of California, Santa Barbara"
+    ],
+    "geography": [
+      "Ghana",
+      "Sub-Saharan Africa"
+    ],
+    "methods": [
+      "Mobile information services",
+      "Satellite vegetation, rainfall, temperature and soil moisture products"
+    ],
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      51,
+      33,
+      34
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Description taken from the July 2014 AGRA presentation entry (CV p.33)."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "maryland-carbon-mrv",
+    "title": "High-Resolution Carbon Monitoring and an MRV System for Ecosystem Markets",
+    "abstract": "Two NASA carbon projects led by Ralph Dubayah (University of Maryland) on high-resolution carbon monitoring and modeling and a monitoring, reporting and verification (MRV) system for ecosystem-market infrastructure, including analysis of the value of high-resolution forest canopy maps for Maryland's carbon sequestration and forestry programs.",
+    "goals": [],
+    "periodStart": 2013,
+    "periodEnd": 2015,
+    "status": "completed",
+    "funder": "NASA Carbon Cycle Science (ROSES 2013 A5); NASA Carbon Monitoring System (ROSES 2014)",
+    "program": null,
+    "role": "Co-Investigator (PI: Ralph Dubayah, University of Maryland)",
+    "leadPI": "Ralph Dubayah (University of Maryland)",
+    "collaborators": [
+      "University of Maryland",
+      "Purdue University"
+    ],
+    "geography": [
+      "Maryland, USA"
+    ],
+    "methods": [
+      "Benchmarking analysis of data value",
+      "Forest canopy mapping"
+    ],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      51,
+      32,
+      55
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "Maryland focus and Purdue collaboration from the 2015 AGU talk (p.32) and mentoring entry (p.55)."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "infews-africa-resilience",
+    "title": "Understanding Multi-Scale Resilience Options for Climate-Vulnerable Africa (INFEWS)",
+    "abstract": "An NSF Innovations at the Nexus of Food, Energy and Water Systems project, led by Johns Hopkins University, on multi-scale resilience options for climate-vulnerable regions of Africa. Brown contributed price and nutrition data sets and research on household electricity and child health in Ethiopia.",
+    "goals": [],
+    "periodStart": 2016,
+    "periodEnd": 2020,
+    "status": "completed",
+    "funder": "National Science Foundation (INFEWS/T1)",
+    "program": "INFEWS",
+    "role": "Co-Investigator (PI: Ben Zaitchik, Johns Hopkins University)",
+    "leadPI": "Ben Zaitchik (Johns Hopkins University)",
+    "collaborators": [
+      "Johns Hopkins University",
+      "University of Minnesota"
+    ],
+    "geography": [
+      "Ethiopia",
+      "Africa"
+    ],
+    "methods": [
+      "Price and nutrition data integration"
+    ],
+    "themes": [
+      "climate-risk",
+      "food-security"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      50,
+      29,
+      31
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "siil-geospatial-consortium",
+    "title": "Geospatial, Farming Systems and Digital Tools Consortium for Sustainable Intensification",
+    "abstract": "Part of the Feed the Future Innovation Lab for Collaborative Research on Sustainable Intensification, led by Kansas State University, building a new era of predictive agricultural innovation to improve the livelihoods of smallholder farmers through integrated geospatial, farming-systems and digital tools.",
+    "goals": [
+      "Integrate agronomic, geospatial and socioeconomic models for sustainable intensification",
+      "Build decision dashboards for planning interventions"
+    ],
+    "periodStart": 2020,
+    "periodEnd": 2024,
+    "status": "completed",
+    "funder": "USAID — Feed the Future Innovation Lab (SIIL)",
+    "program": "Feed the Future",
+    "role": "Institutional PI (prime: Ignacio Ciampitti, Kansas State University)",
+    "leadPI": "Ignacio Ciampitti (Kansas State University)",
+    "collaborators": [
+      "Kansas State University",
+      "University of Minnesota",
+      "Colorado State University",
+      "Michigan State University"
+    ],
+    "geography": [
+      "Senegal",
+      "West Africa"
+    ],
+    "methods": [
+      "Integrated modeling",
+      "Decision dashboards"
+    ],
+    "themes": [
+      "sustainable-food-systems"
+    ],
+    "publicationDois": [
+      "10.3389/fsufs.2022.1039962",
+      "10.3389/fsufs.2023.1208286"
+    ],
+    "featured": true,
+    "cvPages": [
+      49,
+      50,
+      25
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Collaborators beyond Kansas State inferred from co-authors of the 2023 Frontiers paper; PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "senegal-lcluc",
+    "title": "Investment, Irrigated Rice, Dryland Agriculture and Afforestation in Senegal",
+    "abstract": "A NASA Land-Cover and Land-Use Change project led at NASA Goddard examining the impact of investment on irrigated rice, dryland agriculture and afforestation in Senegal using SAR and optical time-series imagery in data-fusion approaches, including deep learning classification of regional croplands.",
+    "goals": [],
+    "periodStart": 2021,
+    "periodEnd": 2023,
+    "status": "completed",
+    "funder": "NASA Land-Cover/Land-Use Change Program",
+    "program": "LCLUC",
+    "role": "Institutional PI (PI: Christopher Neigh, NASA GSFC)",
+    "leadPI": "Christopher Neigh (NASA Goddard Space Flight Center)",
+    "collaborators": [
+      "NASA Goddard Space Flight Center",
+      "George Mason University",
+      "Centre de Suivi Écologique (Senegal)"
+    ],
+    "geography": [
+      "Senegal"
+    ],
+    "methods": [
+      "SAR and optical data fusion",
+      "Satellite image time series",
+      "Deep learning"
+    ],
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1109/JSTARS.2026.3666440"
+    ],
+    "featured": false,
+    "cvPages": [
+      49,
+      25
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Centre de Suivi Écologique from the Oct 2023 Dakar meeting entry (p.25); George Mason from co-author affiliations — PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "urban-expansion-health",
+    "title": "Urban Expansion, Peri-Urban Agriculture, Food Security and Human Health",
+    "abstract": "A NASA Interdisciplinary Science project led from Marshall Space Flight Center on the impact of urban expansion on peri-urban agriculture, hydrometeorology, food security and human health.",
+    "goals": [],
+    "periodStart": 2020,
+    "periodEnd": 2023,
+    "status": "completed",
+    "funder": "NASA Interdisciplinary Science (IDS)",
+    "program": "IDS",
+    "role": "Co-Investigator (PI: Christopher Hain, NASA Marshall Space Flight Center)",
+    "leadPI": "Christopher Hain (NASA Marshall Space Flight Center)",
+    "collaborators": [
+      "NASA Marshall Space Flight Center",
+      "University of Minnesota",
+      "Miami University"
+    ],
+    "geography": [
+      "Africa"
+    ],
+    "methods": [],
+    "themes": [
+      "climate-risk",
+      "earth-observation"
+    ],
+    "publicationDois": [
+      "10.1016/j.healthplace.2026.103726"
+    ],
+    "featured": false,
+    "cvPages": [
+      50,
+      24
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Link to the 2026 Health & Place paper (urban spectrum, Kenya and Burkina Faso) is an editorial inference; collaborators inferred from the 2024 AGU talk co-authors (p.24). PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "tops-open-science-training",
+    "title": "Satellite Observations and Models Informing Agriculture: Training for Open Science under Climate Change",
+    "abstract": "A NASA Transform to Open Science (TOPS) training project led by the University of Montana, delivering open-science training on satellite observations and models for agriculture under climate change.",
+    "goals": [],
+    "periodStart": 2023,
+    "periodEnd": 2025,
+    "status": "completed",
+    "funder": "NASA Transform to Open Science (TOPS)",
+    "program": "TOPS",
+    "role": "Co-Investigator (PI: Arthur Endsley, University of Montana)",
+    "leadPI": "Arthur Endsley (University of Montana)",
+    "collaborators": [
+      "University of Montana"
+    ],
+    "geography": [
+      "Algeria",
+      "North Africa"
+    ],
+    "methods": [
+      "Open-science training"
+    ],
+    "themes": [
+      "applications",
+      "earth-observation"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      49,
+      24
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Geography inferred from the June 2024 NASA TOPS workshop in Algiers (p.24); PI to confirm."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "gca-food-systems",
+    "title": "Global Commission on Adaptation: Food Security and Livelihoods of Small-Scale Producers",
+    "abstract": "Contribution as lead author of the food systems chapter (Chapter 2: Food Security and Livelihoods of Small-Scale Producers) of the Global Commission on Adaptation's 2019 report Adapt Now: A Global Call for Leadership on Climate Resilience.",
+    "goals": [],
+    "periodStart": 2019,
+    "periodEnd": 2019,
+    "status": "completed",
+    "funder": "World Resources Institute and the German Government",
+    "program": "Global Commission on Adaptation",
+    "role": "Lead author, food systems chapter",
+    "leadPI": null,
+    "collaborators": [
+      "World Resources Institute",
+      "Global Center on Adaptation"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "methods": [
+      "Assessment and synthesis"
+    ],
+    "themes": [
+      "sustainable-food-systems"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      50,
+      17
+    ],
+    "verification": {
+      "status": "needs-review",
+      "issues": [
+        "Grants section says 'Lead Author of the Food Systems Chapter'; the publications section (p.17) says 'Contributed to Chapter 2'. PI to confirm which description to use."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "nasa-harvest",
+    "title": "NASA Harvest — Food Security and Agriculture Consortium",
+    "abstract": "Collaboration with NASA Harvest, NASA's food security and agriculture consortium, including a study of commercial agriculture's use of satellite remote sensing data for decision making.",
+    "goals": [],
+    "periodStart": 2017,
+    "periodEnd": 2021,
+    "status": "completed",
+    "funder": "NASA Applied Sciences",
+    "program": "NASA Harvest",
+    "role": "Collaborator (no funding)",
+    "leadPI": null,
+    "collaborators": [
+      "NASA Harvest",
+      "University of Maryland"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "methods": [],
+    "themes": [
+      "applications",
+      "food-security"
+    ],
+    "publicationDois": [
+      "10.1109/MGRS.2020.3023343"
+    ],
+    "featured": false,
+    "cvPages": [
+      50,
+      17
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "nasa-latency-study",
+    "title": "NASA Mission Data Latency Study",
+    "abstract": "A study for NASA Headquarters on the data latency needs and requirements of users of NASA Earth observation data, and the societal benefit of low-latency data availability.",
+    "goals": [],
+    "periodStart": 2012,
+    "periodEnd": 2013,
+    "status": "completed",
+    "funder": "NASA Headquarters",
+    "program": null,
+    "role": "Study lead",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "NASA Goddard Space Flight Center"
+    ],
+    "geography": [],
+    "methods": [
+      "User needs assessment"
+    ],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [
+      "10.1016/j.spacepol.2014.05.002"
+    ],
+    "featured": false,
+    "cvPages": [
+      52,
+      19
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "usgs-climate-fact-sheets",
+    "title": "Climate Fact Sheets for Zambia and Ethiopia",
+    "abstract": "Development, under a USGS–UCSB grant from the Famine Early Warning Systems Network, of climate trend fact sheets for Zambia and Ethiopia examining sub-seasonal climate impacts on crops and pasture.",
+    "goals": [],
+    "periodStart": 2015,
+    "periodEnd": 2016,
+    "status": "completed",
+    "funder": "USGS–UCSB grant from the Famine Early Warning Systems Network",
+    "program": "FEWS NET",
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "US Geological Survey",
+      "University of California, Santa Barbara"
+    ],
+    "geography": [
+      "Zambia",
+      "Ethiopia"
+    ],
+    "methods": [
+      "Climate trend analysis"
+    ],
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "publicationDois": [
+      "10.1007/s10584-017-1948-6"
+    ],
+    "featured": false,
+    "cvPages": [
+      51,
+      18
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "usda-ers-gallup",
+    "title": "Environmental Correlates of Food Security Risk Perception",
+    "abstract": "A USDA Economic Research Service cooperative agreement examining environmental correlates of country-level drivers of food security risk perception in data from the Gallup project.",
+    "goals": [],
+    "periodStart": 2015,
+    "periodEnd": 2016,
+    "status": "completed",
+    "funder": "USDA Economic Research Service",
+    "program": null,
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "USDA Economic Research Service"
+    ],
+    "geography": [
+      "Global"
+    ],
+    "methods": [],
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      51
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "applications-mission-life-cycle",
+    "title": "Science Community Familiarization and Engagement with Applications in the NASA Mission Life Cycle",
+    "abstract": "A NASA Topical Workshops, Symposia and Conferences award supporting engagement of the science community with applications across the NASA mission life cycle, including the 2016 workshop on NASA data for time-sensitive applications.",
+    "goals": [],
+    "periodStart": 2015,
+    "periodEnd": 2016,
+    "status": "completed",
+    "funder": "NASA Topical Workshops, Symposia and Conferences",
+    "program": null,
+    "role": "Principal Investigator (Co-I: Vanessa Escobar, SSAI/NASA)",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "NASA Applied Sciences Program",
+      "NASA Langley Research Center"
+    ],
+    "geography": [],
+    "methods": [
+      "Workshops"
+    ],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [
+      "10.1109/MGRS.2017.2729278"
+    ],
+    "featured": false,
+    "cvPages": [
+      51,
+      31
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "chesapeake-bay-forecast",
+    "title": "Pilot Application of the Chesapeake Bay Forecast System",
+    "abstract": "A University of Maryland grant to serve as a pilot data user of the Chesapeake Bay Forecast System.",
+    "goals": [],
+    "periodStart": 2009,
+    "periodEnd": 2010,
+    "status": "completed",
+    "funder": "University of Maryland — Chesapeake Bay Forecast System",
+    "program": null,
+    "role": "Principal Investigator",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [
+      "University of Maryland"
+    ],
+    "geography": [
+      "Chesapeake Bay, USA"
+    ],
+    "methods": [],
+    "themes": [
+      "earth-observation"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      53
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "senegal-river-adaptation",
+    "title": "Adapting to Climate Variability in the Senegal River Basin",
+    "abstract": "An IGBP START PACOM small grant for African global change researchers, led by Aliou Dia at the University of Dakar, on adaptation to climate variability in the Senegal River basin.",
+    "goals": [],
+    "periodStart": 2007,
+    "periodEnd": 2007,
+    "status": "completed",
+    "funder": "IGBP START PACOM (US NSF / US Climate Change Science Program)",
+    "program": null,
+    "role": "Co-Principal Investigator (PI: Aliou Dia, University of Dakar)",
+    "leadPI": "Aliou Dia (University of Dakar)",
+    "collaborators": [
+      "University of Dakar"
+    ],
+    "geography": [
+      "Senegal River Basin",
+      "West Africa"
+    ],
+    "methods": [],
+    "themes": [
+      "climate-risk",
+      "sustainable-food-systems"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      53
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": [
+        "CV gives the award date (6/2007) but not an end date."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "international-sustainable-development",
+    "title": "NASA International Sustainable Development Task",
+    "abstract": "Task lead, for NASA's Disasters Applied Sciences focus area, of a group from SSAI and the University of Maryland's Earth System Science Interdisciplinary Center working on international sustainable development applications of NASA data.",
+    "goals": [],
+    "periodStart": 2006,
+    "periodEnd": 2008,
+    "status": "completed",
+    "funder": "NASA Disasters Applied Sciences Focus Area",
+    "program": null,
+    "role": "Task Lead",
+    "leadPI": null,
+    "collaborators": [
+      "Science Systems and Applications, Inc.",
+      "University of Maryland ESSIC"
+    ],
+    "geography": [],
+    "methods": [],
+    "themes": [
+      "applications"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      53
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "coppin-state-geospatial",
+    "title": "Inspiring the Eagles: Geography and Geospatial Science Capacity at Coppin State University",
+    "abstract": "A NASA Education award, led by Coppin State University, to strengthen the university's capacity in geography and geospatial science applications.",
+    "goals": [],
+    "periodStart": 2005,
+    "periodEnd": 2006,
+    "status": "completed",
+    "funder": "NASA Education (NRA 04-0010-0045)",
+    "program": null,
+    "role": "Co-Investigator (PI: Douglas Reardon, Coppin State University)",
+    "leadPI": "Douglas Reardon (Coppin State University)",
+    "collaborators": [
+      "Coppin State University",
+      "University of Maryland"
+    ],
+    "geography": [
+      "Maryland, USA"
+    ],
+    "methods": [],
+    "themes": [
+      "earth-observation"
+    ],
+    "publicationDois": [],
+    "featured": false,
+    "cvPages": [
+      54
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  },
+  {
+    "id": "senegal-pra",
+    "title": "Participatory Rural Appraisal and Remote Sensing in Senegal",
+    "abstract": "Field research in Senegal on the use of Participatory Rural Appraisal reports as a primary data source, funded by the University of Maryland's Committee for the African Diaspora, which led to publications in World Development and Land Change Science in the Tropics.",
+    "goals": [],
+    "periodStart": 1998,
+    "periodEnd": 1998,
+    "status": "completed",
+    "funder": "University of Maryland Committee for the African Diaspora",
+    "program": null,
+    "role": "Grant recipient",
+    "leadPI": "Molly E. Brown",
+    "collaborators": [],
+    "geography": [
+      "Senegal"
+    ],
+    "methods": [
+      "Participatory Rural Appraisal",
+      "Remote sensing"
+    ],
+    "themes": [
+      "sustainable-food-systems",
+      "earth-observation"
+    ],
+    "publicationDois": [
+      "10.1016/j.worlddev.2005.10.002"
+    ],
+    "featured": false,
+    "cvPages": [
+      54
+    ],
+    "verification": {
+      "status": "cv-only",
+      "issues": []
+    },
+    "publish": true
+  }
+]

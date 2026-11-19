@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+/* ---------------------------------------------------------------------------
+   Design tokens — Molly E. Brown research site
+   Palette from the brief; "gold-ink" and "muted" are added for WCAG AA text
+   contrast on the warm off-white background (gold #B48D59 is 2.8:1 there, so it
+   is reserved for rules/ornament on light and for text only on dark green).
+--------------------------------------------------------------------------- */
+@theme {
+  --color-pine: #172d28;        /* primary dark green */
+  --color-pine-2: #1e3a33;      /* dark green, raised */
+  --color-forest: #31564d;      /* secondary forest green */
+  --color-paper: #f6f4ee;       /* warm off-white */
+  --color-paper-2: #efebe1;     /* slightly deeper paper for bands */
+  --color-stone: #d8d1c2;       /* soft stone */
+  --color-gold: #b48d59;        /* muted gold — ornament, text on pine only */
+  --color-gold-ink: #7a5d35;    /* gold for small text on paper (≥5:1) */
+  --color-ink: #202724;         /* primary text */
+  --color-muted: #4b5751;       /* secondary text on paper (≥6:1) */
+  --color-mist: #c9d3cd;        /* secondary text on pine (≥8:1) */
+
+  --font-serif: var(--font-newsreader), "Iowan Old Style", Georgia, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --text-display: clamp(2.75rem, 1.6rem + 4.6vw, 5.75rem);
+  --text-display--line-height: 1.02;
+  --text-headline: clamp(2rem, 1.4rem + 2.4vw, 3.25rem);
+  --text-headline--line-height: 1.08;
+  --text-title: clamp(1.5rem, 1.25rem + 1vw, 2rem);
+  --text-title--line-height: 1.18;
+  --text-lede: clamp(1.18rem, 1.08rem + 0.45vw, 1.42rem);
+  --text-lede--line-height: 1.55;
+
+  --ease-editorial: cubic-bezier(0.2, 0.7, 0.1, 1);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01", "cv11";
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+    font-weight: 400;
+    letter-spacing: -0.012em;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+  ::selection { background: var(--color-stone); color: var(--color-pine); }
+  :focus-visible {
+    outline: 2px solid var(--color-gold-ink);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+  .on-pine :focus-visible { outline-color: var(--color-gold); }
+}
+
+@layer components {
+  /* Small-caps style kicker above headings */
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-gold-ink);
+  }
+  .on-pine .kicker { color: var(--color-gold); }
+
+  .rule { height: 1px; background: var(--color-stone); border: 0; }
+  .on-pine .rule { background: color-mix(in srgb, var(--color-mist) 25%, transparent); }
+
+  /* Long-form reading text */
+  .prose-editorial { font-family: var(--font-serif); font-size: 1.2rem; line-height: 1.7; color: var(--color-ink); }
+  .prose-editorial p + p { margin-top: 1.1em; }
+  .prose-editorial a { text-decoration: underline; text-decoration-color: var(--color-gold); text-underline-offset: 3px; }
+  .prose-editorial h2 { font-size: 1.75rem; margin: 2rem 0 0.75rem; }
+  .prose-editorial h3 { font-size: 1.35rem; margin: 1.6rem 0 0.5rem; }
+  .prose-editorial ul { list-style: disc; padding-left: 1.25rem; margin: 1rem 0; }
+  .prose-editorial blockquote { border-left: 2px solid var(--color-gold); padding-left: 1.25rem; font-style: italic; }
+
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.35s var(--ease-editorial);
+  }
+  .link-underline:hover, .link-underline:focus-visible { background-size: 100% 1px; }
+
+  .chip {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    border: 1px solid var(--color-stone); border-radius: 999px;
+    padding: 0.2rem 0.65rem; font-size: 0.75rem; color: var(--color-muted);
+    background: transparent; white-space: nowrap;
+  }
+  .chip[aria-pressed="true"] { background: var(--color-pine); color: var(--color-paper); border-color: var(--color-pine); }
+
+  .container-site { width: 100%; max-width: 84rem; margin-inline: auto; padding-inline: 1rem; }
+  @media (min-width: 640px) { .container-site { padding-inline: 2rem; } }
+  @media (min-width: 1024px) { .container-site { padding-inline: 3rem; } }
+}
+
+/* Reveal-on-scroll; disabled entirely for reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+  [data-reveal] {
+    opacity: 0; transform: translateY(14px);
+    transition: opacity 0.8s var(--ease-editorial), transform 0.8s var(--ease-editorial);
+    /* Failsafe: if the script never runs, content still appears. */
+    animation: reveal-failsafe 0.6s var(--ease-editorial) 2.5s forwards;
+  }
+  [data-reveal].is-visible { opacity: 1; transform: none; animation: none; }
+  @keyframes reveal-failsafe { to { opacity: 1; transform: none; } }
+  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: 0.28s; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* No-JS: never hide content */
+.no-js [data-reveal] { opacity: 1; transform: none; }

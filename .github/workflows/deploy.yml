@@ -1,0 +1,63 @@
+# Build the static site and publish it to GitHub Pages (https://mollyelizabethbrown.github.io).
+#
+# Runs on: every push to main · manual "Run workflow" · a Sanity publish (repository_dispatch
+# event "sanity-publish", see README → Content updates).
+#
+# One-time repository setup: Settings → Pages → Build and deployment → Source: "GitHub Actions".
+# Optional repository variables (Settings → Secrets and variables → Actions → Variables):
+#   SANITY_PROJECT_ID   once the CMS exists; without it the site builds from content/data/
+#   SANITY_DATASET      defaults to "production"
+#   ALLOW_INDEXING      set to "true" when Dr. Brown approves the launch
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  repository_dispatch:
+    types: [sanity-publish]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      NEXT_TELEMETRY_DISABLED: "1"
+      NEXT_PUBLIC_SITE_URL: https://mollyelizabethbrown.github.io
+      NEXT_PUBLIC_SANITY_PROJECT_ID: ${{ vars.SANITY_PROJECT_ID }}
+      NEXT_PUBLIC_SANITY_DATASET: ${{ vars.SANITY_DATASET || 'production' }}
+      NEXT_PUBLIC_ALLOW_INDEXING: ${{ vars.ALLOW_INDEXING || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Content integrity
+        run: npm run check:content
+      - name: Type check
+        run: npm run typecheck
+      - name: Build static site
+        run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "brown-2008-famine-early-warning",
+    "title": "Famine Early Warning Systems and Remote Sensing Data",
+    "year": 2008,
+    "publisher": "Springer Berlin, Heidelberg",
+    "isbn": {
+      "hardcover": "978-3-540-75367-4",
+      "softcover": "978-3-642-09458-3",
+      "ebook": "978-3-540-75369-8"
+    },
+    "doi": "10.1007/978-3-540-75369-8",
+    "pages": "XVIII, 314",
+    "series": null,
+    "publisherUrl": "https://link.springer.com/book/10.1007/978-3-540-75369-8",
+    "summary": "The book explains how USAID's Famine Early Warning Systems Network (FEWS NET) uses satellite remote sensing to detect biophysical hazards such as drought and to judge their effects on people's lives and livelihoods. It shows how FEWS NET combines physical science, developed with USGS, NASA, NOAA and USDA, with social-science livelihood and market analysis, and uses case studies to show how crises are identified, documented and responded to.",
+    "cover": {
+      "file": "/images/books/brown-2008-famine-early-warning.jpg",
+      "width": 306,
+      "height": 436
+    },
+    "themes": [
+      "food-security",
+      "earth-observation",
+      "applications"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "Bibliographic data verified on the publisher page https://link.springer.com/book/10.1007/978-3-540-75369-8 on 2026-11-19.",
+        "Summary written for the site from the publisher description — PI to approve.",
+        "Cover artwork from the publisher (downloaded-pending-approval); PI to confirm use."
+      ]
+    },
+    "publish": true
+  },
+  {
+    "id": "brown-2014-food-security-prices-climate",
+    "title": "Food Security, Food Prices and Climate Variability",
+    "year": 2014,
+    "publisher": "Routledge (Earthscan from Routledge)",
+    "isbn": {
+      "hardcover": "978-0-415-66311-3",
+      "softcover": "978-0-415-66312-0",
+      "ebook": "978-0-203-07168-7"
+    },
+    "doi": "10.4324/9780203071687",
+    "pages": "228 (24 color and 63 B/W illustrations)",
+    "series": "Earthscan Food and Agriculture",
+    "publisherUrl": "https://www.routledge.com/Food-Security-Food-Prices-and-Climate-Variability/Brown/p/book/9780415663120",
+    "summary": "Drawing on about a decade of the author's research, the book uses satellite measurements of growing-season variability to examine how weather and climate have affected agricultural production, staple food prices and access to food in food-insecure regions. It links global environmental change to local food-price swings and frames the analysis around how humanitarian organizations such as FEWS NET and the UN World Food Programme monitor and respond to food crises.",
+    "cover": {
+      "file": "/images/books/brown-2014-food-security-prices-climate.jpg",
+      "width": 180,
+      "height": 272
+    },
+    "themes": [
+      "food-security",
+      "climate-risk"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "Bibliographic data verified on the publisher page https://www.routledge.com/Food-Security-Food-Prices-and-Climate-Variability/Brown/p/book/9780415663120 on 2026-11-19.",
+        "Summary written for the site from the publisher description — PI to approve.",
+        "Cover artwork from the publisher (downloaded-pending-approval); PI to confirm use."
+      ]
+    },
+    "publish": true
+  }
+]

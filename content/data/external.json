@@ -1,0 +1,143 @@
+{
+  "verifiedAt": "2026-11-19",
+  "profiles": [
+    {
+      "label": "University of Maryland, Department of Geographical Sciences",
+      "url": "https://geog.umd.edu/facultyprofile/brown/molly",
+      "verified": true,
+      "notes": "Live (HTTP 200). Page headed 'Brown, Molly', title 'Research Professor'. Links to her Google Scholar profile and to 6th Grain. No ORCID or CV link on the page."
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0001-7384-3314",
+      "verified": true,
+      "notes": "Verified via the ORCID public API: name Molly Brown; employments University of Maryland (Research Professor, from 2015-02), 6th Grain Global Corporation (Chief Science Officer, from 2015-02), NASA Goddard Space Flight Center (Scientist, from 2008-10), SSAI (Scientist, from 2000-09); education Tufts University; researcher URL points to the UMD Geography profile; 118 work groups, including ICESat-2 applications, Senegal cropland deep-learning and child stunting/temperature papers."
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=43BvOG8AAAAJ",
+      "verified": true,
+      "notes": "Linked from the UMD profile. Page title 'Molly Elizabeth Brown - Google Scholar', affiliation 'University of Maryland College Park'. Counts not scraped."
+    },
+    {
+      "label": "6th Grain",
+      "url": "https://6grain.com/",
+      "verified": true,
+      "notes": "Domain is live (redirects to www.6grain.com). It serves a JavaScript web app titled '6grain.com' whose routes include Remote Sensing Engine, Cropped Area Estimates, Infrastructure Mapping, Inundated Agricultural Areas and Data Terminal, so it is an active product site, not a parked domain. The page has no server-rendered text, so her role is not confirmed on it; the role (Chief Science Officer) comes from the UMD bio and ORCID."
+    },
+    {
+      "label": "NASA Goddard Space Flight Center profile",
+      "url": null,
+      "verified": false,
+      "notes": "No current Goddard bio page found. Guessed legacy URLs (science.gsfc.nasa.gov/sed/bio/molly.e.brown, .../molly.brown) redirect to /sci/bio/... and return 404. Web search found no Goddard page for her."
+    }
+  ],
+  "orcid": "0000-0001-7384-3314",
+  "umdProfile": {
+    "title": "Research Professor",
+    "publicEmail": "mbrown52@umd.edu",
+    "office": "Off campus office (the page also gives the department's mailing address: 2181 Samuel J. LeFrak Hall, 7251 Preinkert Drive, College Park, MD 20742)",
+    "interests": [
+      "remote sensing",
+      "agriculture",
+      "food security",
+      "digital software"
+    ],
+    "researchTopics": [
+      "Carbon, Vegetation Dynamics and Landscape-Scale Processes",
+      "Geospatial Information Science and Remote Sensing",
+      "Human Dimensions of Global Change - Coupled Human and Natural Systems"
+    ],
+    "degrees": [
+      "PhD, Geographical Sciences, University of Maryland College Park",
+      "MA, Geographical Sciences, University of Maryland College Park",
+      "BS, Biology and Environmental Studies, Tufts University"
+    ],
+    "bioSummary": "The bio (first person) describes about twenty years of interdisciplinary research that combines satellite remote sensing and models with socio-economic and demographic data to understand what drives food security, including the effects of conflict, climate and agricultural development on communities in Africa and Asia. It mentions Peace Corps service in Senegal in the early 1990s, more than 120 journal articles and two books, lead authorship of the 2015 USDA-published climate assessment report on global food security, and thirteen years at NASA Goddard's Biospheric Sciences Branch (first as a contractor, then as a civil servant). It lists service on the CGMS socio-economic benefits tiger team (2013-2015), the NSF Environmental Research and Education Advisory Committee (2010-2012) and, since 2017, the National Academies' Committee on Earth Sciences and Applications from Space, plus a part-time role as Chief Science Officer of 6th Grain. It names four research agendas: vegetation remote sensing for climate variability; how satellite data are used in decisions (pre-launch applications work for the Carbon Monitoring System, SMAP and ICESat-2); models of climate effects on acute malnutrition in Africa; and creating training data that turn remote sensing into actionable agricultural information. It also mentions a book in progress on digital tools, AI and machine learning in food production.",
+    "photoUrl": "https://geog.umd.edu/sites/geog.umd.edu/files/styles/large/public/Molly_Pic_Kansas_2022_crop.jpg?itok=0Gfxn9qg",
+    "photoNotes": "Portrait exists on the UMD page (HTTP 200, image/jpeg). Not downloaded; rights belong to UMD or the subject.",
+    "officePhoneShown": true
+  },
+  "books": [
+    {
+      "id": "brown-2008-famine-early-warning",
+      "title": "Famine Early Warning Systems and Remote Sensing Data",
+      "publisher": "Springer Berlin, Heidelberg",
+      "year": 2008,
+      "isbn": {
+        "hardcover": "978-3-540-75367-4",
+        "softcover": "978-3-642-09458-3",
+        "ebook": "978-3-540-75369-8"
+      },
+      "doi": "10.1007/978-3-540-75369-8",
+      "pages": "XVIII, 314",
+      "series": null,
+      "dates": {
+        "hardcover": "2008-05-21",
+        "softcover": "2010-10-19",
+        "ebook": "2008-05-06"
+      },
+      "publisherUrl": "https://link.springer.com/book/10.1007/978-3-540-75369-8",
+      "summary": "The book explains how USAID's Famine Early Warning Systems Network (FEWS NET) uses satellite remote sensing to detect biophysical hazards such as drought and to judge their effects on people's lives and livelihoods. It shows how FEWS NET combines physical science, developed with USGS, NASA, NOAA and USDA, with social-science livelihood and market analysis, and uses case studies to show how crises are identified, documented and responded to.",
+      "coverUrl": "https://media.springernature.com/w306/springer-static/cover/book/978-3-540-75369-8.jpg",
+      "coverFile": "/images/books/brown-2008-famine-early-warning.jpg",
+      "coverStatus": "downloaded-pending-approval",
+      "coverNotes": "Served from Springer Nature's own media CDN (the page's og:image is the w153 rendition). Saved the w306 rendition, 306x436 px. Larger renditions exist but look upscaled."
+    },
+    {
+      "id": "brown-2014-food-security-prices-climate",
+      "title": "Food Security, Food Prices and Climate Variability",
+      "publisher": "Routledge (Earthscan from Routledge)",
+      "year": 2014,
+      "isbn": {
+        "hardcover": "978-0-415-66311-3",
+        "softcover": "978-0-415-66312-0",
+        "ebook": "978-0-203-07168-7"
+      },
+      "doi": "10.4324/9780203071687",
+      "pages": "228 (24 color and 63 B/W illustrations)",
+      "series": "Earthscan Food and Agriculture",
+      "dates": {
+        "published": "2014-05-29"
+      },
+      "publisherUrl": "https://www.routledge.com/Food-Security-Food-Prices-and-Climate-Variability/Brown/p/book/9780415663120",
+      "ebookUrl": "https://www.taylorfrancis.com/books/mono/10.4324/9780203071687/food-security-food-prices-climate-variability-molly-brown",
+      "summary": "Drawing on about a decade of the author's research, the book uses satellite measurements of growing-season variability to examine how weather and climate have affected agricultural production, staple food prices and access to food in food-insecure regions. It links global environmental change to local food-price swings and frames the analysis around how humanitarian organizations such as FEWS NET and the UN World Food Programme monitor and respond to food crises.",
+      "coverUrl": "https://images.routledge.com/common/jackets/crclarge/978041566/9780415663120.jpg",
+      "coverFile": "/images/books/brown-2014-food-security-prices-climate.jpg",
+      "coverStatus": "downloaded-pending-approval",
+      "coverNotes": "Publisher's own jacket image (the og:image on the Routledge page). Only 180x272 px; the larger 'amazonl'/'gblarge' paths return 403. The JPEG is CMYK (4 components); convert it to sRGB if any browser renders it wrongly."
+    }
+  ],
+  "otherLinks": [
+    {
+      "label": "Climate Change, Global Food Security, and the U.S. Food System (2015), DOI",
+      "url": "https://doi.org/10.7930/J0862DC7",
+      "verified": true,
+      "notes": "The DOI is registered: Crossref lists a 2015 report from the U.S. Global Change Research Program with first author M.E. Brown. The DOI handle points to https://www.usda.gov/oce/climate_change/FoodSecurity2015Assessment/FullAssessment.pdf, but usda.gov returns HTTP 403 to automated requests, so the target file could not be checked."
+    },
+    {
+      "label": "Climate Change, Global Food Security, and the U.S. Food System (2015), AgEcon Search copy",
+      "url": "https://ageconsearch.umn.edu/record/337546",
+      "verified": true,
+      "notes": "University of Minnesota AgEcon Search record. The PDF (ClimateChangeFoodSecurity2015.pdf, about 13 MB) downloads successfully. This is a working mirror, not the official host."
+    },
+    {
+      "label": "Springer book DOI",
+      "url": "https://doi.org/10.1007/978-3-540-75369-8",
+      "verified": true
+    },
+    {
+      "label": "NASA images and media usage guidelines",
+      "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "verified": true,
+      "notes": "The legacy earthobservatory.nasa.gov/image-use-policy and /ImageUse URLs now redirect to the Earth Observatory home page at science.nasa.gov."
+    }
+  ],
+  "unresolved": [
+    "No current NASA Goddard staff or bio page found for her.",
+    "The official USDA PDF that the 2015 report's DOI points to could not be fetched (usda.gov returns 403 to automated requests), so it is unknown whether that URL still works for browsers. The AgEcon Search mirror works. globalchange.gov did not respond.",
+    "6th Grain: the site is live, but its content is rendered client-side, so her current role there could not be confirmed on the site itself.",
+    "The 2008 Springer book lists no series on its Springer page (set to null)."
+  ]
+}

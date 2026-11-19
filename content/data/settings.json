@@ -1,0 +1,56 @@
+{
+  "siteTitle": "Molly E. Brown",
+  "siteDescription": "Molly E. Brown is a Research Professor at the University of Maryland whose research connects satellite Earth observation, climate and socioeconomic data to understand risks to agriculture, food security and human well-being.",
+  "heroImageId": "senegal-river-delta-djoudj",
+  "home": {
+    "featuredProjectIds": [
+      "icesat-2-applications",
+      "fews-net-earth-science",
+      "meriam",
+      "himala",
+      "index-insurance-africa",
+      "siil-geospatial-consortium"
+    ],
+    "featuredPublicationDois": [
+      "10.1073/pnas.1905228116",
+      "10.1126/science.1154102",
+      "10.1073/pnas.0708196105",
+      "10.1038/nclimate1945",
+      "10.1080/01431160500168686",
+      "10.1016/j.gloenvcha.2015.08.003",
+      "10.1088/1748-9326/abd0ab",
+      "10.1073/pnas.2321154122"
+    ],
+    "earthToDecisionsTitle": "From orbit to outcome",
+    "earthToDecisionsText": "A satellite measures reflected light; a family decides whether it can afford grain. Between the two lies a chain of evidence — environmental conditions, harvests, markets and health — that Brown's research has traced for more than two decades, and a set of institutions, from famine early warning networks to insurers and mission teams, that turn that evidence into action."
+  },
+  "links": [
+    {
+      "label": "University of Maryland profile",
+      "url": "https://geog.umd.edu/facultyprofile/brown/molly",
+      "kind": "institutional",
+      "verified": true
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0001-7384-3314",
+      "kind": "orcid",
+      "verified": true
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=43BvOG8AAAAJ",
+      "kind": "scholar",
+      "verified": true
+    }
+  ],
+  "contactEmail": "mbrown52@umd.edu",
+  "cvFile": null,
+  "verification": {
+    "status": "needs-review",
+    "issues": [
+      "Featured publications and projects are an editorial selection for launch — PI to confirm.",
+      "Contact email mbrown52@umd.edu is the address shown publicly on the UMD faculty profile (verified 2026-11-19); PI to confirm it should appear on this site."
+    ]
+  }
+}
