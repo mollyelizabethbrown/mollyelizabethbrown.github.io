@@ -61,7 +61,7 @@ const decisions = [
   ["Positioning line and short biography", "New homepage line (replaces the earlier slogan) and a concise biography; both syntheses of CV facts.", "Dr. Brown"],
   ["Homepage highlights", "NASA mission-applications section and four 'Scientific impact' items, each with its CV page or DOI evidence (content/data/highlights.json).", "Dr. Brown"],
   ["Flagship projects", "Seven flagship pages with research questions (editorial) and outcomes (restating linked publication titles).", "Dr. Brown"],
-  ["People", "Students, alumni and mentees published from the CV supervision list (pp. 54–56) with CV roles only; the two Holton-Arms high-school students are excluded. Spelling: CV 'Monica Ilhi' vs publication 'Monica Ihli' (site uses Ihli); CV 'Michael Farhner' vs report author 'M. Fahrner' (site uses the CV spelling).", "Dr. Brown"],
+  ["People", "Students, alumni and mentees published from the CV supervision list (pp. 54–56) with CV roles only; two high-school students listed in the CV are excluded as minors. Spelling: CV 'Monica Ilhi' vs publication 'Monica Ihli' (site uses Ihli); CV 'Michael Farhner' vs report author 'M. Fahrner' (site uses the CV spelling).", "Dr. Brown"],
   ["Downloadable CV", "Withheld; 'available on request'. Needs a redacted PDF.", "Dr. Brown"],
   ["Public email", `${settings.contactEmail ?? "none"} (the address shown on her UMD profile)`, "Dr. Brown"],
   ["Book cover images", "Publisher artwork displayed (Springer, Routledge).", "Dr. Brown"],
