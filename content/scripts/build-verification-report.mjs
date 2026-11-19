@@ -57,13 +57,15 @@ L.push(`- **Unpublished manuscripts** (submitted / in review) are hidden by defa
 L.push(`## 3. Decisions needed before launch`, ``);
 L.push(`| # | Item | Default chosen | Who decides |`, `|---|---|---|---|`);
 const decisions = [
-  ["Professional portrait", "Interim: her UMD faculty-profile photo (EXIF stripped) on the homepage, About and People pages. Intended: her LinkedIn profile photo — LinkedIn blocks automated download, so it must be saved manually over public/images/portrait/molly-brown.jpg. Confirm the photo with her.", "Dr. Brown"],
-  ["Downloadable CV", "Withheld; \"available on request\". Needs a redacted PDF.", "Dr. Brown"],
+  ["Portrait", "Her LinkedIn profile photo (supplied by Walid Ouaret, metadata stripped) on the homepage, About and People pages.", "Dr. Brown to confirm"],
+  ["Positioning line and short biography", "New homepage line (replaces the earlier slogan) and a concise biography; both syntheses of CV facts.", "Dr. Brown"],
+  ["Homepage highlights", "NASA mission-applications section and four 'Scientific impact' items, each with its CV page or DOI evidence (content/data/highlights.json).", "Dr. Brown"],
+  ["Flagship projects", "Seven flagship pages with research questions (editorial) and outcomes (restating linked publication titles).", "Dr. Brown"],
+  ["People", "Students, alumni and mentees published from the CV supervision list (pp. 54–56) with CV roles only; the two Holton-Arms high-school students are excluded. Spelling: CV 'Monica Ilhi' vs publication 'Monica Ihli' (site uses Ihli); CV 'Michael Farhner' vs report author 'M. Fahrner' (site uses the CV spelling).", "Dr. Brown"],
+  ["Downloadable CV", "Withheld; 'available on request'. Needs a redacted PDF.", "Dr. Brown"],
   ["Public email", `${settings.contactEmail ?? "none"} (the address shown on her UMD profile)`, "Dr. Brown"],
-  ["Book cover images", "Publisher artwork displayed (Springer, Routledge). Confirm use.", "Dr. Brown"],
-  ["Editorial text", "Biography, approach, contributions, theme introductions/findings and project abstracts are syntheses of CV facts written for the site. All marked draft.", "Dr. Brown"],
-  ["Featured items", "6 projects and 8 publications selected for the homepage.", "Dr. Brown"],
-  ["6th Grain appointment", "Shown as current (CV: 2/15 – present; ORCID agrees). Company site does not name her role.", "Dr. Brown"],
+  ["Book cover images", "Publisher artwork displayed (Springer, Routledge).", "Dr. Brown"],
+  ["6th Grain appointment", "Shown as current (CV and ORCID agree).", "Dr. Brown"],
   ["Mailing address ZIP", "CV says 'College Park, MD 20171' (a Herndon, VA ZIP). Site uses the department's 20742.", "Dr. Brown"],
   ["Search-engine indexing", "Disabled (robots.txt disallow) until launch is approved; then set the GitHub repository variable ALLOW_INDEXING=true.", "Dr. Brown"],
 ];
@@ -92,7 +94,7 @@ for (const p of pubs.filter((p) => p.verification.status === "conflict")) {
 L.push(``);
 
 L.push(`### 4.4 Corrections applied (documented on each record)`, ``);
-for (const p of pubs) for (const i of issuesWith(p, /^corrected:|^curation: CV DOI/)) L.push(`- \`${p.id}\` — ${i.replace(/^curation: /, "")}`);
+for (const p of pubs) for (const i of issuesWith(p, /^corrected:|^curation: CV DOI|^audit /)) L.push(`- \`${p.id}\` — ${i.replace(/^curation: /, "")}`);
 L.push(``);
 
 L.push(`### 4.5 DOIs found for records without one (not applied — confirm, then add in the CMS)`, ``);

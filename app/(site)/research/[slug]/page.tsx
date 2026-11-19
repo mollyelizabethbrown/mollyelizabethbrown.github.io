@@ -60,11 +60,11 @@ export default async function ThemePage({ params }: Props) {
 
       <section className="py-20 lg:py-28">
         <div className="container-site grid gap-16 lg:grid-cols-12">
-          <div className="prose-editorial lg:col-span-7" data-reveal>
+          <div className="prose-editorial lg:col-span-7">
             {theme.introduction.map((p) => <p key={p.slice(0, 40)}>{p}</p>)}
           </div>
           <aside className="space-y-12 lg:col-span-4 lg:col-start-9">
-            <div data-reveal>
+            <div>
               <h2 className="kicker mb-5">Research questions</h2>
               <ol className="space-y-4">
                 {theme.questions.map((q, i) => (
@@ -74,7 +74,7 @@ export default async function ThemePage({ params }: Props) {
                 ))}
               </ol>
             </div>
-            <div data-reveal>
+            <div>
               <h2 className="kicker mb-5">Approaches and methods</h2>
               <ul className="flex flex-wrap gap-2">
                 {theme.methods.map((m) => <li key={m} className="chip whitespace-normal">{m}</li>)}
@@ -90,7 +90,7 @@ export default async function ThemePage({ params }: Props) {
             <SectionHeading kicker="Evidence" id="findings" title="Representative published work" />
             <ul className="grid gap-px overflow-hidden border border-stone bg-stone md:grid-cols-2 lg:grid-cols-3">
               {findings.map((f) => (
-                <li key={f.doi} className="flex flex-col bg-paper p-7" data-reveal>
+                <li key={f.doi} className="flex flex-col bg-paper p-7">
                   <p className="font-serif text-lg leading-snug text-pine">{f.text}</p>
                   {f.pub ? (
                     <p className="mt-auto pt-6 text-xs leading-relaxed text-muted">

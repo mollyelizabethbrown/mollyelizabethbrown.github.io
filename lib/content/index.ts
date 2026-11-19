@@ -1,44 +1,39 @@
 import "server-only";
 import { cache } from "react";
-import { sanityEnabled } from "@/sanity/env";
 import * as local from "./local";
-import * as cms from "./sanity";
+import { isBrown } from "@/lib/format";
 import type { Project, Publication, Theme, ThemeId } from "@/lib/types";
 
-/**
- * Single entry point for page data. Reads Sanity when NEXT_PUBLIC_SANITY_PROJECT_ID is set,
- * otherwise the local content database in content/data/. Pages never import a source directly.
- */
+/** Single entry point for page data. Pages never read content files directly. */
 
 export const normDoi = local.normDoi;
 
-export const getProfile = cache(async () => (sanityEnabled ? cms.sanityProfile() : local.localProfile()));
-export const getSettings = cache(async () => (sanityEnabled ? cms.sanitySettings() : local.localSettings()));
-export const getThemes = cache(async () => (sanityEnabled ? cms.sanityThemes() : local.localThemes()));
-export const getBooks = cache(async () => (sanityEnabled ? cms.sanityBooks() : local.localBooks()));
-export const getPeople = cache(async () => (sanityEnabled ? cms.sanityPeople() : local.localPeople()));
-export const getNews = cache(async () => {
-  const rows = sanityEnabled ? await cms.sanityNews() : local.localNews();
-  return [...rows].sort((a, b) => b.date.localeCompare(a.date));
-});
+export const getProfile = cache(async () => local.localProfile());
+export const getSettings = cache(async () => local.localSettings());
+export const getThemes = cache(async () => local.localThemes());
+export const getBooks = cache(async () => local.localBooks());
+export const getPeople = cache(async () => local.localPeople());
+export const getHighlights = cache(async () => local.localHighlights());
+export const getMedia = cache(async () => local.allMedia());
+export const getNews = cache(async () => [...local.localNews()].sort((a, b) => b.date.localeCompare(a.date)));
 
-const pubOrder = (a: Publication, b: Publication) =>
-  b.year - a.year || a.title.localeCompare(b.title);
+export const getPublications = cache(async () =>
+  [...local.localPublications()].sort((a, b) => b.year - a.year || a.title.localeCompare(b.title)),
+);
 
-export const getPublications = cache(async () => {
-  const rows = sanityEnabled ? await cms.sanityPublications() : local.localPublications();
-  return [...rows].sort(pubOrder);
-});
-
-export const getProjects = cache(async () => {
-  const rows = sanityEnabled ? await cms.sanityProjects() : local.localProjects();
-  return [...rows].sort(
+/** Active first; then flagship order; then most recent. */
+export const getProjects = cache(async () =>
+  [...local.localProjects()].sort(
     (a, b) =>
       Number(b.status === "active") - Number(a.status === "active") ||
       (b.periodEnd ?? 9999) - (a.periodEnd ?? 9999) ||
       b.periodStart - a.periodStart,
-  );
-});
+  ),
+);
+
+export async function getFlagships(): Promise<Project[]> {
+  return (await getProjects()).filter((p) => p.flagship).sort((a, b) => (a.flagshipOrder ?? 99) - (b.flagshipOrder ?? 99));
+}
 
 // --- relationship helpers -------------------------------------------------------
 
@@ -72,4 +67,35 @@ export async function getTheme(id: string): Promise<Theme | null> {
 
 export async function getThemeMap(): Promise<Record<string, Theme>> {
   return Object.fromEntries((await getThemes()).map((t) => [t.id, t]));
+}
+
+/** Most recent verified, published work — "recent activity" is shown only when DOI-verified. */
+export async function getRecentVerified(sinceYear: number): Promise<Publication[]> {
+  return (await getPublications()).filter(
+    (p) => p.year >= sinceYear && p.status === "published" && p.verification.status === "verified" && p.doi,
+  );
+}
+
+/** Co-authors on verified publications since a given year (factual co-authorship, not group membership). */
+export async function getRecentCoauthors(sinceYear: number) {
+  const pubs = await getRecentVerified(sinceYear);
+  const counts = new Map<string, number>();
+  for (const p of pubs) for (const a of p.authors) if (!isBrown(a)) counts.set(a, (counts.get(a) ?? 0) + 1);
+  return { pubCount: pubs.length, authors: [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])) };
+}
+
+/** Primary navigation; News appears only once it has published posts. */
+export async function getNav() {
+  const news = await getNews();
+  const items = [
+    { href: "/about/", label: "About" },
+    { href: "/research/", label: "Research" },
+    { href: "/projects/", label: "Projects" },
+    { href: "/publications/", label: "Publications" },
+    { href: "/books/", label: "Books" },
+    { href: "/people/", label: "People" },
+    ...(news.length ? [{ href: "/news/", label: "News" }] : []),
+    { href: "/contact/", label: "Contact" },
+  ];
+  return items;
 }

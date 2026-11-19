@@ -2,33 +2,24 @@
   "name": "molly-brown-website",
   "version": "0.1.0",
   "private": true,
-  "description": "Research website of Dr. Molly E. Brown — Earth observation, climate and food security. Next.js + Sanity.",
+  "description": "Research website of Dr. Molly E. Brown — Earth observation, climate and food security. Static Next.js on GitHub Pages.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
     "typecheck": "tsc --noEmit",
     "check:content": "node scripts/check-content.mjs",
     "check:site": "node scripts/check-site.mjs",
+    "serve:out": "node scripts/serve-out.mjs",
     "verify:dois": "node content/scripts/verify-dois.mjs",
     "import:doi": "node content/scripts/import-doi.mjs",
-    "sanity:seed": "node content/scripts/build-sanity-seed.mjs",
+    "content:from-issue": "node content/scripts/content-from-issue.mjs",
     "qa": "npm run check:content && npm run typecheck && npm run build"
   },
   "dependencies": {
-    "@portabletext/react": "8.0.1",
-    "@sanity/client": "8.14.1",
-    "@sanity/icons": "5.4.0",
-    "@sanity/image-url": "2.1.1",
-    "@sanity/ui": "4.4.12",
-    "@sanity/vision": "6.22.0",
     "next": "16.4.5",
-    "next-sanity": "13.4.0",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "sanity": "6.22.0",
-    "server-only": "0.0.1",
-    "styled-components": "6.6.0"
+    "server-only": "0.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.3.4",

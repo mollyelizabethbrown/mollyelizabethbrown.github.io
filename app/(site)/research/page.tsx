@@ -26,7 +26,7 @@ export default async function ResearchPage() {
         <div className="container-site">
           <h2 id="chain" className="kicker mb-12">The chain of evidence</h2>
           <EvidenceChain steps={profile.chain} tone="paper" />
-          <div className="prose-editorial mt-16 max-w-3xl" data-reveal>
+          <div className="prose-editorial mt-16 max-w-3xl">
             {profile.approach.map((p) => <p key={p.slice(0, 32)}>{p}</p>)}
           </div>
         </div>
@@ -38,7 +38,7 @@ export default async function ResearchPage() {
             const nProjects = projects.filter((p) => p.themes.includes(t.id)).length;
             const nPubs = pubs.filter((p) => p.themes.includes(t.id)).length;
             return (
-              <article key={t.id} className="grid gap-10 lg:grid-cols-12 lg:gap-16" data-reveal>
+              <article key={t.id} className="grid gap-10 lg:grid-cols-12 lg:gap-16">
                 <div className={`lg:col-span-6 ${i % 2 ? "lg:order-2" : ""}`}>
                   {t.image ? (
                     <figure>

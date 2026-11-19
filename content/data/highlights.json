@@ -1,0 +1,76 @@
+{
+  "_provenance": "Editorial highlights for the homepage. Every statement cites the CV page or a DOI-verified publication it rests on. Edit here (or via the CMS); keep the evidence lines.",
+  "nasa": {
+    "kicker": "NASA mission applications",
+    "title": "Preparing users for satellite missions before launch",
+    "text": [
+      "At NASA's Goddard Space Flight Center, Brown led the pre-launch applications programs for two Earth-observing missions: the Soil Moisture Active Passive (SMAP) mission, launched in 2015, and the Ice, Cloud and land Elevation Satellite-2 (ICESat-2), launched in 2018. Both programs paired prospective users — agencies, companies and researchers — with mission scientists years before the first data arrived, through Early Adopter programs, workshops and user-needs assessments.",
+      "She continues to lead the ICESat-2 applications team, and has studied the programs' results: a review of the ICESat and ICESat-2 literature found that engagement of stakeholders accelerated applications of ICESat-2 data compared with its predecessor."
+    ],
+    "facts": [
+      {
+        "label": "SMAP applications",
+        "value": "Applications Program Coordinator, 2010–2015"
+      },
+      {
+        "label": "ICESat-2 applications",
+        "value": "Coordinator 2012–2015; team lead 2015–present"
+      },
+      {
+        "label": "Recognition",
+        "value": "NASA Honor Award, Excellence in Collaboration (2024), for the first Early Adopter programs"
+      }
+    ],
+    "imageId": "icesat2-global-data",
+    "projectIds": [
+      "icesat-2-applications",
+      "smap-applications"
+    ],
+    "evidence": "CV pp.2, 48, 49, 52; Brown & Escobar 2019 (doi:10.3390/rs11040406); Brown et al. 2022 (doi:10.1016/j.rsase.2022.100874)"
+  },
+  "impact": [
+    {
+      "title": "Satellite evidence in famine early warning",
+      "text": "For more than a decade Brown ensured that USAID's Famine Early Warning Systems Network had access to — and used — real-time and projected vegetation and rainfall data for Africa, Central America, Afghanistan and Haiti, and evaluated how those data entered early-warning assessments.",
+      "evidence": [
+        {
+          "label": "Brown & Brickley (2012), Journal of Applied Remote Sensing",
+          "doi": "10.1117/1.JRS.6.063511"
+        },
+        {
+          "label": "Famine Early Warning Systems and Remote Sensing Data (Springer, 2008)",
+          "href": "/books/"
+        }
+      ],
+      "source": "CV pp.1–2, 14"
+    },
+    {
+      "title": "Climate change and the U.S. food system",
+      "text": "Lead author of the USDA technical report Climate Change, Global Food Security, and the U.S. Food System, prepared for the U.S. National Climate Assessment. The writing team received the USDA Abraham Lincoln Honor Award for Increasing Global Food Security (2016).",
+      "evidence": [
+        {
+          "label": "USDA technical report (2015)",
+          "doi": "10.7930/J0862DC7"
+        }
+      ],
+      "source": "CV pp.2, 8, 48, 57"
+    },
+    {
+      "title": "Climate and children's diets",
+      "text": "A nineteen-country study she co-authored associated climate impacts with reduced diet diversity in children; it was reported by the BBC and Forbes, among others.",
+      "evidence": [
+        {
+          "label": "Niles et al. (2020), Environmental Research Letters",
+          "doi": "10.1088/1748-9326/abd0ab"
+        }
+      ],
+      "source": "CV pp.6, 21"
+    },
+    {
+      "title": "Advising the National Academies",
+      "text": "Member of the National Academy of Sciences Committee on Earth Science and Applications from Space (2017–2022), and earlier of the National Science Foundation's Environmental Research and Education Advisory Committee (2010–2012).",
+      "evidence": [],
+      "source": "CV pp.57–58"
+    }
+  ]
+}

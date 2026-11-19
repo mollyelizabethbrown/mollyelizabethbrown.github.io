@@ -48,10 +48,37 @@
     "verification": {
       "status": "cv-only",
       "issues": [
-        "Abstract is an editorial synthesis of the CV grant entries and applications publications; PI to approve."
+        "Abstract is an editorial synthesis of the CV grant entries and applications publications; PI to approve.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 1,
+    "imageId": "icesat2-global-data",
+    "questions": [
+      "How can a laser-altimetry mission engage users before launch so that its data are applied quickly after it?",
+      "Which communities — from sea-ice and inland-water managers to the private sector — can use ICESat-2 elevations, and for which decisions?",
+      "How can the real-world impact of a science mission be documented and evaluated?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1109/MGRS.2016.2560759",
+        "text": "Documented the applications identified through the ICESat-2 Early Adopter program."
+      },
+      {
+        "doi": "10.1016/j.rsase.2022.100874",
+        "text": "Showed, through a review of the literature, that stakeholder engagement accelerated applications of ICESat-2 data compared with ICESat."
+      },
+      {
+        "doi": "10.1016/j.rsase.2025.101669",
+        "text": "Applied the Science Impact Framework to real-world uses of ICESat and ICESat-2 data in decision-making."
+      },
+      {
+        "doi": "10.3390/rs18081114",
+        "text": "Documented the value that ICESat-2 altimetry data bring to the private sector."
+      }
+    ]
   },
   {
     "id": "smap-applications",
@@ -99,10 +126,32 @@
     "verification": {
       "status": "cv-only",
       "issues": [
-        "Collaborating organizations inferred from co-author affiliations in CV talk entries (pp.39, 37); PI to confirm."
+        "Collaborating organizations inferred from co-author affiliations in CV talk entries (pp.39, 37); PI to confirm.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 2,
+    "imageId": "smap-global-soil-moisture",
+    "questions": [
+      "What soil-moisture information do potential users need, and at what resolution and latency?",
+      "How can operational agencies be prepared to use SMAP data from the start of the mission?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1175/BAMS-D-11-00049.1",
+        "text": "Set out the opportunities SMAP offered to applications users."
+      },
+      {
+        "doi": "10.1109/JSTARS.2013.2261473",
+        "text": "Assessed the soil-moisture data requirements of SMAP's potential user community."
+      },
+      {
+        "doi": "10.1175/JHM-D-14-0093.1",
+        "text": "Described how NASA science and engineering connect with Earth science applications."
+      }
+    ]
   },
   {
     "id": "carbon-monitoring-system-applications",
@@ -153,10 +202,36 @@
     "verification": {
       "status": "cv-only",
       "issues": [
-        "Four separately funded CMS grants merged into one program record; PI to confirm presentation."
+        "Four separately funded CMS grants merged into one program record; PI to confirm presentation.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 7,
+    "imageId": "tropical-asia-forest-carbon",
+    "questions": [
+      "What carbon information do policy and land-management decision makers need?",
+      "What makes the transfer of carbon data products from scientists to stakeholders effective?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.4155/cmt.13.36",
+        "text": "Defined the capabilities and components of a terrestrial carbon monitoring system."
+      },
+      {
+        "doi": "10.1088/1748-9326/ac87bf",
+        "text": "Showed that scientist–stakeholder relationships drive the effectiveness of carbon data product transfer."
+      },
+      {
+        "doi": "10.1088/1748-9326/ac7407",
+        "text": "Contributed to the synthesis of the Carbon Monitoring System's Phase 2 findings, gaps and recommended next steps."
+      },
+      {
+        "doi": "10.1088/1748-9326/ace208",
+        "text": "Assessed the data needs, gaps and opportunities of the wet-carbon stakeholder community."
+      }
+    ]
   },
   {
     "id": "himala",
@@ -211,10 +286,36 @@
       "status": "cv-only",
       "issues": [
         "CV gives the grant amount as '$1.4 K' — likely a typo; amount is not displayed on the site.",
-        "Collaborators drawn from CV talk entries on pp.35–37 and 41."
+        "Collaborators drawn from CV talk entries on pp.35–37 and 41.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 5,
+    "imageId": "himalaya-kokthang-glacier",
+    "questions": [
+      "How much do glacier and snow melt contribute to streamflow in Himalayan river basins?",
+      "Can remote sensing and Earth system data drive hydrological models where ground observations are scarce?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1659/MRD-JOURNAL-D-10-00071.1",
+        "text": "Set out the HIMALA project on climate impacts on Himalayan glaciers, snow and hydrology."
+      },
+      {
+        "doi": "10.1016/j.jhydrol.2014.09.050",
+        "text": "Built an integrated system estimating glacier- and snowmelt-driven streamflow from remote sensing and Earth system data."
+      },
+      {
+        "doi": "10.1016/j.envsoft.2015.02.017",
+        "text": "Integrated an energy-balance snowmelt model into an open-source modeling framework."
+      },
+      {
+        "doi": "10.1002/hyp.10005",
+        "text": "Applied and evaluated a snowmelt runoff model in an eastern Himalayan basin using Markov chain Monte Carlo data assimilation."
+      }
+    ]
   },
   {
     "id": "meriam",
@@ -266,10 +367,32 @@
       "status": "needs-review",
       "issues": [
         "CV does not state Brown's formal role title on MERIAM; shown as 'Investigator'.",
-        "Geography inferred from the associated Spatial Demography paper (Kenya, Nigeria, Uganda); PI to confirm."
+        "Geography inferred from the associated Spatial Demography paper (Kenya, Nigeria, Uganda); PI to confirm.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 4,
+    "imageId": null,
+    "questions": [
+      "How do climate and conflict shocks, together, shape the risk of acute malnutrition in children?",
+      "Can environmental and market indicators anticipate malnutrition early enough for humanitarian action?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1007/s12571-020-01041-y",
+        "text": "Synthesised the empirical evidence on climate and conflict shocks as factors in child malnutrition."
+      },
+      {
+        "doi": "10.1016/S2542-5196(21)00197-2",
+        "text": "Argued for considering climate and conflict conditions together when designing interventions against child acute malnutrition."
+      },
+      {
+        "doi": "10.1007/s40980-021-00102-w",
+        "text": "Compared conflict and climate risk factors for acute malnutrition among children in Kenya, Nigeria and Uganda."
+      }
+    ]
   },
   {
     "id": "index-insurance-africa",
@@ -321,10 +444,28 @@
       "status": "cv-only",
       "issues": [
         "Collaborating organizations inferred from co-author affiliations in the 2014 AGU talk (p.32) and 2016 Reading talk (p.31); PI to confirm.",
-        "Brown et al. 2011 (Nature Geoscience) predates the grant and is shown as related work."
+        "Brown et al. 2011 (Nature Geoscience) predates the grant and is shown as related work.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 6,
+    "imageId": "ethiopian-highland-farmland",
+    "questions": [
+      "Do independent satellite products agree on bad seasons strongly enough to support insurance payouts?",
+      "How do satellite indices compare with farmers' own recollection of bad years?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1175/WCAS-D-17-0111.1",
+        "text": "Used the convergence of evidence across satellite data sets for advanced weather index insurance design."
+      },
+      {
+        "doi": "10.3390/rs10121887",
+        "text": "Compared farmer perception and recollection with remote sensing in an Ethiopian index insurance case study."
+      }
+    ]
   },
   {
     "id": "fews-net-earth-science",
@@ -385,10 +526,37 @@
     "verification": {
       "status": "cv-only",
       "issues": [
-        "Programme-level record synthesised from the NASA and SSAI position descriptions; individual grants are listed separately."
+        "Programme-level record synthesised from the NASA and SSAI position descriptions; individual grants are listed separately.",
+        "flagship questions/outcomes (2026-11-19): outcomes restate the linked publications' titles; questions are editorial — PI to approve."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": true,
+    "flagshipOrder": 3,
+    "imageId": "east-africa-drought-ndvi-2006",
+    "questions": [
+      "Which satellite vegetation and rainfall observations best signal emerging food crises?",
+      "Can projections of vegetation conditions give earlier warning than observations alone?",
+      "How are remote sensing data actually used in food-security assessments?"
+    ],
+    "outcomes": [
+      {
+        "doi": "10.1016/j.rse.2005.12.014",
+        "text": "Developed intra-seasonal NDVI change projections for semi-arid Africa."
+      },
+      {
+        "doi": "10.1111/j.1749-8198.2009.00244.x",
+        "text": "Reviewed the role of biophysical remote sensing and climate data in famine early warning systems."
+      },
+      {
+        "doi": "10.1117/1.JRS.6.063511",
+        "text": "Evaluated the use of remote sensing data in the Famine Early Warning Systems Network."
+      },
+      {
+        "doi": "10.1016/j.gloenvcha.2012.03.005",
+        "text": "Developed country and regional staple food price indices for identifying food insecurity."
+      }
+    ]
   },
   {
     "id": "fews-net-decisions-can",
@@ -423,7 +591,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "precipitation-products-usaid",
@@ -456,7 +625,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "fews-net-ldas",
@@ -495,7 +665,8 @@
         "Linking McNally et al. (2014) to this project is an editorial inference; PI to confirm."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "west-africa-prices",
@@ -546,7 +717,8 @@
         "Two grants ('Interdisciplinary Model Implementation for Prices in Africa', 2006–2009; 'Cereal price forecasting in West Africa using NASA Satellite Remote Sensing', 2009–2010) merged into one record."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "growing-season-change",
@@ -591,7 +763,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "access-agra",
@@ -638,7 +811,8 @@
         "Description taken from the July 2014 AGRA presentation entry (CV p.33)."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "maryland-carbon-mrv",
@@ -679,7 +853,8 @@
         "Maryland focus and Purdue collaboration from the 2015 AGU talk (p.32) and mentoring entry (p.55)."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "infews-africa-resilience",
@@ -719,7 +894,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "siil-geospatial-consortium",
@@ -769,7 +945,8 @@
         "Collaborators beyond Kansas State inferred from co-authors of the 2023 Frontiers paper; PI to confirm."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "senegal-lcluc",
@@ -814,7 +991,8 @@
         "Centre de Suivi Écologique from the Oct 2023 Dakar meeting entry (p.25); George Mason from co-author affiliations — PI to confirm."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "urban-expansion-health",
@@ -855,7 +1033,8 @@
         "Link to the 2026 Health & Place paper (urban spectrum, Kenya and Burkina Faso) is an editorial inference; collaborators inferred from the 2024 AGU talk co-authors (p.24). PI to confirm."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "tops-open-science-training",
@@ -895,7 +1074,8 @@
         "Geography inferred from the June 2024 NASA TOPS workshop in Algiers (p.24); PI to confirm."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "gca-food-systems",
@@ -934,7 +1114,8 @@
         "Grants section says 'Lead Author of the Food Systems Chapter'; the publications section (p.17) says 'Contributed to Chapter 2'. PI to confirm which description to use."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "nasa-harvest",
@@ -972,7 +1153,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "nasa-latency-study",
@@ -1008,7 +1190,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "usgs-climate-fact-sheets",
@@ -1049,7 +1232,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "usda-ers-gallup",
@@ -1083,7 +1267,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "applications-mission-life-cycle",
@@ -1120,7 +1305,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "chesapeake-bay-forecast",
@@ -1153,7 +1339,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "senegal-river-adaptation",
@@ -1190,7 +1377,8 @@
         "CV gives the award date (6/2007) but not an end date."
       ]
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "international-sustainable-development",
@@ -1222,7 +1410,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "coppin-state-geospatial",
@@ -1256,7 +1445,8 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   },
   {
     "id": "senegal-pra",
@@ -1293,6 +1483,7 @@
       "status": "cv-only",
       "issues": []
     },
-    "publish": true
+    "publish": true,
+    "flagship": false
   }
 ]

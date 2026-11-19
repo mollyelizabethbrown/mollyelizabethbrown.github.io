@@ -11,7 +11,7 @@
   "institution": "University of Maryland",
   "department": "Department of Geographical Sciences",
   "tagline": "Earth Observation · Climate · Food Security",
-  "statement": "",
+  "statement": "Remote sensing scientist connecting satellite observations of rainfall, vegetation and soil moisture to harvests, food prices and child health — and to the institutions that act on that evidence.",
   "summary": "Molly E. Brown's research integrates satellite observations, environmental information, socioeconomic data, and interdisciplinary analysis to understand climate-related risks to agriculture, food security, and human well-being. Her work connects Earth science with real-world applications and decision-making.",
   "biography": [
     "Molly E. Brown is a Research Professor in the Department of Geographical Sciences at the University of Maryland, College Park. Her research connects satellite observations of the land surface with the economic and social processes that determine whether people have enough to eat — from vegetation dynamics and rainfall across semi-arid Africa to local grain prices, child nutrition and the decisions of humanitarian and agricultural organizations.",
@@ -52,6 +52,10 @@
       "cvPages": [
         2,
         13
+      ],
+      "dois": [
+        "10.1080/01431160500168686",
+        "10.1109/TGRS.2005.860205"
       ]
     },
     {
@@ -61,6 +65,13 @@
         1,
         2,
         14
+      ],
+      "dois": [
+        "10.1117/1.JRS.6.063511",
+        "10.1111/j.1749-8198.2009.00244.x"
+      ],
+      "projects": [
+        "fews-net-earth-science"
       ]
     },
     {
@@ -71,6 +82,10 @@
         10,
         13,
         14
+      ],
+      "dois": [
+        "10.1007/s10584-006-9096-4",
+        "10.1016/j.gloenvcha.2015.08.003"
       ]
     },
     {
@@ -80,6 +95,14 @@
         2,
         48,
         52
+      ],
+      "dois": [
+        "10.3390/rs11040406",
+        "10.1016/j.rsase.2022.100874"
+      ],
+      "projects": [
+        "smap-applications",
+        "icesat-2-applications"
       ]
     },
     {
@@ -90,6 +113,13 @@
         5,
         6,
         9
+      ],
+      "dois": [
+        "10.1073/pnas.1905228116",
+        "10.1016/S2542-5196(21)00197-2"
+      ],
+      "projects": [
+        "meriam"
       ]
     },
     {
@@ -99,6 +129,9 @@
         2,
         8,
         57
+      ],
+      "dois": [
+        "10.7930/J0862DC7"
       ]
     }
   ],
@@ -106,7 +139,8 @@
     "status": "needs-review",
     "issues": [
       "Contributions list is an editorial synthesis (CV pages noted per item) — PI to approve.",
-      "Biography and approach are editorial syntheses of CV facts written for the site; every factual clause traces to CV pp.1–2, 14, 48–49, 57 — PI should approve the wording."
+      "Biography and approach are editorial syntheses of CV facts written for the site; every factual clause traces to CV pp.1–2, 14, 48–49, 57 — PI should approve the wording.",
+      "statement and bioShort (2026-11-19): editorial syntheses of CV pp.1–2, 14, 57 — PI to approve wording."
     ]
   },
   "education": [
@@ -143,7 +177,8 @@
       "featured": true,
       "category": "academic",
       "summary": "Global change and sustainable development research using socioeconomic and biophysical datasets; international research on agriculture, food security and the impacts of climate change.",
-      "cvPage": 1
+      "cvPage": 1,
+      "short": "University of Maryland"
     },
     {
       "id": "6th-grain-cso",
@@ -161,7 +196,8 @@
         "issues": [
           "CV lists as current (2/15 – present). Confirm the appointment is still current and that the company name/website should be linked."
         ]
-      }
+      },
+      "short": "6th Grain Corporation"
     },
     {
       "id": "greenwich-professor",
@@ -173,7 +209,8 @@
       "featured": false,
       "category": "academic",
       "summary": "Engaged with the Food and Nutrition Security Initiative (FaNSI) to bring satellite remote sensing and environmental variables into research on food and nutrition security.",
-      "cvPage": 1
+      "cvPage": 1,
+      "short": "University of Greenwich"
     },
     {
       "id": "nasa-gsfc-civil-servant",
@@ -185,7 +222,8 @@
       "featured": true,
       "category": "nasa",
       "summary": "Vegetation index specialist for long-term vegetation data records; research on how organizations use remote sensing in decisions; liaison to USAID FEWS NET; lead author of the USDA National Climate Assessment technical report on food security; lead of pre-launch applications programs for SMAP and ICESat-2.",
-      "cvPage": 1
+      "cvPage": 1,
+      "short": "NASA Goddard Space Flight Center"
     },
     {
       "id": "ssai-senior-scientist",
@@ -197,7 +235,8 @@
       "featured": true,
       "category": "nasa",
       "summary": "Evaluation of integrated remotely sensed variables for climate and environmental change studies in semi-arid regions; principal investigator of a project ensuring FEWS NET's access to and use of real-time and projected vegetation and rainfall data for Africa, Central America, Afghanistan and Haiti; advisor to NASA's International Sustainable Development initiative.",
-      "cvPage": 2
+      "cvPage": 2,
+      "short": "SSAI at NASA Goddard"
     },
     {
       "id": "umd-faculty-research-assistant",
@@ -215,7 +254,8 @@
         "issues": [
           "CV expands GIMMS as 'Global Mapping and Modeling Systems'; the group's usual name is 'Global Inventory Modeling and Mapping Studies'. Site uses the usual name — PI to confirm."
         ]
-      }
+      },
+      "short": "University of Maryland"
     },
     {
       "id": "seneci",
@@ -227,7 +267,8 @@
       "featured": false,
       "category": "early",
       "summary": "Conceived and implemented Wolof-language professional development programs for a small American consulting firm.",
-      "cvPage": 2
+      "cvPage": 2,
+      "short": "SENECI, Dakar"
     },
     {
       "id": "peace-corps",
@@ -239,7 +280,8 @@
       "featured": false,
       "category": "early",
       "summary": "Developed an outdoor environmental education program for elementary schools that was adopted by volunteers across Peace Corps programs in Africa and Latin America.",
-      "cvPage": 2
+      "cvPage": 2,
+      "short": "US Peace Corps, Senegal"
     }
   ],
   "teaching": [
@@ -591,14 +633,15 @@
   },
   "photo": {
     "file": "/images/portrait/molly-brown.jpg",
-    "alt": "Portrait of Molly E. Brown outdoors in a grassland under a blue sky",
-    "width": 853,
-    "height": 891,
-    "source": "University of Maryland Department of Geographical Sciences faculty profile (geog.umd.edu/facultyprofile/brown/molly), downloaded 2026-11-19; EXIF metadata removed",
-    "status": "interim — to be replaced by the LinkedIn profile photo (LinkedIn blocks automated download); PI to approve"
+    "alt": "Portrait of Molly E. Brown",
+    "width": 388,
+    "height": 388,
+    "source": "Professional portrait from her LinkedIn profile, supplied by Walid Ouaret on 2026-11-19; metadata removed",
+    "status": "supplied — PI to confirm"
   },
   "cvDownload": {
     "file": null,
     "status": "withheld — the source CV contains a private home address and phone number. Publish only a redacted, PI-approved PDF (upload via CMS → Site settings → CV file)."
-  }
+  },
+  "bioShort": "Molly E. Brown is a Research Professor in the Department of Geographical Sciences at the University of Maryland. A remote sensing scientist, she spent thirteen years at NASA's Goddard Space Flight Center, where she worked with USAID's Famine Early Warning Systems Network and led the pre-launch applications programs for the SMAP and ICESat-2 missions. Her research links satellite observations to food production, food prices and child nutrition. She is the author of two books and was lead author of the USDA assessment Climate Change, Global Food Security, and the U.S. Food System."
 }

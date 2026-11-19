@@ -21,7 +21,7 @@ export function SectionHeading({
   index, kicker, title, href, linkLabel, id,
 }: { index?: string; kicker: string; title: string; href?: string; linkLabel?: string; id?: string }) {
   return (
-    <div className="mb-10 flex flex-col gap-4 md:flex-row md:items-end md:justify-between lg:mb-14" data-reveal>
+    <div className="mb-10 flex flex-col gap-4 md:flex-row md:items-end md:justify-between lg:mb-14">
       <div>
         <p className="kicker flex items-center gap-3">
           {index && <span className="font-serif text-base tracking-normal normal-case">{index}</span>}

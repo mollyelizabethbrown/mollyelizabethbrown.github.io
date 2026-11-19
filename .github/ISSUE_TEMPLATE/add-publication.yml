@@ -1,0 +1,38 @@
+name: Add a publication
+description: Add a published paper, chapter or report to the website from its DOI.
+title: "Add publication: "
+labels: ["content: publication"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Paste the DOI and press **Submit new issue**. The website fetches the title, authors, journal and year from Crossref, checks them, adds the publication and republishes the site (about 3 minutes). You will get a comment here when it is done.
+  - type: input
+    id: doi
+    attributes:
+      label: DOI
+      description: For example 10.1073/pnas.1905228116 (a full https://doi.org/… link also works).
+      placeholder: 10.xxxx/xxxxx
+    validations:
+      required: true
+  - type: checkboxes
+    id: themes
+    attributes:
+      label: Research themes
+      description: Tick one to three. The first ticked is the main theme.
+      options:
+        - label: Earth Observation and Environmental Change
+        - label: Agriculture and Food Security
+        - label: Climate Risk and Human Well-being
+        - label: Earth Science Applications and Decision Support
+        - label: Sustainable Development and Resilient Food Systems
+  - type: dropdown
+    id: selected
+    attributes:
+      label: Include in "Selected publications"?
+      options:
+        - "No"
+        - "Yes"
+      default: 0
+    validations:
+      required: true

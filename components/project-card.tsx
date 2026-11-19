@@ -4,7 +4,7 @@ import type { Project, Theme } from "@/lib/types";
 
 export function ProjectCard({ project, themes }: { project: Project; themes: Record<string, Theme> }) {
   return (
-    <article className="group relative flex h-full flex-col border-t border-pine/80 pt-6" data-reveal>
+    <article className="group relative flex h-full flex-col border-t border-pine/80 pt-6">
       <div className="flex items-center justify-between gap-4 text-xs">
         <span className="font-medium tracking-wide text-muted">{yearRange(project.periodStart, project.periodEnd)}</span>
         <span

@@ -108,22 +108,8 @@
   @media (min-width: 1024px) { .container-site { padding-inline: 3rem; } }
 }
 
-/* Reveal-on-scroll; disabled entirely for reduced motion */
-@media (prefers-reduced-motion: no-preference) {
-  [data-reveal] {
-    opacity: 0; transform: translateY(14px);
-    transition: opacity 0.8s var(--ease-editorial), transform 0.8s var(--ease-editorial);
-    /* Failsafe: if the script never runs, content still appears. */
-    animation: reveal-failsafe 0.6s var(--ease-editorial) 2.5s forwards;
-  }
-  [data-reveal].is-visible { opacity: 1; transform: none; animation: none; }
-  @keyframes reveal-failsafe { to { opacity: 1; transform: none; } }
-  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: 0.28s; }
-}
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
 
-/* No-JS: never hide content */
-.no-js [data-reveal] { opacity: 1; transform: none; }

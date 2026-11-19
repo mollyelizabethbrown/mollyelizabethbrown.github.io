@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { PortableText } from "@portabletext/react";
 import { PublicationCitation } from "@/components/publication";
 import { Figure, JsonLd } from "@/components/ui";
 import { getNews, getProjects, getPublicationsByDois } from "@/lib/content";
@@ -54,9 +53,10 @@ export default async function NewsPostPage({ params }: Props) {
         <div className="container-site max-w-5xl"><Figure media={post.image} sizes="(min-width:1024px) 64rem, 100vw" priority /></div>
       )}
       <div className="container-site prose-editorial max-w-3xl py-14">
-        {Array.isArray(post.body) && typeof post.body[0] === "string"
-          ? (post.body as string[]).map((p) => <p key={p.slice(0, 30)}>{p}</p>)
-          : <PortableText value={post.body as never} />}
+        {post.body.map((p) => <p key={p.slice(0, 30)}>{p}</p>)}
+        {post.link && (
+          <p><a href={post.link.url} rel="noopener">{post.link.label} ↗</a></p>
+        )}
       </div>
       {(pubs.length > 0 || related.length > 0) && (
         <aside className="border-t border-stone bg-paper-2 py-14">

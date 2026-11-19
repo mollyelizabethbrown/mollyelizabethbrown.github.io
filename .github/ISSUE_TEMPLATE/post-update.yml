@@ -1,0 +1,66 @@
+name: Post news, a talk or media coverage
+description: Publish an item on the News page (new paper, talk, project update, award, media coverage).
+title: "News: "
+labels: ["content: news"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the fields and press **Submit new issue**. The item is checked, added to the News page and the site is republished (about 3 minutes). You will get a comment here when it is done. The News page appears in the site menu once it has at least one item.
+  - type: input
+    id: title
+    attributes:
+      label: Headline
+      placeholder: "Invited talk at the AGU Fall Meeting on anticipatory action"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: YYYY-MM-DD
+      placeholder: "2026-12-15"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Type
+      options:
+        - New publication
+        - Research update
+        - Conference
+        - Invited lecture
+        - Perspective
+        - Project announcement
+        - Award
+        - Media coverage
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: One or two sentences shown on the News page and in search results (max 320 characters).
+    validations:
+      required: true
+  - type: textarea
+    id: body
+    attributes:
+      label: Full text (optional)
+      description: Leave a blank line between paragraphs.
+  - type: input
+    id: link_url
+    attributes:
+      label: Link (optional)
+      description: e.g. the conference programme, the article, the press coverage. Must start with https://
+  - type: input
+    id: link_label
+    attributes:
+      label: Link text (optional)
+      placeholder: "Read the article"
+  - type: input
+    id: dois
+    attributes:
+      label: Related publication DOIs (optional)
+      description: Separate several DOIs with commas. They must already be on the website.

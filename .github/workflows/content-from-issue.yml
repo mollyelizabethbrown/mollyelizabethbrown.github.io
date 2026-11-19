@@ -1,0 +1,93 @@
+# No-code content updates: the "Add a publication" and "Post news…" issue forms.
+# When an owner, organization member or collaborator opens (or reopens) such an issue, this workflow
+# imports/validates the content, commits it to main, comments on the issue, closes it and deploys.
+# Issues from anyone else are ignored.
+name: Content from issue form
+
+on:
+  issues:
+    types: [opened, reopened]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: content-updates
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: >-
+      (contains(github.event.issue.labels.*.name, 'content: publication') ||
+       contains(github.event.issue.labels.*.name, 'content: news') ||
+       startsWith(github.event.issue.title, 'Add publication:') ||
+       startsWith(github.event.issue.title, 'News:')) &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.apply.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Apply the form
+        id: apply
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_LABELS: ${{ toJSON(github.event.issue.labels.*.name) }}
+          RESULT_FILE: ${{ runner.temp }}/result.md
+        run: node content/scripts/content-from-issue.mjs
+
+      - name: Validate
+        if: steps.apply.outputs.changed == 'true'
+        id: validate
+        run: npm run check:content
+
+      - name: Commit
+        if: steps.apply.outputs.changed == 'true'
+        env:
+          SUMMARY: ${{ steps.apply.outputs.summary }}
+          NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/data
+          git commit -m "$SUMMARY (#$NUMBER)"
+          git push origin HEAD:main
+
+      - name: Reply on the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          CHANGED: ${{ steps.apply.outputs.changed }}
+          VALIDATED: ${{ steps.validate.outcome }}
+          RESULT_FILE: ${{ runner.temp }}/result.md
+        run: |
+          if [ "$CHANGED" = "true" ] && [ "$VALIDATED" != "success" ]; then
+            printf '⚠️ **Nothing was published.** The automatic checks failed — the site maintainer has been notified through the failed workflow run.\n' > "$RESULT_FILE"
+          fi
+          [ -f "$RESULT_FILE" ] || printf '⚠️ Something went wrong before the form could be read. See the workflow run for details.\n' > "$RESULT_FILE"
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body-file "$RESULT_FILE"
+          if [ "$CHANGED" = "true" ] && [ "$VALIDATED" = "success" ]; then
+            gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"
+          fi
+
+  deploy:
+    needs: apply
+    if: needs.apply.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

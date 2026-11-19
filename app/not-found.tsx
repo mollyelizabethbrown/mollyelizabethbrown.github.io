@@ -2,13 +2,13 @@ import "./globals.css";
 import Link from "next/link";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
-import { getProfile, getSettings } from "@/lib/content";
+import { getNav, getProfile, getSettings } from "@/lib/content";
 
 export default async function NotFound() {
-  const [profile, settings] = await Promise.all([getProfile(), getSettings()]);
+  const [profile, settings, nav] = await Promise.all([getProfile(), getSettings(), getNav()]);
   return (
     <>
-      <SiteHeader name={profile.name} />
+      <SiteHeader name={profile.name} items={nav} />
       <main id="main" className="container-site flex min-h-[70vh] flex-col justify-center pt-32">
         <p className="kicker">404</p>
         <h1 className="mt-4 text-headline text-pine">This page could not be found.</h1>
@@ -19,7 +19,7 @@ export default async function NotFound() {
           ))}
         </ul>
       </main>
-      <SiteFooter profile={profile} settings={settings} />
+      <SiteFooter profile={profile} settings={settings} nav={nav} />
     </>
   );
 }

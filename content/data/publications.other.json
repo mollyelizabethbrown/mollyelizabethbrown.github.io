@@ -1,5 +1,40 @@
 [
   {
+    "id": "brown-2024-using-optical-remote",
+    "type": "book-chapter",
+    "status": "published",
+    "year": 2026,
+    "title": "Using optical remote sensing and meteorological data for crop mapping, monitoring, and disease detection in smallholder systems",
+    "authors": [
+      "Brown, M.E."
+    ],
+    "authorsAsInCV": "Brown, M.E.",
+    "container": "Comprehensive Remote Sensing (2nd edition)",
+    "volume": null,
+    "issue": null,
+    "pages": "138-159",
+    "publisher": "Elsevier",
+    "editors": null,
+    "isbn": null,
+    "doi": "10.1016/b978-0-443-13220-9.00015-9",
+    "url": null,
+    "cvSection": "Book Chapters",
+    "cvPage": 14,
+    "citationAsInCV": "Brown, M.E. (2024) Using optical remote sensing and meteorological data for crop mapping, monitoring, and disease detection in smallholder systems. Comprehensive Remote Sensing, 2nd Edition. (in review April 2024)",
+    "themes": [
+      "earth-observation",
+      "food-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "issues": [
+        "audit 2026-11-19: CV listed as 'in review April 2024'; Crossref shows the chapter published by Elsevier in 2026 (pp. 138-159) — now listed"
+      ],
+      "checkedAt": "2026-11-19"
+    },
+    "publish": true
+  },
+  {
     "id": "brown-2014-food-security-food",
     "type": "book",
     "status": "published",
@@ -80,7 +115,7 @@
     "publisher": "World Scientific Publishers",
     "editors": "Rachid Serraj and Prabhu Pingali editors",
     "isbn": null,
-    "doi": null,
+    "doi": "10.1142/9789813278356_0009",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 14,
@@ -90,10 +125,11 @@
       "earth-observation"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
-        "suggested-doi: 10.1142/9789813278356_0009 — Crossref title \"Advancing to the Next Generation of Precision Agriculture\" (2018); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1142/9789813278356_0009 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -151,7 +187,7 @@
     "publisher": null,
     "editors": "editor S. Liang",
     "isbn": null,
-    "doi": null,
+    "doi": "10.1016/b978-0-12-409548-9.10437-3",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 14,
@@ -161,11 +197,13 @@
       "food-security"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
         "corrected: Peri- Urban → Peri-Urban",
-        "suggested-doi: 10.1016/b978-0-12-409548-9.10437-3 — Crossref title \"Remote Sensing Data and Methods for Identifying Urban and Peri-Urban Smallholder Agriculture in Developing Countries and in the United States\" (2018); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1016/b978-0-12-409548-9.10437-3 added — Crossref record title matches the CV title",
+        "crossref: registered year 2018 differs from CV year 2017"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -253,7 +291,7 @@
     "publisher": null,
     "editors": "edited by Prasad Thenkabail",
     "isbn": null,
-    "doi": null,
+    "doi": "10.1201/b19322-23",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 15,
@@ -263,10 +301,11 @@
       "food-security"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
-        "suggested-doi: 10.1201/b19322-23 — Crossref title \"Global Land Surface Phenology and Implications for Food Security\" (2015); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1201/b19322-23 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -288,7 +327,7 @@
     "publisher": null,
     "editors": "edited by Aondover Tarhule",
     "isbn": "980-953-307-816-3",
-    "doi": null,
+    "doi": "10.5772/56459",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 15,
@@ -298,11 +337,12 @@
       "earth-observation"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
         "ISBN '980-953-307-816-3' has invalid prefix 980- (ISBN-13 prefixes are 978/979); kept as written",
-        "suggested-doi: 10.5772/56459 — Crossref title \"The Effect of Agricultural Growing Season Change on Market Prices in Africa\" (2013); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.5772/56459 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -325,7 +365,7 @@
     "publisher": null,
     "editors": "Edited by Dr. Netra Chhetri",
     "isbn": "980-953-307-389-2",
-    "doi": null,
+    "doi": "10.5772/50607",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 15,
@@ -335,11 +375,12 @@
       "sustainable-food-systems"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
         "ISBN '980-953-307-389-2' has invalid prefix 980- (ISBN-13 prefixes are 978/979); kept as written",
-        "suggested-doi: 10.5772/50607 — Crossref title \"Communicating the Needs of Climate Change Policy Makers to Scientists\" (2012); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.5772/50607 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -415,7 +456,8 @@
       "status": "cv-only",
       "issues": [
         "likely duplicate of ceccato-2010-remote-sensing-vegetation-b (Reports section: same title/authors/year, listed as an Annex, 'Climate and Society No. 2', editor spelled 'Helmuth' there vs 'Hellmuth' here)",
-        "curation: Crossref suggestion 10.1016/s0034-4257(02)00036-6 rejected — different paper"
+        "curation: Crossref suggestion 10.1016/s0034-4257(02)00036-6 rejected — different paper",
+        "suggested-doi: 10.1016/s0034-4257(02)00036-6 — Crossref title \"Designing a spectral index to estimate vegetation water content from remote sensing data\" (2002); confirm before adding"
       ]
     },
     "publish": true
@@ -482,7 +524,7 @@
     "publisher": "Springer-Verlag",
     "editors": "edited by Pamela Showalter and Yongmai Lu",
     "isbn": null,
-    "doi": null,
+    "doi": "10.1007/978-90-481-2238-7_11",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 15,
@@ -491,10 +533,12 @@
       "food-security"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
-        "suggested-doi: 10.1007/978-90-481-2238-7_11 — Crossref title \"Early Warning of Food Security Crises in Urban Areas: The Case of Harare, Zimbabwe, 2007\" (2009); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1007/978-90-481-2238-7_11 added — Crossref record title matches the CV title",
+        "crossref: registered year 2009 differs from CV year 2010"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -515,7 +559,7 @@
     "publisher": "Springer-Verlag",
     "editors": "edited by Andrew Millington and Wendy Jepson",
     "isbn": null,
-    "doi": null,
+    "doi": "10.1007/978-0-387-78864-7_3",
     "url": null,
     "cvSection": "Book Chapters",
     "cvPage": 15,
@@ -525,10 +569,11 @@
       "food-security"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
-        "suggested-doi: 10.1007/978-0-387-78864-7_3 — Crossref title \"The Impact of Climate Change on Income Diversification and Food Security in Senegal\" (2008); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1007/978-0-387-78864-7_3 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -797,7 +842,7 @@
     "publisher": null,
     "editors": null,
     "isbn": null,
-    "doi": null,
+    "doi": "10.1117/12.799824",
     "url": null,
     "cvSection": "Conference Proceedings",
     "cvPage": 16,
@@ -807,11 +852,12 @@
       "food-security"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
         "pages field holds article number 'art. no. 71040R'",
-        "suggested-doi: 10.1117/12.799824 — Crossref title \"Recent trends in agricultural production of Africa based on AVHRR NDVI time series\" (2008); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1117/12.799824 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },
@@ -911,7 +957,7 @@
     "publisher": null,
     "editors": null,
     "isbn": null,
-    "doi": null,
+    "doi": "10.1109/igarss.2007.4422974",
     "url": null,
     "cvSection": "Conference Proceedings",
     "cvPage": 16,
@@ -920,10 +966,11 @@
       "earth-observation"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
-        "suggested-doi: 10.1109/igarss.2007.4422974 — Crossref title \"Generating a long-term land data record from the AVHRR and MODIS Instruments\" (2007); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1109/igarss.2007.4422974 added — Crossref record title matches the CV title"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },

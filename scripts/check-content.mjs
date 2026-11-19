@@ -61,7 +61,9 @@ for (const f of publicFiles) {
 }
 
 // 2. Publications
-const pubs = [...read("publications.refereed.json"), ...read("publications.other.json"), ...readPriv("publications.unlisted.json")];
+const PUB_TYPES = new Set(["journal-article", "letter-commentary", "magazine-article", "book-review", "dataset", "report", "book", "book-chapter", "conference-paper", "editorial", "patent"]);
+const PUB_STATUS = new Set(["published", "in-press", "submitted", "in-review", "pending"]);
+const pubs =[...read("publications.refereed.json"), ...read("publications.other.json"), ...readPriv("publications.unlisted.json")];
 const ids = new Set();
 for (const p of pubs) {
   if (ids.has(p.id)) errors.push(`publication id duplicated: ${p.id}`);
@@ -71,6 +73,17 @@ for (const p of pubs) {
   if (!p.verification) errors.push(`publication ${p.id}: missing verification block`);
   if (p.publish !== false && ["submitted", "in-review"].includes(p.status)) errors.push(`publication ${p.id}: unpublished manuscript is set to publish`);
   if (p.publish !== false && p.verification?.status === "conflict") warnings.push(`publication ${p.id}: DOI title conflict awaiting PI review`);
+  // Metadata validation
+  if (!/^[a-z0-9-]+$/.test(p.id)) errors.push(`publication ${p.id}: id must be lowercase letters, digits and hyphens`);
+  if (p.doi && !/^10\.\d{4,9}\/\S+$/.test(p.doi)) errors.push(`publication ${p.id}: malformed DOI "${p.doi}"`);
+  if (!Number.isInteger(p.year) || p.year < 1990 || p.year > new Date().getFullYear() + 1) errors.push(`publication ${p.id}: implausible year ${p.year}`);
+  if (!PUB_TYPES.has(p.type)) errors.push(`publication ${p.id}: unknown type ${p.type}`);
+  if (!PUB_STATUS.has(p.status)) errors.push(`publication ${p.id}: unknown status ${p.status}`);
+  if (p.url && !/^https?:\/\//.test(p.url)) errors.push(`publication ${p.id}: url must start with http(s)://`);
+  if (p.publish !== false && p.type === "journal-article" && !p.container) warnings.push(`publication ${p.id}: journal article without journal name`);
+  if (p.publish !== false && !(p.authors ?? []).some((a) => /^brown,\s*m\.?\s*e?\.?/i.test(a)) && !/et al|Commission/i.test(JSON.stringify(p.verification?.issues ?? []))) {
+    warnings.push(`publication ${p.id}: Dr. Brown not found in author list`);
+  }
 }
 const liveDois = new Set(pubs.filter((p) => p.publish !== false && p.doi && p.verification?.status !== "doi-unresolved").map((p) => norm(p.doi)));
 const dupDois = pubs.filter((p) => p.doi && p.publish !== false).map((p) => norm(p.doi)).filter((d, i, a) => a.indexOf(d) !== i);
@@ -116,6 +129,51 @@ if (!profile.photo?.file) warnings.push("profile: no portrait yet");
 else if (!publicFile(profile.photo.file)) errors.push(`profile: portrait file missing ${profile.photo.file}`);
 else if (/interim/i.test(profile.photo.status ?? "")) warnings.push("profile: portrait is interim (UMD photo) — replace with the LinkedIn photo and confirm with Dr. Brown");
 if (!settings.cvFile) warnings.push("settings: no redacted CV uploaded yet (About page shows 'available on request')");
+else if (!publicFile(settings.cvFile)) errors.push(`settings: CV file missing ${settings.cvFile}`);
+for (const c of profile.contributions ?? []) {
+  for (const d of c.dois ?? []) if (!liveDois.has(norm(d))) errors.push(`profile contribution "${c.title}": DOI ${d} not in visible bibliography`);
+  for (const id of c.projects ?? []) if (!projectIds.has(id)) errors.push(`profile contribution "${c.title}": project ${id} missing`);
+}
+
+// 7. Flagship projects
+for (const p of projects.filter((p) => p.flagship)) {
+  if (p.imageId && !mediaIds.has(p.imageId)) errors.push(`flagship ${p.id}: image ${p.imageId} not in media.json`);
+  if (!(p.questions ?? []).length) warnings.push(`flagship ${p.id}: no research questions`);
+  for (const o of p.outcomes ?? []) if (!liveDois.has(norm(o.doi))) errors.push(`flagship ${p.id}: outcome DOI ${o.doi} not in visible bibliography`);
+}
+
+// 8. Homepage highlights
+const highlights = read("highlights.json");
+if (highlights.nasa.imageId && !mediaIds.has(highlights.nasa.imageId)) errors.push(`highlights: NASA image ${highlights.nasa.imageId} missing`);
+for (const id of highlights.nasa.projectIds) if (!projectIds.has(id)) errors.push(`highlights: NASA project ${id} missing`);
+for (const it of highlights.impact) {
+  if (!it.source) errors.push(`highlights: impact "${it.title}" has no source`);
+  for (const e of it.evidence) if (e.doi && !liveDois.has(norm(e.doi))) errors.push(`highlights: impact "${it.title}" cites ${e.doi}, not in visible bibliography`);
+}
+
+// 9. News and people
+const NEWS_CATS = new Set(["publication", "research-update", "conference", "lecture", "perspective", "project", "award", "media"]);
+const newsIds = new Set();
+for (const n of read("news.json")) {
+  if (newsIds.has(n.id)) errors.push(`news id duplicated: ${n.id}`);
+  newsIds.add(n.id);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(n.date ?? "")) errors.push(`news ${n.id}: date must be YYYY-MM-DD`);
+  if (!NEWS_CATS.has(n.category)) errors.push(`news ${n.id}: unknown category ${n.category}`);
+  if (!n.title || !n.excerpt) errors.push(`news ${n.id}: title and summary are required`);
+  if (n.link && !/^https:\/\//.test(n.link.url ?? "")) errors.push(`news ${n.id}: link must start with https://`);
+  if (n.imageId && !mediaIds.has(n.imageId)) errors.push(`news ${n.id}: image ${n.imageId} not in media.json`);
+  for (const d of n.relatedPublicationDois ?? []) if (!liveDois.has(norm(d))) errors.push(`news ${n.id}: related DOI ${d} not in visible bibliography`);
+  for (const id of n.relatedProjectIds ?? []) if (!projectIds.has(id)) errors.push(`news ${n.id}: related project ${id} missing`);
+}
+const PEOPLE_CATS = new Set(["pi", "advisee", "alumni", "mentee", "collaborator", "postdoc"]);
+const personIds = new Set();
+for (const p of read("people.json")) {
+  if (personIds.has(p.id)) errors.push(`person id duplicated: ${p.id}`);
+  personIds.add(p.id);
+  if (!PEOPLE_CATS.has(p.category)) errors.push(`person ${p.id}: unknown category ${p.category}`);
+  if (!p.name || !p.role) errors.push(`person ${p.id}: name and role are required`);
+  if (p.category !== "pi" && !p.cvPage && !p.source) errors.push(`person ${p.id}: needs a source (cvPage or source) — never list people without verification`);
+}
 
 for (const w of warnings) console.warn(`warn  ${w}`);
 for (const e of errors) console.error(`ERROR ${e}`);

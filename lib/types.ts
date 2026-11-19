@@ -97,6 +97,11 @@ export type Project = {
   publicationDois: string[];
   related?: string[];
   featured: boolean;
+  flagship?: boolean;
+  flagshipOrder?: number;
+  questions?: string[];
+  outcomes?: Finding[];
+  image?: Media | null;
 };
 
 export type Book = {
@@ -118,6 +123,7 @@ export type Appointment = {
   id: string;
   title: string;
   organization: string;
+  short?: string;
   start: string;
   end: string | null;
   current: boolean;
@@ -144,7 +150,8 @@ export type Profile = {
   biography: string[];
   approach: string[];
   chain: ChainStep[];
-  contributions: { title: string; text: string }[];
+  bioShort: string;
+  contributions: { title: string; text: string; dois?: string[]; projects?: string[] }[];
   education: Education[];
   appointments: Appointment[];
   teaching: { title: string; organization: string; period: string; detail: string | null }[];
@@ -160,8 +167,8 @@ export type Person = {
   id: string;
   name: string;
   role: string;
-  category: "pi" | "collaborator" | "postdoc" | "graduate" | "alumni";
-  affiliation: string;
+  category: "pi" | "advisee" | "alumni" | "mentee" | "collaborator" | "postdoc";
+  affiliation: string | null;
   period: string | null;
   bio?: string | null;
   photo?: { src: string; alt: string } | null;
@@ -175,7 +182,8 @@ export type NewsCategory =
   | "lecture"
   | "perspective"
   | "project"
-  | "award";
+  | "award"
+  | "media";
 
 export type NewsPost = {
   id: string;
@@ -183,7 +191,8 @@ export type NewsPost = {
   date: string;
   category: NewsCategory;
   excerpt: string;
-  body: unknown; // Portable Text (CMS) or string[] (local)
+  body: string[];
+  link: { label: string; url: string } | null;
   image: Media | null;
   relatedPublicationDois: string[];
   relatedProjectIds: string[];
@@ -202,4 +211,19 @@ export type Settings = {
   links: ExternalLink[];
   contactEmail: string | null;
   cvFileUrl: string | null;
+};
+
+export type Evidence = { label: string; doi?: string; href?: string };
+
+export type Highlights = {
+  nasa: {
+    kicker: string;
+    title: string;
+    text: string[];
+    facts: { label: string; value: string }[];
+    image: Media | null;
+    projectIds: string[];
+    evidence: string;
+  };
+  impact: { title: string; text: string; evidence: Evidence[]; source: string }[];
 };

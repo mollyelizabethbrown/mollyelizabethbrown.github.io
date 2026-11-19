@@ -8,4 +8,5 @@ export const NEWS_CATEGORY_LABEL: Record<NewsCategory, string> = {
   perspective: "Perspective",
   project: "Project announcement",
   award: "Award",
+  media: "Media coverage",
 };

@@ -13,7 +13,7 @@ export function EvidenceChain({ steps, tone = "pine" }: { steps: ChainStep[]; to
         className={`absolute left-[0.6rem] top-3 bottom-3 w-px md:left-0 md:right-0 md:top-[0.6rem] md:bottom-auto md:h-px md:w-auto ${onPine ? "bg-gold/40" : "bg-stone"}`}
       />
       {steps.map((s, i) => (
-        <li key={s.step} className="relative pl-10 md:pl-0 md:pt-10" data-reveal style={{ transitionDelay: `${i * 90}ms` }}>
+        <li key={s.step} className="relative pl-10 md:pl-0 md:pt-10">
           <span
             aria-hidden
             className={`absolute left-0 top-0 grid h-5 w-5 place-items-center rounded-full border ${onPine ? "border-gold bg-pine" : "border-gold-ink bg-paper"}`}

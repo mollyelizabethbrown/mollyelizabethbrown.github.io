@@ -24,7 +24,7 @@ export default async function BooksPage() {
           {books.map((b) => {
             const isbns = b.isbn ? Object.entries(b.isbn).filter(([, v]) => v) : [];
             return (
-              <article key={b.id} id={b.id} className="grid scroll-mt-28 gap-10 md:grid-cols-12 lg:gap-16" data-reveal>
+              <article key={b.id} id={b.id} className="grid scroll-mt-28 gap-10 md:grid-cols-12 lg:gap-16">
                 <div className="md:col-span-4 lg:col-span-3">
                   <div className="relative mx-auto aspect-[2/3] w-48 overflow-hidden bg-pine shadow-[0_30px_60px_-30px_rgba(23,45,40,0.7)] md:w-full">
                     {b.cover ? (

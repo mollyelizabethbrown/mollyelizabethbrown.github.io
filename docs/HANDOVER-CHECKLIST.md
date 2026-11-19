@@ -1,60 +1,41 @@
 # Hosting and handover checklist
 
-Hosting: **GitHub Pages**, free organization **`mollyelizabethbrown`** (owner: Walid Ouaret), repository **`mollyelizabethbrown.github.io`** → https://mollyelizabethbrown.github.io
+Hosting: **GitHub Pages**, free organization **`mollyelizabethbrown`**, public repository **`mollyelizabethbrown.github.io`** → https://mollyelizabethbrown.github.io
 
-Nothing goes public until Dr. Brown approves (search engines stay blocked until §3).
+## 1. Repository settings (once)
 
-## 1. First publication (Walid)
+- [x] Organization and repository created; first deploy live
+- [ ] **Settings → Pages → Source: GitHub Actions**
+- [ ] **Settings → Actions → General → Workflow permissions: "Read and write permissions"** (lets the issue-form workflow commit content and comment on issues)
+- [ ] **Issues → Labels → New label**: create `content: publication` and `content: news` (optional — the workflow also recognises the forms by their titles)
+- [ ] Do **not** add branch protection that blocks `github-actions[bot]` from pushing to `main` (the content workflow commits there)
+- [ ] Test: open an "Add a publication" issue with an existing DOI → you should get a ⚠️ "already on the website" reply within a minute
 
-- [ ] Create the free organization `mollyelizabethbrown` — https://github.com/account/organizations/new?plan=free
-- [ ] Create the **public** repository `mollyelizabethbrown.github.io` in that organization, **empty** (no README, no .gitignore, no licence)
-- [ ] Repository → **Settings → Pages → Build and deployment → Source: GitHub Actions**
-- [ ] Push from your own terminal (the local repository is already committed on `main`, remote set):
-  ```
-  cd D:\molly_brown_website
-  git push -u origin main
-  ```
-- [ ] Repository → **Actions** → *Deploy site* finishes green (~2 min) → open https://mollyelizabethbrown.github.io
-- [ ] Before pushing, confirm `git status --ignored` lists `content/private/` and `content/source/` as ignored
+## 2. Give Dr. Brown access
 
-## 2. Content approval (Dr. Brown)
+- [ ] Ask Dr. Brown for her GitHub username (or help her create a free account)
+- [ ] Organization → **People → Invite member** as **Owner** (or add her to the repository as a collaborator with *Write* access)
+- [ ] Send her `docs/ADMIN-HANDBOOK.md` (it is also linked from the issue-form chooser)
+- [ ] Walk through one publication form and one text edit together
 
-Send her the private report `content/private/CONTENT-VERIFICATION.md` (not in the repository) and the preview link.
+## 3. Content approval (Dr. Brown)
 
-- [ ] Open items in the report §3–6 decided
-- [ ] Approved portrait (add via the CMS, or send the file to be committed to `public/images/` and set in `content/data/profile.json` → `photo.file`)
-- [ ] Redacted CV, or decision to keep "available on request"
-- [ ] Public email confirmed · book cover use confirmed · editorial texts approved
-- [ ] Hidden manuscripts confirmed hidden
+Send the private report `content/private/CONTENT-VERIFICATION.md` (not in the repository).
 
-## 3. Launch
+- [ ] Portrait confirmed (currently her LinkedIn photo)
+- [ ] Positioning line, short and extended biography, contributions, NASA section and impact items approved
+- [ ] Flagship project questions and outcomes approved
+- [ ] People list confirmed (roles taken from her CV, pp. 54–56)
+- [ ] Public email confirmed; redacted CV supplied or "available on request" kept
 
-- [ ] Repository → Settings → Secrets and variables → Actions → **Variables** → `ALLOW_INDEXING` = `true`
-- [ ] Actions → *Deploy site* → Run workflow; check https://mollyelizabethbrown.github.io/robots.txt now says `Allow: /`
-- [ ] Optional custom domain: Settings → Pages → Custom domain, DNS records per GitHub's instructions; then change `NEXT_PUBLIC_SITE_URL` in `.github/workflows/deploy.yml`
+## 4. Launch
 
-## 4. Optional: CMS for Dr. Brown
+- [ ] **Settings → Secrets and variables → Actions → Variables** → `ALLOW_INDEXING` = `true`
+- [ ] **Actions → Deploy site → Run workflow**; check https://mollyelizabethbrown.github.io/robots.txt now allows crawling
+- [ ] Optional custom domain: Settings → Pages → Custom domain; then update `NEXT_PUBLIC_SITE_URL` in `.github/workflows/deploy.yml`
 
-See README → *Optional: the Sanity CMS*.
+## 5. Continuity
 
-- [ ] Sanity project created **from Dr. Brown's own account**; she is Administrator; you are a member (remove later if she prefers)
-- [ ] Content imported; Studio deployed at https://mollyelizabethbrown.sanity.studio
-- [ ] Repository variable `SANITY_PROJECT_ID` set; webhook to GitHub created and tested (publish a small edit → Actions run → change visible)
-- [ ] Dr. Brown can complete `ADMIN-HANDBOOK.md` §2 tasks unaided
-- [ ] Add Dr. Brown as an **owner** of the GitHub organization too, so access never depends on one person
-
-## 5. Recovery and continuity
-
-- [ ] 2FA on GitHub (and Sanity), backup codes stored offline
-- [ ] At least two owners on the GitHub organization
-- [ ] Keep a copy of `content/private/` outside the laptop (it is not in GitHub): it holds unlisted records and the audit trail
-- [ ] If using Sanity: periodic backup `npx sanity dataset export production backup.tar.gz`
-
-## Accounts summary
-
-| Service | URL | Owners | 2FA | Cost |
-|---|---|---|---|---|
-| GitHub org | https://github.com/mollyelizabethbrown | | | Free |
-| GitHub Pages | https://mollyelizabethbrown.github.io | (org) | | Free |
-| Sanity (optional) | https://www.sanity.io/manage | | | Free plan |
-| Custom domain (optional) | | | | |
+- [ ] Two-factor authentication on every owner account; backup codes stored offline
+- [ ] At least two owners of the organization (Walid and Dr. Brown)
+- [ ] Keep a copy of `content/private/` outside your laptop — it is not on GitHub

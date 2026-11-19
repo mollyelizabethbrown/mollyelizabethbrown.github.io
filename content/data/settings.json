@@ -5,21 +5,30 @@
   "home": {
     "featuredProjectIds": [
       "icesat-2-applications",
+      "smap-applications",
       "fews-net-earth-science",
       "meriam",
       "himala",
       "index-insurance-africa",
-      "siil-geospatial-consortium"
+      "carbon-monitoring-system-applications"
     ],
     "featuredPublicationDois": [
+      "10.1073/pnas.2321154122",
+      "10.1016/j.healthplace.2026.103726",
+      "10.1088/1748-9326/abd0ab",
       "10.1073/pnas.1905228116",
+      "10.1088/1748-9326/ac87bf",
+      "10.3390/rs11040406",
+      "10.1016/j.gloenvcha.2015.08.003",
+      "10.1038/nclimate1945",
+      "10.3368/le.84.2.340",
       "10.1126/science.1154102",
       "10.1073/pnas.0708196105",
-      "10.1038/nclimate1945",
-      "10.1080/01431160500168686",
-      "10.1016/j.gloenvcha.2015.08.003",
-      "10.1088/1748-9326/abd0ab",
-      "10.1073/pnas.2321154122"
+      "10.1016/j.foodpol.2017.02.004",
+      "10.7930/J0862DC7",
+      "10.1016/j.rse.2010.05.005",
+      "10.1109/TGRS.2005.860205",
+      "10.1080/01431160500168686"
     ],
     "earthToDecisionsTitle": "From orbit to outcome",
     "earthToDecisionsText": "A satellite measures reflected light; a family decides whether it can afford grain. Between the two lies a chain of evidence — environmental conditions, harvests, markets and health — that Brown's research has traced for more than two decades, and a set of institutions, from famine early warning networks to insurers and mission teams, that turn that evidence into action."

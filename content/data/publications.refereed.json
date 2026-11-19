@@ -257,7 +257,7 @@
     "type": "journal-article",
     "status": "published",
     "year": 2025,
-    "title": "Child Stunting Amid Hot and Cold Temperature Anomalies in Burkina Faso and Kenya",
+    "title": "Child Stunting and Temperature Anomalies: A Cross-Sectional Study in Burkina Faso and Kenya",
     "authors": [
       "Mansfield, T.",
       "Brown, M.E.",
@@ -278,10 +278,10 @@
       "climate-risk"
     ],
     "verification": {
-      "status": "conflict",
+      "status": "verified",
       "issues": [
-        "crossref: DOI is registered to a different title — \"Child Stunting and Temperature Anomalies: A Cross-Sectional Study in Burkina Faso and Kenya\" (similarity 0.73)",
-        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title",
+        "audit 2026-11-19: title updated to the registered title (CV title was “Child Stunting Amid Hot and Cold Temperature Anomalies in Burkina Faso and Kenya”)"
       ],
       "checkedAt": "2026-11-19"
     },
@@ -655,7 +655,7 @@
     "type": "journal-article",
     "status": "published",
     "year": 2023,
-    "title": "Investigating the Relationship Between Seasonal Agricultural Variability and Childbearing Goals",
+    "title": "Investigating the relationship between growing season quality and childbearing goals",
     "authors": [
       "Brooks, N.",
       "Grace, K.L.",
@@ -679,10 +679,10 @@
       "food-security"
     ],
     "verification": {
-      "status": "conflict",
+      "status": "verified",
       "issues": [
-        "crossref: DOI is registered to a different title — \"Investigating the relationship between growing season quality and childbearing goals\" (similarity 0.70)",
-        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title",
+        "audit 2026-11-19: title updated to the registered title (CV title was “Investigating the Relationship Between Seasonal Agricultural Variability and Childbearing Goals”)"
       ],
       "checkedAt": "2026-11-19"
     },
@@ -812,7 +812,7 @@
     "type": "journal-article",
     "status": "published",
     "year": 2022,
-    "title": "Literature Review shows that Engagement of Stakeholders Accelerates Applications of ICESat-2 data when compared to ICESat",
+    "title": "Review of ICESat and ICESat-2 literature to enhance applications discovery",
     "authors": [
       "Brown, M.E.",
       "Delgado Arias, S.",
@@ -833,12 +833,12 @@
       "applications"
     ],
     "verification": {
-      "status": "conflict",
+      "status": "verified",
       "issues": [
         "no volume/pages given",
-        "crossref: DOI is registered to a different title — \"Review of ICESat and ICESat-2 literature to enhance applications discovery\" (similarity 0.57)",
-        "crossref: registered year 2023 differs from CV year 2022",
-        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title",
+        "audit 2026-11-19: title updated to the registered title (CV title was “Literature Review shows that Engagement of Stakeholders Accelerates Applications of ICESat-2 data when compared to ICESat”)",
+        "crossref: registered year 2023 differs from CV year 2022"
       ],
       "checkedAt": "2026-11-19"
     },
@@ -3179,7 +3179,7 @@
     "type": "magazine-article",
     "status": "published",
     "year": 2012,
-    "title": "Developing Earth Science Data and Models for Evaluating Climate Policy Outcomes",
+    "title": "Understanding climate policy data needs",
     "authors": [
       "Brown, M.E.",
       "Macauley, M.K."
@@ -3199,11 +3199,11 @@
       "applications"
     ],
     "verification": {
-      "status": "conflict",
+      "status": "verified",
       "issues": [
         "EOS Transactions AGU item (meeting report/news format), likely not a refereed paper; typed magazine-article",
-        "crossref: DOI is registered to a different title — \"Understanding climate policy data needs\" (similarity 0.60)",
-        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title"
+        "curation: same paper per DOI/authors/venue; title appears to have changed at publication — PI to adopt the registered title",
+        "audit 2026-11-19: title updated to the registered title (CV title was “Developing Earth Science Data and Models for Evaluating Climate Policy Outcomes”)"
       ],
       "checkedAt": "2026-11-19"
     },
@@ -3439,7 +3439,7 @@
     "issue": null,
     "pages": "52-63",
     "publisher": null,
-    "doi": null,
+    "doi": "10.1002/ajpa.21627",
     "url": null,
     "cvSection": "Refereed Papers",
     "cvPage": 11,
@@ -3448,12 +3448,14 @@
       "earth-observation"
     ],
     "verification": {
-      "status": "cv-only",
+      "status": "verified",
       "issues": [
         "no DOI given",
         "volume 147 sits oddly with CV year 2010",
-        "suggested-doi: 10.1002/ajpa.21627 — Crossref title \"From parasite encounter to infection: Multiple‐scale drivers of parasite richness in a wild social primate population\" (2011); confirm before adding"
-      ]
+        "audit 2026-11-19: DOI 10.1002/ajpa.21627 added — Crossref record title matches the CV title",
+        "crossref: registered year 2011 differs from CV year 2010"
+      ],
+      "checkedAt": "2026-11-19"
     },
     "publish": true
   },

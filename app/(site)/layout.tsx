@@ -1,11 +1,10 @@
 import "../globals.css";
-import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
-import { RevealObserver } from "@/components/reveal";
-import { getProfile, getSettings } from "@/lib/content";
+import { SiteHeader } from "@/components/site-header";
+import { getNav, getProfile, getSettings } from "@/lib/content";
 
 export default async function SiteLayout({ children }: { children: React.ReactNode }) {
-  const [profile, settings] = await Promise.all([getProfile(), getSettings()]);
+  const [profile, settings, nav] = await Promise.all([getProfile(), getSettings(), getNav()]);
   return (
     <>
       <a
@@ -14,12 +13,11 @@ export default async function SiteLayout({ children }: { children: React.ReactNo
       >
         Skip to content
       </a>
-      <SiteHeader name={profile.name} />
+      <SiteHeader name={profile.name} items={nav} />
       <main id="main" tabIndex={-1} className="outline-none">
         {children}
       </main>
-      <SiteFooter profile={profile} settings={settings} />
-      <RevealObserver />
+      <SiteFooter profile={profile} settings={settings} nav={nav} />
     </>
   );
 }

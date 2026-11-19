@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { NAV } from "@/lib/site";
+import type { NavItem } from "@/components/site-header";
 import type { Profile, Settings } from "@/lib/types";
 
-export function SiteFooter({ profile, settings }: { profile: Profile; settings: Settings }) {
+export function SiteFooter({ profile, settings, nav }: { profile: Profile; settings: Settings; nav: NavItem[] }) {
   const year = new Date().getFullYear();
   return (
     <footer className="on-pine bg-pine text-paper">
@@ -18,7 +18,7 @@ export function SiteFooter({ profile, settings }: { profile: Profile; settings: 
         <nav aria-label="Footer" className="md:col-span-3">
           <p className="kicker mb-4">Explore</p>
           <ul className="grid grid-cols-2 gap-x-6 gap-y-2 text-sm md:grid-cols-1">
-            {NAV.map((n) => (
+            {nav.map((n) => (
               <li key={n.href}>
                 <Link href={n.href} className="link-underline text-mist hover:text-paper">
                   {n.label}
@@ -51,7 +51,7 @@ export function SiteFooter({ profile, settings }: { profile: Profile; settings: 
       <div className="container-site flex flex-col gap-2 border-t border-mist/15 py-6 text-xs text-mist sm:flex-row sm:justify-between">
         <p>© {year} {profile.name}. Satellite imagery courtesy of the credited agencies.</p>
         <p>
-          <Link href="/image-credits" className="link-underline">Image credits</Link>
+          <Link href="/image-credits/" className="link-underline">Image credits</Link>
         </p>
       </div>
     </footer>

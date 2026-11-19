@@ -1,129 +1,80 @@
-# Managing your website — a handbook
+# Updating your website — a handbook
 
-*For Dr. Molly E. Brown. No coding is needed for anything in this guide.*
+*For Dr. Molly E. Brown. Nothing in this guide requires writing code.*
 
-Your website has two parts:
+- **Website:** https://mollyelizabethbrown.github.io
+- **Where the content lives:** the GitHub repository https://github.com/mollyelizabethbrown/mollyelizabethbrown.github.io
+- **What you need:** a free GitHub account that has been added to the repository (ask Walid once).
 
-- **The website** that visitors see: **https://mollyelizabethbrown.github.io**
-- **The Studio**, a private editing dashboard: **https://mollyelizabethbrown.sanity.studio**. Everything on the site — biography, projects, publications, news, images, links, the homepage selection — is edited there.
-
-Changes you **Publish** in the Studio appear on the website about **two minutes** later (the site is rebuilt automatically each time).
+Every change goes through the same safety net: the site is rebuilt, the content and every internal link are checked, and only then is the new version published (about 3 minutes). If a check fails, nothing changes on the website and the previous version stays online.
 
 ---
 
-## 1. Logging in
+## 1. Add a new publication (2 minutes)
 
-1. Go to https://mollyelizabethbrown.sanity.studio.
-2. Sign in with the Google account, GitHub account or email you used to create your Sanity account.
-3. The left-hand menu lists everything you can edit:
+1. Open https://github.com/mollyelizabethbrown/mollyelizabethbrown.github.io/issues/new/choose
+2. Choose **Add a publication**.
+3. Paste the **DOI** (for example `10.1073/pnas.1905228116`).
+4. Tick one to three **research themes** (the first ticked is the main one).
+5. Choose whether it should appear under **Selected publications**.
+6. Press **Submit new issue**.
 
-| Menu item | What it controls |
+Within a minute a comment appears on the issue:
+
+- ✅ **Added** — with the full citation as it will appear, and a link to its page. The issue closes itself and the site updates about two minutes later.
+- ⚠️ **Nothing was changed** — with the reason (a typo in the DOI, a paper already on the site, or a DOI whose author list does not include you). Click **Edit** on the issue, correct it, then **Close issue** and **Reopen issue** to try again.
+
+The title, authors, journal, volume, pages and year come directly from Crossref, the DOI registry, so they match the publisher's record.
+
+## 2. Post news, a talk or media coverage
+
+1. Open https://github.com/mollyelizabethbrown/mollyelizabethbrown.github.io/issues/new/choose
+2. Choose **Post news, a talk or media coverage**.
+3. Fill in the headline, date (`YYYY-MM-DD`), type (new publication, research update, conference, invited lecture, perspective, project announcement, award or media coverage), a one- or two-sentence summary, and optionally the full text, a link and the DOIs of related papers.
+4. Press **Submit new issue**. You will get the same ✅ / ⚠️ reply.
+
+The **News** page appears in the site's menu automatically once the first item is published.
+
+## 3. Edit text that is already on the site
+
+Short corrections — a sentence in the biography, a project description, an award — are made directly in the content files on GitHub. You do not need to understand the rest of the code.
+
+1. Open the file in the repository (see the table), then click the **pencil icon** ("Edit this file").
+2. Change only the text **between the quotation marks**. Keep the quotation marks, commas and brackets exactly as they are.
+3. Scroll down, write a short description (e.g. "Update biography"), and press **Commit changes**.
+
+| To change… | Open this file |
 |---|---|
-| **Profile & biography** | Your name, title, homepage headline, biography, scientific approach, career, education, service, mailing address, portrait |
-| **Site settings & homepage** | Hero image, featured projects and publications, scholarly links, public email, downloadable CV |
-| **News & perspectives** | Posts on the News page |
-| **Publications** | The bibliography |
-| **Projects** | The Projects collection |
-| **Research themes** | The five Research pages |
-| **Books**, **People**, **Awards** | Those pages and sections |
+| Biography, short biography, positioning line, contributions, appointments, awards, service | `content/data/profile.json` |
+| Homepage NASA section and "Scientific impact" items | `content/data/highlights.json` |
+| Projects (descriptions, status, research questions, outcomes) | `content/data/projects.json` |
+| Research theme pages | `content/data/themes.json` |
+| Students, alumni and mentees | `content/data/people.json` |
+| Selected publications, featured projects, links, public email | `content/data/settings.json` |
+| A publication's details | `content/data/publications.refereed.json` (articles) or `publications.other.json` (books, chapters, reports) |
 
-> **Tip.** Every document has a **Publish** button at the bottom right. Until you press it, your edits are a *draft* that only you can see.
+If a quotation mark or comma is accidentally removed, the automatic check catches it and the website simply is not updated; GitHub shows a red ✗ next to your change under **Actions**. Undo it with the **History** button on the file, or ask Walid.
 
----
+**Mark a project as finished:** in `projects.json`, change `"status": "active"` to `"status": "completed"` and set `"periodEnd"` to the final year.
 
-## 2. Everyday tasks
+**Add a student:** copy an existing entry in `people.json`, change the name, role and affiliation, and set `"category"` to `"advisee"` (current doctoral student), `"alumni"` or `"mentee"`. Every entry needs a `"source"` (for example `"source": "confirmed by MEB, 2027-01"`); please list people only with their agreement.
 
-### Add a new publication (2 minutes)
+## 4. Images
 
-1. **Publications → ✚ (Create new)**.
-2. Paste the DOI (for example `10.1073/pnas.1905228116`) into the **DOI** field and press **Fill from DOI**. Title, authors, journal, year, volume, issue and pages are filled from Crossref.
-3. Check the result. Authors should read `Family, Initials.` — for example `Brown, M.E.` (your name is bolded automatically wherever it appears).
-4. Under **Web address (slug)** press **Generate**.
-5. Open the **Themes & extras** tab and add one to three **Research themes** (the first is the main one). This is what makes the paper appear on the right Research page.
-6. Optional: tick **Selected publication** to include it in the "Selected publications only" filter.
-7. Press **Publish**.
+Images live in `public/images/`. To replace your portrait, upload a new square photo named `molly-brown.jpg` into `public/images/portrait/` (**Add file → Upload files**), replacing the old one.
 
-No DOI (a report or chapter)? Fill the fields by hand and add a **Web link** instead.
+Satellite images come from NASA and always carry their credit line under the image; the full list of sources is at https://mollyelizabethbrown.github.io/image-credits/. When adding new images, use only imagery you have the right to use (NASA imagery is generally free to use with credit), and record its credit in `content/data/media.json`.
 
-**Unpublished manuscripts:** set **Status** to *Submitted* or *In review* and switch on **Hide from website** (Verification tab) unless you want it listed.
+## 5. Your CV
 
-### Feature something on the homepage
+To offer a downloadable CV, upload a PDF **without your home address or personal phone number** to `public/cv/` and set `"cvFile": "/cv/<file name>.pdf"` in `settings.json`. Until then the site says "Curriculum vitae available on request."
 
-**Site settings & homepage → Homepage tab.**
+## 6. Undoing a change
 
-- **Featured projects** — choose 3 to 6. Drag to reorder.
-- **Selected publications** — up to 12. They are shown newest first.
-- **Homepage hero image** — the large image at the top (see §3 on credits).
+Every change is recorded. In the repository, open the file → **History** → choose the earlier version. Ask Walid if you would like a change rolled back.
 
-### Post news (a new paper, a lecture, an award)
+## 7. Things to avoid
 
-1. **News & perspectives → ✚**.
-2. Title, **Generate** slug, date, category, a one- or two-sentence **Summary**.
-3. Write the post in **Body**. Use the toolbar for headings, bold, links and quotes.
-4. Optional: add an image (with its credit), **Related publications** and **Related projects** — they are listed under the post.
-5. **Publish**.
-
-### Add or update a project
-
-**Projects → ✚** (or open an existing one). Required: title, abstract, start year, status, funding institution, your role. Under **Links**, connect the research themes and the publications the project produced — the project then appears on those theme pages and on each publication's page.
-
-When a project ends, change **Status** to *Completed* and fill the **End year**.
-
-### Update your biography or career
-
-**Profile & biography.** Each paragraph of the biography is its own box. To add a new appointment, open the **Career** tab → **Appointments → Add item**. Tick **current** for positions you still hold.
-
-### Replace your CV
-
-**Site settings & homepage → Site tab → CV file → Upload.**
-
-> ⚠️ **Only upload a version without your home address and personal phone number.** The original CV file contains both.
-
-Until a CV is uploaded the About page says "A full curriculum vitae is available on request."
-
-### Add your portrait
-
-**Profile & biography → Identity tab → Portrait → Upload**, then drag the circle on the image (the *hotspot*) onto your face so crops stay centred. Fill in the alternative text.
-
-### Add a student or collaborator
-
-**People → ✚**. Choose the category (graduate researcher, postdoc, collaborator, alumni). New people are **not listed** until you switch on **Show on website** — please ask them first.
-
-### Change scholarly links or the public email
-
-**Site settings & homepage → Site tab → Scholarly & institutional links** (ORCID, Google Scholar, UMD…) and **Public email address**.
-
----
-
-## 3. Images and credits
-
-Every image field asks for a **Credit line**, and the site prints it under the image. Please keep it exactly as the source requests.
-
-- **NASA imagery** (Earth Observatory, Visible Earth, SVS) is generally not copyrighted and may be used with credit, e.g. *"NASA Earth Observatory image by Lauren Dauphin, using Landsat data from the U.S. Geological Survey."*
-- Your own figures: credit the paper, e.g. *"Figure 2 from Cooper et al. (2019), PNAS."* — check the journal's licence first.
-- Avoid stock photography and images marked "non-commercial" or "no derivatives" unless you have permission.
-
-Images are resized automatically; upload the largest version you have (JPEG or PNG).
-
----
-
-## 4. Drafts and publishing
-
-Everything you type is saved automatically as a **draft** that only Studio users can see. Nothing changes on the website until you press **Publish**; about two minutes later the site has been rebuilt with your change. If it hasn't appeared after five minutes, refresh the page in your browser (your browser may be showing a saved copy).
-
-## 5. Undoing a mistake
-
-Every document keeps a full history. Open the document → the **clock icon** (top right) → choose an earlier version → **Restore**. Deleted documents can also be restored from history for a period that depends on your Sanity plan.
-
-## 6. Things to avoid
-
-- **Don't change the "Web address (slug)" of something already published** — links people have saved would break.
-- **Don't change the "Theme key"** of the five research themes.
-- **Never enter a home address or personal phone number** anywhere.
-- Don't delete the *Profile* or *Site settings* documents (the Studio prevents it).
-
-## 7. Who to ask
-
-- **Studio or content questions** — Sanity's help centre: https://www.sanity.io/docs
-- **Website hosting** — GitHub Pages, repository https://github.com/mollyelizabethbrown/mollyelizabethbrown.github.io (the **Actions** tab shows each rebuild; a red ✗ means a rebuild failed and the previous version is still online).
-- **Something looks broken** — Walid Ouaret, or any web developer familiar with Next.js; the code and its documentation are in the repository.
+- Don't rename the `"id"` of something already published — saved links would break.
+- Never enter a home address or personal phone number anywhere.
+- Don't list a student or collaborator without their agreement.

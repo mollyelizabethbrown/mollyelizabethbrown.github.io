@@ -1,6 +1,6 @@
 # Design system
 
-An editorial–scientific identity: restrained, typographic, generous with space; satellite imagery used as documentary illustration, always credited.
+An editorial–scientific identity: restrained, typographic, generous with space; satellite imagery used as documentary illustration, always credited. The homepage opens on a light editorial hero (name, appointment, positioning line, portrait), followed by a full-width satellite image band.
 
 ## Colour
 
@@ -37,11 +37,12 @@ Gold `#B48D59` on paper is 2.8:1, so it is never used for text there; `gold-ink`
 
 | Component | File | Notes |
 |---|---|---|
-| Header | `components/site-header.tsx` | Transparent over the home hero, solid paper with blur on scroll; full-screen pine menu on mobile (Esc closes, scroll locked) |
+| Header | `components/site-header.tsx` | Solid paper bar; navigation list supplied by the layout (News appears only when it has posts); full-screen pine menu on mobile (Esc closes, scroll locked) |
 | Footer | `components/site-footer.tsx` | Pine; affiliation, verified scholarly links, image-credits link |
 | Page header | `components/ui.tsx#PageHeader` | Kicker, h1, lede |
 | Section heading | `components/ui.tsx#SectionHeading` | Index, kicker, h2, "view all" link |
 | Figure | `components/ui.tsx#Figure` | Image + mandatory credit |
+| Evidence references | `components/evidence.tsx` | "Author et al. (year), Journal" links from DOIs to publication pages — used wherever a claim is made |
 | Evidence chain | `components/evidence-chain.tsx` | 5-step "orbit to outcome" ordered list; vertical on mobile, horizontal on md+ |
 | Project card | `components/project-card.tsx` | Period, status dot, title, abstract, funder, primary theme |
 | Citation | `components/publication.tsx` | Year column, title link, authors (Brown bolded), source, DOI |
@@ -50,7 +51,7 @@ Gold `#B48D59` on paper is 2.8:1, so it is never used for text there; `gold-ink`
 
 ## Motion
 
-Fade-and-rise on scroll (`[data-reveal]`, 0.8s, editorial ease), underline-grow links, 1px hover translations. All motion is disabled under `prefers-reduced-motion`; content is never hidden without JavaScript (no-js class + 2.5s CSS failsafe).
+Deliberately minimal: underline-grow on links, gentle image zoom on project cards, colour transitions on buttons. No scroll-triggered animation, no counters. All transitions are disabled under `prefers-reduced-motion`.
 
 ## Accessibility
 

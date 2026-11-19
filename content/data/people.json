@@ -1,13 +1,38 @@
 [
-  {
-    "id": "molly-e-brown",
-    "name": "Molly E. Brown",
-    "role": "Principal Investigator",
-    "category": "pi",
-    "affiliation": "Department of Geographical Sciences, University of Maryland",
-    "period": null,
-    "bio": "Research Professor, University of Maryland.",
-    "cvPage": 1,
-    "publish": true
-  }
+  { "id": "molly-e-brown", "name": "Molly E. Brown", "category": "pi", "role": "Principal Investigator", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": null, "cvPage": 1, "publish": true },
+
+  { "id": "walid-ouaret", "name": "Walid Ouaret", "category": "advisee", "role": "Doctoral committee member; advanced to candidacy 2022", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2026", "cvPage": 54, "publish": true },
+  { "id": "elda-bezuayene", "name": "Elda Yitbarek Bezuayene", "category": "advisee", "role": "Doctoral committee co-chair (with Giovanni Baiocchi)", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2026", "cvPage": 54, "publish": true },
+  { "id": "abena-asare-ansah", "name": "Abena Boatemaa Asare-Ansah", "category": "advisee", "role": "Doctoral committee member; advanced to candidacy 2026", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2026", "cvPage": 54, "publish": true },
+
+  { "id": "tavis-mansfield", "name": "Tavis Mansfield", "category": "alumni", "role": "Doctoral committee co-chair (with Meredith Gore); PhD May 2026", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2026", "cvPage": 54, "publish": true },
+  { "id": "matthew-cooper", "name": "Matthew Cooper", "category": "alumni", "role": "Doctoral committee co-chair (with Matt Hansen); PhD 2020", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2020", "cvPage": 55, "publish": true },
+  { "id": "wesley-anderson", "name": "Wesley Anderson", "category": "alumni", "role": "Doctoral defense reviewer", "affiliation": "Earth and Environmental Sciences, Columbia University", "period": "2018", "cvPage": 55, "publish": true },
+  { "id": "nayoung-jo", "name": "Nayoung Jo", "category": "alumni", "role": "Doctoral committee member", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2017", "cvPage": 55, "publish": true },
+  { "id": "jennifer-hinojosa", "name": "Jennifer Hinojosa", "category": "alumni", "role": "Doctoral committee member", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2016", "cvPage": 55, "publish": true },
+  { "id": "nathan-burtch", "name": "Nathan Burtch", "category": "alumni", "role": "Doctoral committee member", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2016", "cvPage": 55, "publish": true },
+  { "id": "timothy-essam", "name": "Timothy Essam", "category": "alumni", "role": "Doctoral research funded for its final three years; PhD 2013", "affiliation": "Agricultural and Resource Economics, University of Maryland", "period": "2011–2013", "cvPage": 56, "publish": true },
+  { "id": "beat-hintermann", "name": "Beat Hintermann", "category": "alumni", "role": "Doctoral student funded to develop an econometric model for the Sahel", "affiliation": "Agricultural and Resource Economics, University of Maryland", "period": "2008", "cvPage": 56, "publish": true },
+  { "id": "nathaniel-higgins", "name": "Nathaniel Higgins", "category": "alumni", "role": "Doctoral student funded to develop an econometric model for the Sahel", "affiliation": "Agricultural and Resource Economics, University of Maryland", "period": "2008", "cvPage": 56, "publish": true },
+
+  { "id": "siobhan-light", "name": "Siobhan Light", "category": "mentee", "role": "Research mentee, ICESat-2 applications (Southeastern Universities Research Association, NASA GSFC)", "affiliation": null, "period": "2025", "cvPage": 55, "publish": true },
+  { "id": "lydia-omeara", "name": "Lydia O'Meara", "category": "mentee", "role": "Doctoral student, mentoring role", "affiliation": "Natural Resources Institute, University of Greenwich", "period": "2021", "cvPage": 55, "publish": true },
+  { "id": "hannah-liddy", "name": "Hannah Liddy", "category": "mentee", "role": "Mentoring role", "affiliation": "Columbia University, Future Earth", "period": "2021", "cvPage": 55, "publish": true },
+  { "id": "fatima-younis", "name": "Fatima Younis", "category": "mentee", "role": "Undergraduate intern", "affiliation": "Political Science, University of Maryland", "period": "2020", "cvPage": 55, "publish": true },
+  { "id": "rachel-hittich", "name": "Rachel Hittich", "category": "mentee", "role": "Master's research funded: value of Carbon Monitoring System forest canopy data for Maryland", "affiliation": "Agricultural Economics, Purdue University", "period": "2015", "cvPage": 55, "publish": true },
+  { "id": "modibo-haidara", "name": "Modibo Haidara", "category": "mentee", "role": "Undergraduate intern", "affiliation": "Department of Geographical Sciences, University of Maryland", "period": "2015", "cvPage": 55, "publish": true },
+  { "id": "alfred-hubbard", "name": "Alfred Hubbard", "category": "mentee", "role": "Undergraduate researcher, Climate Adaptation Science Investigation hydrology project", "affiliation": "University of Virginia", "period": "2014", "cvPage": 56, "publish": true },
+  { "id": "lindsey-wright", "name": "Lindsey Wright", "category": "mentee", "role": "Undergraduate researcher, hydrology and rainfall intensification project at NASA GSFC", "affiliation": "University of Maryland", "period": "2014", "cvPage": 55, "publish": true },
+  { "id": "michael-farhner", "name": "Michael Farhner", "category": "mentee", "role": "Undergraduate researcher, hydrology and rainfall intensification project at NASA GSFC", "affiliation": "University of Maryland", "period": "2014", "cvPage": 55, "publish": true },
+  { "id": "megan-rosenberger", "name": "Megan Rosenberger", "category": "mentee", "role": "Cadet researcher, sea-ice information needs for navigation", "affiliation": "US Coast Guard Academy", "period": "2014", "cvPage": 55, "publish": true },
+  { "id": "noel-stewart", "name": "Noel Stewart", "category": "mentee", "role": "Undergraduate researcher, hydrology and rainfall intensification", "affiliation": "University of Montana", "period": "2013", "cvPage": 56, "publish": true },
+  { "id": "monica-ihli", "name": "Monica Ihli", "category": "mentee", "role": "Undergraduate researcher, semantic analysis of the North American Carbon Program abstract database", "affiliation": "University of Tennessee", "period": "2013", "cvPage": 56, "publish": true },
+  { "id": "platon-lukyanenko", "name": "Platon Lukyanenko", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "Applied Mathematics, University of Maryland", "period": "2013", "cvPage": 56, "publish": true },
+  { "id": "kirk-silver", "name": "Kirk Silver", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "University of Rhode Island", "period": "2012", "cvPage": 56, "publish": true },
+  { "id": "krishnan-rajagopalan", "name": "Krishnan Rajagopalan", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "US Naval Academy", "period": "2012", "cvPage": 56, "publish": true },
+  { "id": "jennifer-thorne", "name": "Jennifer Thorne", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "College of William and Mary", "period": "2011", "cvPage": 56, "publish": true },
+  { "id": "bristol-mann", "name": "Bristol Mann", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "University of St. Louis", "period": "2011", "cvPage": 56, "publish": true },
+  { "id": "prajjwal-panday", "name": "Prajjwal Panday", "category": "mentee", "role": "Doctoral internship", "affiliation": "Clark University", "period": "2010", "cvPage": 56, "publish": true },
+  { "id": "elizabeth-brickley", "name": "Elizabeth Brickley", "category": "mentee", "role": "Undergraduate researcher", "affiliation": "Smith College", "period": "2010", "cvPage": 56, "publish": true },
+  { "id": "dongchul-kim", "name": "Dongchul Kim", "category": "mentee", "role": "Researcher, Atmospheric Sciences at NASA GSFC", "affiliation": "Universities Space Research Association", "period": "2009", "cvPage": 56, "publish": true }
 ]
